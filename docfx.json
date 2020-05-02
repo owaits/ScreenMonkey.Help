@@ -70,11 +70,9 @@
       "_appFooter": "Copyright &copy; 2020 Oliver Waits",
       "_enableSearch": "true",
       "_gitContribute": {
-        "repo": "https://github.com/owaits",
-        "branch": "master",
-        "path": "Docs/apispec"
+            "repo": "https://github.com/owaits/ScreenMonkey.Help",
+            "branch": "dev"
       }
-
     },
     "fileMetadataFiles": [],
     "template": [
