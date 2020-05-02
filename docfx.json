@@ -1,0 +1,90 @@
+{
+  "metadata": [
+    {
+      "src": [
+        {
+          "files": [
+            "**.csproj"
+          ],
+          "src": "D:\\ofilms.visualstudio.com\\Screen Monkey\\ScreenMonkey\\Trunk\\Help\\ClassLibrary1"
+        }
+      ],
+      "dest": "api",
+      "disableGitFeatures": false,
+      "disableDefaultFilter": false
+    }
+  ],
+  "build": {
+    "content": [
+      {
+        "files": [
+          "api/**.yml",
+          "api/index.md"
+        ]
+      },
+      {
+        "files": [
+          "toc.yml",
+          "*.md"
+        ]
+      },
+      {
+        "files": [
+          "start/**.md",
+          "start/**.yml",
+          "faq/**.md",
+          "faq/**.yml",
+          "tutorials/**.md",
+          "tutorials/**.yml",
+          "releases/**.md",
+          "releases/**.yml",
+          "reference/**.md",
+          "reference/**.yml"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**"
+        ]
+      }
+    ],
+    "overwrite": [
+      {
+        "files": [
+          "apidoc/**.md"
+        ],
+        "exclude": [
+          "obj/**",
+          "_site/**"
+        ]
+      }
+    ],
+    "dest": "_site",
+    "globalMetadataFiles": [],
+    "globalMetadata": {
+      "_appTitle": "Screen Monkey",
+      "_appFaviconPath": "favicon.ico",
+      "_appLogoPath": "images/SMLogo.png",
+      "_appFooter": "Copyright &copy; 2020 Oliver Waits",
+      "_enableSearch": "true",
+      "_gitContribute": {
+        "repo": "https://github.com/owaits",
+        "branch": "master",
+        "path": "Docs/apispec"
+      }
+
+    },
+    "fileMetadataFiles": [],
+    "template": [
+      "default"
+    ],
+    "postProcessors": [ "ExtractSearchIndex" ],
+    "markdownEngineName": "markdig",
+    "noLangKeyword": false,
+    "keepFileLink": false,
+    "cleanupCacheHistory": false,
+    "disableGitFeatures": false
+  }
+}

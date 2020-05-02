@@ -1,0 +1,22 @@
+### YamlMime:ManagedReference
+items:
+- uid: ClassLibrary1
+  commentId: N:ClassLibrary1
+  id: ClassLibrary1
+  children:
+  - ClassLibrary1.Class1
+  langs:
+  - csharp
+  - vb
+  name: ClassLibrary1
+  nameWithType: ClassLibrary1
+  fullName: ClassLibrary1
+  type: Namespace
+  assemblies:
+  - ClassLibrary1
+references:
+- uid: ClassLibrary1.Class1
+  commentId: T:ClassLibrary1.Class1
+  name: Class1
+  nameWithType: Class1
+  fullName: ClassLibrary1.Class1

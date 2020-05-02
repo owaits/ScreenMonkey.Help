@@ -1,0 +1,122 @@
+- name: Hotkeys
+  href: Hotkeys.md
+- name: System Requirements
+  href: SystemRequirements.md
+- name: Setup
+  items:
+    - name: Settings
+      items:
+        - name: Settings
+          href: setup/Settings/Settings.md
+        - name: General
+          href: setup/Settings/General.md
+        - name: Display Renderer
+          href: setup/Settings/DisplayRenderer.md
+        - name: ArtNet
+          href: setup/Settings/ArtNet.md
+        - name: CITP
+          href: setup/Settings/CITP.md
+        - name: Network
+          href: setup/Settings/Network.md
+        - name: Mouse and Keyboard
+          href: setup/Settings/MouseAndKeyboard.md
+        - name: MIDI
+          href: setup/Settings/MIDI.md
+        - name: Pro Upgrade
+          href: setup/Settings/ProUpgrade.md
+        - name: Statistics
+          href: setup/Settings/Statistics.md
+    - name: Blackmagic DeckLink
+      href: setup/BlackmagicDeckLink.md
+    - name: Events and Errors
+      href: setup/EventsandErrors.md
+    - name: File Association
+      href: setup/FileAssociation.md
+    - name: Display Profiles
+      href: setup/DisplayProfiles.md
+    - name: DMX Control
+      href: setup/DMXControl.md
+- name: Clip Types
+  items: 
+    - name: Audio Clip
+      href: clipTypes/AudioClip.md
+    - name: Clear Layer Clip
+      href: clipTypes/ClearLayerClip.md
+    - name: Clone Clip
+      href: clipTypes/CloneClip.md
+    - name: Colour Clip
+      href: clipTypes/ColorClip.md
+    - name: Cue List / Space Clip
+      href: clipTypes/CueListSpaceClip.md
+    - name: DVD Clip
+      href: clipTypes/DVDClip.md
+    - name: Effects Generator
+      items:
+        - name: Effects Generator Clip
+          href: clipTypes/EffectsGenerator/EffectsGeneratorClip.md
+        - name: Customizing An Effects Clip
+          href: clipTypes/EffectsGenerator/CustomizingAnEffectsClip.md
+        - name: Creating Custom Effects
+          href: clipTypes/EffectsGenerator/CreatingCustomEffects.md
+        - name: Scripting Language Reference
+          href: clipTypes/EffectsGenerator/ScriptingLanguageReference.md
+    - name: Flash Clip
+      href: clipTypes/FlashClip.md
+    - name: Freeze Clip
+      href: clipTypes/FreezeClip.md
+    - name: Image Clip
+      href: clipTypes/ImageClip.md
+    - name: Live Audio Clip
+      href: clipTypes/LiveAudioClip.md
+    - name: Live Stream
+      href: clipTypes/LiveStream.md
+    - name: Live Video Clip
+      href: clipTypes/LiveVideoClip.md
+    - name: Live Video Snapshot Clip
+      href: clipTypes/LiveVideoSnapshotClip.md
+    - name: PowerPoint Clip
+      href: clipTypes/PowerPointClip.md
+    - name: Screen Saver Clip
+      href: clipTypes/ScreenSaverClip.md
+    - name: Scribble Clip
+      href: clipTypes/ScribbleClip.md
+    - name: Song Clip
+      items: 
+      - name: Song Clip
+        href: clipTypes/Song/SongClip.md
+      - name: Creating Song Clip
+        href: clipTypes/Song/CreatingSongClips.md
+      - name: Searching for Songs
+        href: clipTypes/Song/SearchingForSongs.md
+      - name: Working with Labels
+        href: clipTypes/Song/WorkingWithLabels.md
+      - name: Configuring the Appearance
+        href: clipTypes/Song/ConfiguringTheAppearance.md
+    - name: Space Clip/Cue List
+      href: clipTypes/CueListSpaceClip.md
+    - name: Test Card Clip
+      href: clipTypes/TestCardClip.md
+    - name: Text Clip
+      items:
+      - name: Text Clip
+        href: clipTypes/Text/TextClip.md
+      - name: Creating Text Clips
+        href: clipTypes/Text/CreatingTextClips.md    
+    - name: Ticker Tape Clip
+      href: clipTypes/TickerTapeClip.md
+    - name: Video Clip
+      href: clipTypes/VideoClip.md
+    - name: Web Browser Clip
+      href: clipTypes/WebBrowserClip.md
+- name: Macros
+  items:
+  - name: Macros
+    href: macros/Macros.md
+  - name: Interaction Macro
+    href: macros/InteractionMacro.md
+  - name: RS232 Macro
+    href: macros/RS232Macro.md
+  - name: Shell Macro
+    href: macros/ShellMacro.md
+  - name: TCP Macro
+    href: macros/TCPMacro.md
