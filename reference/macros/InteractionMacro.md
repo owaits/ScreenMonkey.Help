@@ -9,6 +9,6 @@ This could be handy if you wanted a big Go button or you want more direct access
 
 You will now see a full list of actions within Screen Monkey from which  you can select the action you want.
 
-![](../../images/Dashboard-Interaction.PNG)
-
 The macro will then be added to the clip slot and your chosen action will be performed every time you run the macro. Where interaction macros become really powerful is that they can be scheduled or linked to other clips.
+
+![](../../images/Dashboard-Interaction.PNG)
