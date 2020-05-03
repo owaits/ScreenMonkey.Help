@@ -2,7 +2,7 @@
 
 ## Loading a Clip
 
-Drag the file from Windows Explorer and drop it onto one of the empty panels or click on an empty panel and choose a clip type.
+Drag a media or image or PowerPoint file from Windows Explorer and drop it onto one of the empty panels. Alternatively left click on any empty panel and choose a clip type.
 
 ![](../images/Dashboard-EmptySlot.PNG)
 
