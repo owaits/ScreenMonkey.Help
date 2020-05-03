@@ -34,7 +34,7 @@ All keyboard shotcuts can be modified in settings.
 |Ctrl + O|Open Show|
 |Ctrl + S|Save Show|
 |Ctrl + Shift + S|Save As Show|
-|Alt +  S|Package Show|
+|Ctrl + Alt + S|Package Show|
     
 ### 2. Dashboard
 
@@ -43,7 +43,9 @@ All keyboard shotcuts can be modified in settings.
 |F1|Clears all layers|
 |Right arrow|Next slide|
 |Left arrow|Previous slide|
-|Home|Goto first page|
+|Page up|Goto next dashboard page|
+|Page down|Goto previous dashboard page|
+|Home|Goto dashboard page 1|
 |Ctrl + H|Hides Screen Monkey dashboard|
 |Ctrl + P|Play mode|
 |Ctrl + E|Edit mode|
