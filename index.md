@@ -7,6 +7,6 @@ If Screen Monkey did not exist, you would likely see lots of fumbling around as 
 
 Screen Monkey allows you to easily manage all this and more in order to provide a seamless and professional presentation. Playing videos, music, songwords, PowerPoint, live video content or other elements becomes as simple as clicking the mouse.
 
-![Quick Reference Guide](reference/QuickReference.md)
+![Quick Reference Guide](/reference/QuickReference.md)
 
-![Quick Start Guide](start/QuickStart.md)
+![Quick Start Guide](/start/QuickStart.md)
