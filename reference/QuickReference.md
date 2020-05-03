@@ -29,25 +29,45 @@ Running the Show
 Useful Hotkeys
 --------------
 
-1.  Running the Show
+All keyboard shotcuts can be modified in settings.
+
+1.  Show
+
+|Key|Action                                                 |
+|---|-------------------------------------------------------|
+|Ctrl + N|New Show                                          |
+|Ctrl + O|Open Show|
+|Ctrl + S|Save Show|
+|Ctrl + Shift + S|Save As Show|
+|Alt +  S|Package Show|
+    
+2. Dashboard
+
+|Key|Action                                                 |
+|---|-------------------------------------------------------|
+|F1|Clears all layers|
+|Right arrow|Next slide|
+|Left arrow|Previous slide|
+|Home|Goto first page|
+|Ctrl + H|Hides Screen Monkey dashboard|
+|Ctrl + P|Play mode|
+|Ctrl + E|Edit mode|
+|Ctrl + L|Link edit mode|
+|Ctrl + T|Trigger edit mode|
+
+3.  Current Page
     
 |Key|Action                                                 |
 |---|-------------------------------------------------------|
-|F1|Clears all clips and turns off any output to the screen.|
 |F2|Plays the clip in Panel 1|
 |F3|Plays the clip in Panel 2|
 |F4|Plays the clip in Panel 3|
 |F5|Plays the clip in Panel 4|
 |F6|Plays the clip in Panel 5|
 |F7|Plays the clip in Panel 6|
-|F8|Plays the clip in Panel 1 on the next page|
-|F9|Plays the clip in Panel 2 on the next page|
-|F10|Plays the clip in Panel 3 on the next page|
-|F11|Plays the clip in Panel 4 on the next page|
-|F12|Plays the clip in Panel 5 on the next page|
+|F8|Plays the clip in Panel 7|
+|F9|Plays the clip in Panel 8|
+|F10|Plays the clip in Panel 9|
+|F11|Plays the clip in Panel 10|
+|F12|Plays the clip in Panel 11|
 
-2.  Program Control
-    
-|Key|Action                                                 |
-|---|-------------------------------------------------------|
-|Ctrl + H|Hides the Screen Monkey Control Window|
