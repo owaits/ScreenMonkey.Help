@@ -13,4 +13,4 @@
  Monkey installer again.</p>
 <p>&#160;</p>
 <h2>Operating Systems</h2>
-<p>Microsoft Windows XP, Windows Vista, Windows 7.</p>
+<p>Microsoft Windows XP, Windows Vista, Windows 7, Windows 10.</p>
