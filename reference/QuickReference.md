@@ -4,7 +4,7 @@
 
 Drag the file from Windows Explorer and drop it onto one of the empty panels or click on an empty panel and choose a clip type.
 
-![](../images/dashboard-empty.png)
+![](../images/Dashboard-EmptySlot.PNG)
 
 You can change the name, add effects, cue in/out points, add transitions, add scheddule and edit links by right clicking on the panel..
 
@@ -12,13 +12,13 @@ You can change the name, add effects, cue in/out points, add transitions, add sc
 
 1.  Click the desired clip using the mouse and its border will turn purple to indicate it is live.  
       
-    ![](../images/Dashbaord-PowerPointSlot.png)  
+    ![](../images/Dashboard-PowerPointSlot.PNG)  
     
 2.  To play another clip, click to select that clip.
     
 3.  To clear the active clip, click 'Clear Layer' in the top left of the dashboard.  
       
-    ![](../images/Dashbaord-ClearLayer1.png)
+    ![](../images/Dashboard-ClearLayer1.PNG)
     
 4.  To advance a PowerPoint slide click on the clip panel using the mouse or use the left and right arrow keys.
 
