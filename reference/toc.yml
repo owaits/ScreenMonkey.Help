@@ -1,7 +1,5 @@
 - name: Quick Reference
   href: QuickReference.md
-- name: Hotkeys
-  href: Hotkeys.md
 - name: System Requirements
   href: SystemRequirements.md
 - name: Setup
@@ -10,6 +8,8 @@
       items:
         - name: Settings
           href: setup/Settings/Settings.md
+        - name: Hotkeys
+          href: Hotkeys.md
         - name: General
           href: setup/Settings/General.md
         - name: Display Renderer
