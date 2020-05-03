@@ -116,6 +116,10 @@
   items:
   - name: Macros
     href: macros/Macros.md
+  - name: ATEM Production Switcher
+    href: macros/atem.md
+  - name: Blackmagic VideoHub
+    href: macros/videohub.md
   - name: HTTP
     href: macros/http.md
   - name: Interactions
