@@ -4,11 +4,11 @@
 - name: Tutorials
   href: tutorials/
 
-- name: FAQ
-  href: faq/
-
 - name: Reference
   href: reference/
+
+- name: FAQ
+  href: faq/
 
 - name: Releases
   href: releases/
