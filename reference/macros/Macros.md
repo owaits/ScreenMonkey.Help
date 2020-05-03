@@ -11,4 +11,4 @@ Select the macro you want to create and a custom dialog for that macro type will
 
 Once you have created the macro you can rename, play, link and schedule it just as any normal clip. The only difference is that it will not take control of the layer and will stop once the macro has completed. Most macros will have a purple outline while they are active.
 
-![](../../images/Dashboard-Macro-PJLink.PNG)
+![](../../images/Dashboard-Macro-PJLink.png)
