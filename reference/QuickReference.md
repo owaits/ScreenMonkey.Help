@@ -1,8 +1,6 @@
-Quick Reference
-===============
+#Quick Reference
 
-Loading a Clip
---------------
+##Loading a Clip
 
 Drag the file from Windows Explorer and drop it onto one of the empty panels or click on an empty panel.
 
@@ -10,8 +8,7 @@ Drag the file from Windows Explorer and drop it onto one of the empty panels or 
 
 You can set the name, and effect from the drop down menu.
 
-Running the Show
-----------------
+##Running the Show
 
 1.  Click the desired clip using the mouse and its border will turn yellow to indicate it is being presented.  
       
@@ -26,12 +23,11 @@ Running the Show
 4.  To advance a PowerPoint slide click on the clip panel using the mouse or use the left and right arrow keys.
     
 
-Useful Hotkeys
---------------
+##Useful Hotkeys
 
 All keyboard shotcuts can be modified in settings.
 
-1.  Show
+###1.  Show
 
 |Key|Action                                                 |
 |---|-------------------------------------------------------|
@@ -41,7 +37,7 @@ All keyboard shotcuts can be modified in settings.
 |Ctrl + Shift + S|Save As Show|
 |Alt +  S|Package Show|
     
-2. Dashboard
+###2. Dashboard
 
 |Key|Action                                                 |
 |---|-------------------------------------------------------|
@@ -55,7 +51,7 @@ All keyboard shotcuts can be modified in settings.
 |Ctrl + L|Link edit mode|
 |Ctrl + T|Trigger edit mode|
 
-3.  Current Page
+###3. Current Page
     
 |Key|Action                                                 |
 |---|-------------------------------------------------------|
