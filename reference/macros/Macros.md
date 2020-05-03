@@ -5,7 +5,7 @@ Macros can be used to extend Screen Monkey to control a wide range of external d
 
 To add a macro, click on an empty clip slot to bring up the Create Clip dialog. Now click "Choose Macro" to display the list of macros available.
 
-![](../../images/macros.PNG)
+![](../../images/Macros.PNG)
 
 Select the macro you want to create and a custom dialog for that macro type will appear allowing you to configure the macro. See the help pages for each macro type for more details.
 
