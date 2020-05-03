@@ -18,7 +18,7 @@ You can set the name, and effect from the drop down menu.
     
 3.  To clear the active clip, click to select the Clear Panel.  
       
-    ![](../img_172.jpg)
+    ![](../images/img_172.jpg)
     
 4.  To advance a PowerPoint slide click on the clip panel using the mouse or use the left and right arrow keys.
 
