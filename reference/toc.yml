@@ -2,7 +2,7 @@
   href: QuickReference.md
 - name: System Requirements
   href: SystemRequirements.md
-- name: Setup
+- name: Application
   items:
     - name: Settings
       items:
@@ -38,6 +38,8 @@
       href: setup/DisplayProfiles.md
     - name: DMX Control
       href: setup/DMXControl.md
+    - name: Command Line Parameters
+      href: CommandLineArguments.md
 - name: Clip Types
   items: 
     - name: Audio Clip
