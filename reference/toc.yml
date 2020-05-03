@@ -116,11 +116,25 @@
   items:
   - name: Macros
     href: macros/Macros.md
-  - name: Interaction Macro
+  - name: HTTP
+    href: macros/http.md
+  - name: Interactions
     href: macros/InteractionMacro.md
-  - name: RS232 Macro
+  - name: LightwaveRF
+    href: macros/lightwave.md
+  - name: MIDI
+    href: macros/midi.md
+  - name: MIDI Show Control
+    href: macros/midiShowControl.md
+  - name: PJ Link
+    href: macros/pjlink.md
+  - name: Raven
+    href: macros/raven.md
+  - name: RS232
     href: macros/RS232Macro.md
-  - name: Shell Macro
+  - name: Shell Execute
     href: macros/ShellMacro.md
-  - name: TCP Macro
+  - name: TCP
     href: macros/TCPMacro.md
+  - name: Triton Routing Switcher
+    href: macros/tritonRouting.md
