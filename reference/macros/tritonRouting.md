@@ -1,4 +1,4 @@
-# Triton Routing
+# Triton Routing Switcher
 
 The Triton/Network VikinX/GrassValley RS232 control protocol enables the remote control of video and audio routing switchers (also known as matrices). The protocol allows for both setting and getting crosspoints so Screen Monkey will always show the current state of the routes, regardless of how the routes are made.
 
@@ -16,6 +16,8 @@ For each route you want to make (source > destination) a new clip is required. T
 
 ### Labels
 It’s usually a good idea to rename the Triton control clips to have more meaningful names. For example instead of `In1 -> Out1` you could use `Cam1 Preview`.
+
+![](../../images/dashboard-macro-triton.png)
 
 ## Revertives
 The crosspoint status of the router is communicated to Screen Monkey. Any route which is active will be highlighted in purple. These will update if routes are changed on the hardware buttons or in another control system.

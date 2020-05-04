@@ -1,4 +1,4 @@
-# TCP Macro
+# TCP
 
 <p>The TCP macro allows you to communicate with devices using Transmission 
  Control Protocol (TCP).</p>

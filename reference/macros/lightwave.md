@@ -1,2 +1,2 @@
-# Lightwave RF
+# LightwaveRF
 
