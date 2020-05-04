@@ -1,5 +1,7 @@
 # RS232
 
+![](../../images/seriallogo.gif)
+
 <p>You add a macro by clicking on an empty slot and selecting &quot;Choose 
  Macro...&quot; you then double click on the RS232 macro.</p>
 <p class="hcp2"><img alt="" src="../../images/img_9.jpg" border="0" class="hcp3"></p>

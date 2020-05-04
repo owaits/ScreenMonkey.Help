@@ -1,5 +1,7 @@
 # Interactions
 
+![](../../images/interaction.png)
+
 The Interaction macro allows you to add internal Screen Monkey controls to dashboard clip slots.
 
 This could be handy if you wanted a big ‘Go’ button or you want more direct access to some hidden controls. 
