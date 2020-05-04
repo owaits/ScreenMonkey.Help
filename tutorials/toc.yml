@@ -1,5 +1,3 @@
-- name: "Get More Help"
-  href: GetMoreHelp.md
 - name: Work with Clips
   items:
     - name: Main Window
