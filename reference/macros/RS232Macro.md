@@ -4,7 +4,7 @@
 
 <p>You add a macro by clicking on an empty slot and selecting &quot;Choose 
  Macro...&quot; you then double click on the RS232 macro.</p>
-<p class="hcp2"><img alt="" src="../../images/img_9.jpg" border="0" class="hcp3"></p>
+
 <p>You now need to create a new device which specifies the settings for 
  talking to the RS232 compatible device. Please refer to the documentation 
  of the device for details on what these settings should be.</p>
