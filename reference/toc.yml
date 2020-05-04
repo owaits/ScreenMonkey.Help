@@ -42,19 +42,21 @@
       href: CommandLineArguments.md
 - name: Clip Types
   items: 
-    - name: Audio Clip
+    - name: Audio
       href: clipTypes/AudioClip.md
-    - name: Clear Layer Clip
+    - name: Autocue
+      href: clipTypes/autocue.md
+    - name: Clear Layer
       href: clipTypes/ClearLayerClip.md
-    - name: Clone Clip
+    - name: Clone
       href: clipTypes/CloneClip.md
-    - name: Colour Clip
+    - name: Colour
       href: clipTypes/ColorClip.md
-    - name: Cue List / Space Clip
+    - name: Cue List / Space
       href: clipTypes/CueListSpaceClip.md
-    - name: DVD Clip
+    - name: DVD
       href: clipTypes/DVDClip.md
-    - name: Effects Generator
+    - name: Effect Generator
       items:
         - name: Effects Generator Clip
           href: clipTypes/EffectsGenerator/EffectsGeneratorClip.md
@@ -64,27 +66,39 @@
           href: clipTypes/EffectsGenerator/CreatingCustomEffects.md
         - name: Scripting Language Reference
           href: clipTypes/EffectsGenerator/ScriptingLanguageReference.md
-    - name: Flash Clip
+    - name: ESV Passage
+      href: clipTypes/esv.md
+    - name: Flash
       href: clipTypes/FlashClip.md
-    - name: Freeze Clip
+    - name: Folder Search
+      href: clipTypes/folderSearch.md
+    - name: Freeze
       href: clipTypes/FreezeClip.md
-    - name: Image Clip
+    - name: Image
       href: clipTypes/ImageClip.md
-    - name: Live Audio Clip
+    - name: Live Audio
       href: clipTypes/LiveAudioClip.md
     - name: Live Stream
       href: clipTypes/LiveStream.md
-    - name: Live Video Clip
+    - name: Live Video
       href: clipTypes/LiveVideoClip.md
-    - name: Live Video Snapshot Clip
+    - name: Live Video Snapshot
       href: clipTypes/LiveVideoSnapshotClip.md
-    - name: PowerPoint Clip
+    - name: NDI
+      href: clipTypes/ndi.md
+    - name: Planning Center
+      href: clipTypes/planningCenter.md
+    - name: Playlist
+      href: clipTypes/playlist.md
+    - name: Power Point
       href: clipTypes/PowerPointClip.md
-    - name: Screen Saver Clip
+    - name: Raven Clip
+      href: clipTypes/raven.md
+    - name: Screen Saver
       href: clipTypes/ScreenSaverClip.md
-    - name: Scribble Clip
+    - name: Scribble
       href: clipTypes/ScribbleClip.md
-    - name: Song Clip
+    - name: Song
       items: 
       - name: Song Clip
         href: clipTypes/Song/SongClip.md
@@ -96,22 +110,24 @@
         href: clipTypes/Song/WorkingWithLabels.md
       - name: Configuring the Appearance
         href: clipTypes/Song/ConfiguringTheAppearance.md
-    - name: Space Clip/Cue List
-      href: clipTypes/CueListSpaceClip.md
-    - name: Test Card Clip
+    - name: Test Card
       href: clipTypes/TestCardClip.md
-    - name: Text Clip
+    - name: Text
       items:
       - name: Text Clip
         href: clipTypes/Text/TextClip.md
       - name: Creating Text Clips
         href: clipTypes/Text/CreatingTextClips.md    
-    - name: Ticker Tape Clip
+    - name: Ticker Tape
       href: clipTypes/TickerTapeClip.md
-    - name: Video Clip
+    - name: Video
       href: clipTypes/VideoClip.md
-    - name: Web Browser Clip
+    - name: Vimeo
+      href: clipTypes/vimeo.md
+    - name: Web Browser
       href: clipTypes/WebBrowserClip.md
+    - name: YouTube
+      href: clipTypes/youtube.md
 - name: Macros
   items:
   - name: Macros
