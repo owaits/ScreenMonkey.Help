@@ -1,9 +1,7 @@
-- name: System Requirements
-  href: SystemRequirements.md
 - name: Application
   items:
     - name: Main window
-      href: main.md
+      href: mainWindow.md
     - name: Toolbar
       items:
         - name: Open
@@ -192,5 +190,9 @@
     href: macros/TCPMacro.md
   - name: Triton Routing Switcher
     href: macros/tritonRouting.md
+- name: System Requirements
+  href: SystemRequirements.md
 - name: Keyboard Shortcuts
   href: keyboardShortcuts.md
+- name: Glossary
+  href: Glossary.md
