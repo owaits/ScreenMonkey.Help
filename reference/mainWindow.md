@@ -220,28 +220,3 @@
  of Screen Monkey, where you want them.</p>
 <p class="rvps2" style="margin-left: 24px;"><img alt="" src="../../images/img_191.jpg" width="619" height="458" border="0" class="hcp4"></p>
 <p class="rvps2" style="margin-left: 24px;">&#160;</p>
-<h2>Saving Window Layout</h2>
-<p>To make it easy to switch between different layouts or restore a previous 
- layout that was saved you can save your window positions to a view. It 
- is then simple to restore those layouts with one button press.</p>
-<p>All your different layouts are managed from the view menu. Either open 
- this from the icon on the dashboard or from the View menu that you get 
- when right-clicking.</p>
-<p class="hcp3"><img alt="" src="../../images/img_192.jpg" border="0" class="hcp4"></p>
-<p>To save a view, arrange the windows in the positions you want, then 
- click <span class="hcp5">Views / Window Layout</span> and 
- choose <span class="hcp5">Customize</span>. </p>
-<p>The <span class="hcp5">Manage Views</span> dialog opens.</p>
-<p class="hcp3"><img alt="" src="../../images/img_193.jpg" width="341" height="266" border="0" class="hcp4"></p>
-<p>The view manager allows you to add or remove saved views. To save the 
- current view click <span class="hcp5">New</span> and enter 
- the name you want to give to the view.</p>
-<p>To delete a view just check the views to delete and select <span class="hcp5">Delete</span>.</p>
-<p>Once you have finished click <span class="hcp5">OK</span>.</p>
-<p>&#160;</p>
-<h2>Restore Window Layout</h2>
-<p>You restore a Window layout by selecting the desired view from the view 
- menu (or the icon on the dashboard). All the windows should move to the 
- position at the point when you saved the view.</p>
-<p class="hcp3"><img alt="" src="../../images/img_194.jpg" width="441" height="272" border="0" class="hcp4"></p>
-
