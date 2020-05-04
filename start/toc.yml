@@ -1,10 +1,8 @@
 - name: "Getting Started"
   href: gettingStarted.md
-- name: Quick Start
-  href: QuickStart.md
-- name: "Using For A Church Service"
+- name: "Using for a Church Service"
   href: UsingForAChurchService.md
-- name: "Using For A Concert"
+- name: "Using for a Concert"
   href: UsingForAConcert.md
-- name: "Using For A Conference"
+- name: "Using for a Conference"
   href: UsingForAConference.md
