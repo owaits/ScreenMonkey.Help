@@ -1,5 +1,5 @@
-<h1><img alt="" src="../../images/img_13.png" style="margin-top: 1px; margin-left: 1px; 
-		 margin-right: 1px; margin-bottom: -5px;" border="0"> TCP Macro</h1>
+# TCP Macro
+
 <p>The TCP macro allows you to communicate with devices using Transmission 
  Control Protocol (TCP).</p>
 <p><img alt="" src="../../images/img_13.jpg" border="0" class="hcp2"></p>

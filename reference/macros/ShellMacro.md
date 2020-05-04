@@ -1,5 +1,5 @@
-<h1><img alt="" src="../../images/img_44.png" style="margin-top: 1px; margin-left: 1px; 
-		 margin-right: 1px; margin-bottom: -5px;" border="0"> Shell Macro</h1>
+# Shell Macro
+
 <p>The shell macro allows you to run windows shell commands from within 
  Screen Monkey. </p>
 <p>When you click on the macro the command line script will be run.</p>

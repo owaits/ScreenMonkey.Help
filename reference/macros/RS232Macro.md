@@ -1,5 +1,5 @@
-<h1><img alt="" src="../../images/img_9.png" style="margin-top: 1px; margin-left: 1px; 
-		 margin-right: 1px; margin-bottom: -5px;" border="0"> RS232 Macro</h1>
+# RS232
+
 <p>You add a macro by clicking on an empty slot and selecting &quot;Choose 
  Macro...&quot; you then double click on the RS232 macro.</p>
 <p class="hcp2"><img alt="" src="../../images/img_9.jpg" border="0" class="hcp3"></p>

@@ -1,5 +1,4 @@
-Interaction
-===========
+# Interaction
 
 The Interaction Macro allows you to add internal Screen Monkey controls to dashboard clip slots.
 
