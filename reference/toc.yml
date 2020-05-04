@@ -2,34 +2,38 @@
   items:
     - name: Main window
       href: mainWindow.md
+    - name: Layers
+      href: layers.md
+    - name: Organizing clips
+      href: organizing.md
     - name: Toolbar
       items:
         - name: Open
-          href: open.md
+          href: toolbar/open.md  
         - name: Save
-          href: save.md
+          href: toolbar/save.md
         - name: Live
-          href: live.md
+          href: toolbar/live.md
         - name: Edit
-          href: edit.md
+          href: toolbar/edit.md
         - name: Link
-          href: link.md
+          href: toolbar/link.md
         - name: Trigger
-          href: trigger.md
+          href: toolbar/trigger.md
         - name: Layers
-          href: layers.md
+          href: toolbar/layers.md
         - name: Preview
-          href: preview.md
+          href: toolbar/preview.md
         - name: Display
-          href: DisplayProfiles.md
+          href: toolbar/display.md
         - name: Schedule
-          href: schedule.md
+          href: toolbar/schedule.md
         - name: Notes
-          href: notes.md
+          href: toolbar/notes.md
         - name: Cue
-          href: cue.md
+          href: toolbar/cue.md
         - name: Window
-          href: window.md
+          href: toolbar/window.md
     - name: Events and Errors
       href: setup/EventsandErrors.md
     - name: File Association
@@ -72,6 +76,24 @@
           href: setup/Settings/Statistics.md
         - name: TCP Terminal
           href: setup/Settings/tcpTerminal.md
+- name: Clip Settings
+  items:
+    - name: Clip Settings
+      href: clipSettings/clipSettings.md
+    - name: Rename
+    - name: Notes
+    - name: Edit / Cue
+    - name: Transition
+    - name: Effects
+    - name: Link
+    - name: Layer
+    - name: Schedule
+    - name: Clear
+    - name: Remove
+    - name: Export Clip Template
+    - name: Cut
+    - name: Copy
+    - name: Paste
 - name: Clip Types
   items: 
     - name: Audio
