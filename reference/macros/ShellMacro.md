@@ -1,15 +1,9 @@
-# Shell Macro
+# Shell
 
-The shell macro allows you to run windows shell commands from within Screen Monkey.
+The shell macro allows you to run Windows shell commands from within Screen Monkey.
 
 When you click on the macro the command line script will be run.
 
-<p class="hcp2"><img alt="" src="../../images/img_44.jpg" border="0" class="hcp3"></p>
-
-To create a shell macro, select the <span style="font-weight: bold;">Shell 
- Execute</span> macro when adding a new clip. This will open the command 
- editor where you can type standard windows commands. Each line will be 
- executed as a separate command allowing you to write scripts with multiple 
- commands.</p>
+To create a shell macro, select ‘Shell Execute’ when adding a new macro clip. This will open the command editor where you can type standard Windows commands. Each line will be executed as a separate command allowing you to write scripts with multiple commands.
  
-<p class="hcp2"><img alt="" src="../../images/img_45.jpg" border="0" class="hcp3"></p>
+![](../../images/img_45.jpg)
