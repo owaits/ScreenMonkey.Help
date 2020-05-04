@@ -1,4 +1,6 @@
 - name: "Getting Started"
+  href: gettingStarted.md
+- name: Quick Start
   href: QuickStart.md
 - name: "Using For A Church Service"
   href: UsingForAChurchService.md

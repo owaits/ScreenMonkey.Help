@@ -1,45 +1,79 @@
-- name: Quick Reference
-  href: QuickReference.md
 - name: System Requirements
   href: SystemRequirements.md
 - name: Application
   items:
-    - name: Settings
+    - name: Main window
+      href: main.md
+    - name: Toolbar
       items:
-        - name: Settings
-          href: setup/Settings/Settings.md
-        - name: Hotkeys
-          href: Hotkeys.md
-        - name: General
-          href: setup/Settings/General.md
-        - name: Display Renderer
-          href: setup/Settings/DisplayRenderer.md
-        - name: ArtNet
-          href: setup/Settings/ArtNet.md
-        - name: CITP
-          href: setup/Settings/CITP.md
-        - name: Network
-          href: setup/Settings/Network.md
-        - name: Mouse and Keyboard
-          href: setup/Settings/MouseAndKeyboard.md
-        - name: MIDI
-          href: setup/Settings/MIDI.md
-        - name: Pro Upgrade
-          href: setup/Settings/ProUpgrade.md
-        - name: Statistics
-          href: setup/Settings/Statistics.md
-    - name: Blackmagic DeckLink
-      href: setup/BlackmagicDeckLink.md
+        - name: Open
+          href: open.md
+        - name: Save
+          href: save.md
+        - name: Live
+          href: live.md
+        - name: Edit
+          href: edit.md
+        - name: Link
+          href: link.md
+        - name: Trigger
+          href: trigger.md
+        - name: Layers
+          href: layers.md
+        - name: Preview
+          href: preview.md
+        - name: Display
+          href: DisplayProfiles.md
+        - name: Schedule
+          href: schedule.md
+        - name: Notes
+          href: notes.md
+        - name: Cue
+          href: cue.md
+        - name: Window
+          href: window.md
     - name: Events and Errors
       href: setup/EventsandErrors.md
     - name: File Association
       href: setup/FileAssociation.md
-    - name: Display Profiles
-      href: setup/DisplayProfiles.md
-    - name: DMX Control
-      href: setup/DMXControl.md
     - name: Command Line Parameters
       href: CommandLineArguments.md
+    - name: Settings
+      items:
+        - name: Settings
+          href: setup/Settings/Settings.md
+        - name: General
+          href: setup/Settings/General.md
+        - name: Display Renderer
+          href: setup/Settings/DisplayRenderer.md
+        - name: Schedule Sync
+          href: setup/Settings/scheduleSync.md
+        - name: ACN
+          href: setup/Settings/acn.md
+        - name: ArtNet
+          href: setup/Settings/ArtNet.md
+        - name: ATEM
+          href: setup/Settings/atem.md
+        - name: CITP
+          href: setup/Settings/CITP.md
+        - name: Network
+          href: setup/Settings/Network.md
+        - name: XKeys
+          href: setup/Settings/xkeys.md
+        - name: AltertGrid
+          href: setup/Settings/alertGrid.md
+        - name: Mouse and Keyboard
+          href: setup/Settings/MouseAndKeyboard.md
+        - name: MIDI
+          href: setup/Settings/MIDI.md
+        - name: Notices
+          href: setup/Settings/notices.md
+        - name: Pro Upgrade
+          href: setup/Settings/ProUpgrade.md
+        - name: Statistics
+          href: setup/Settings/Statistics.md
+        - name: TCP Terminal
+          href: setup/Settings/tcpTerminal.md
 - name: Clip Types
   items: 
     - name: Audio
@@ -158,3 +192,5 @@
     href: macros/TCPMacro.md
   - name: Triton Routing Switcher
     href: macros/tritonRouting.md
+- name: Keyboard Shortcuts
+  href: keyboardShortcuts.md
