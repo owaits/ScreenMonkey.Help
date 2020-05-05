@@ -1,4 +1,7 @@
-<h1>Live Monitor</h1>
+# Preview
+
+![](../../images/toolbar.png)
+
 <p><span class="rvts10">When you enable the Live Monitor, the Dashboard 
  initially gains several additional tabs.</span></p>
 <p class="hcp2"><span class="rvts10"><img src="../../images/LiveMonitorTabs.png" alt="" border="0" class="hcp3"></span></p>

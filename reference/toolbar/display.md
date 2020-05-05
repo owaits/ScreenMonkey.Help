@@ -1,4 +1,7 @@
-<h1>Display Profiles</h1>
+# Display
+
+![](../../images/toolbar.png)
+
 <p>Display profiles allow you to quickly and easily choose display style 
  for the main screen that suits you. You can either choose from one of 
  the pre-defined profiles or create your own. Each profile defines the 

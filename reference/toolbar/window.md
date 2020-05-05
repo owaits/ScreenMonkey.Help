@@ -1,5 +1,7 @@
 # Window
 
+![](../../images/toolbar.png)
+
 ## Live Playback
 
 ## List Playback

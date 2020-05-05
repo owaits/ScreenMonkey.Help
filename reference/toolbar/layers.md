@@ -1,4 +1,7 @@
-<h1>Layers Dashboard</h1>
+# Layers
+
+![](../../images/toolbar.png)
+
 <p class="rvps2"><span class="rvts10">The layers dashboard provides control 
  over the layers during playback. It allows you to manipulate things in 
  a variety of ways.</span></p>

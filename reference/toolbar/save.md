@@ -1,4 +1,13 @@
-<h1>How do I save a Show?</h1>
+# Save
+
+![](../../images/toolbar.png)
+
+There are 3 sub menu items
+
+## Save
+## Save As
+## Package
+
 <p>Screen Monkey is similar to PowerPoint in that the collection of Clips 
  is referred to as a &quot;Show&quot;. Just as PowerPoint allows you to 
  save a Slide Show you have created, Screen Monkey also allows you to save 
