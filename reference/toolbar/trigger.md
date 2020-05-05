@@ -1,4 +1,3 @@
-# Trigger
-
 ![](../../images/toolbar.png)
+# Trigger
 

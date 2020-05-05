@@ -1,4 +1,3 @@
-# Schedule
-
 ![](../../images/toolbar.png)
+# Schedule
 

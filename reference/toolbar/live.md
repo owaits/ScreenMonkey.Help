@@ -1,4 +1,3 @@
-# Live
-
 ![](../../images/toolbar.png)
+# Live
 

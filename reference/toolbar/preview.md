@@ -1,6 +1,5 @@
-# Preview
-
 ![](../../images/toolbar.png)
+# Preview
 
 <p><span class="rvts10">When you enable the Live Monitor, the Dashboard 
  initially gains several additional tabs.</span></p>

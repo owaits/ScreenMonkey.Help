@@ -1,6 +1,5 @@
-# Open
-
 ![](../../images/toolbar.png)
+# Open
 
 There are 4 sub items to this button which are described below. These items are also available by right clicking anywhere in the dashboard and choosing the ‘File’ menu item.
 

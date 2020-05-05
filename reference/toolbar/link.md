@@ -1,4 +1,3 @@
-# Link
-
 ![](../../images/toolbar.png)
+# Link
 

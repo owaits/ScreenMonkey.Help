@@ -1,6 +1,5 @@
-# Display
-
 ![](../../images/toolbar.png)
+# Display
 
 <p>Display profiles allow you to quickly and easily choose display style 
  for the main screen that suits you. You can either choose from one of 
