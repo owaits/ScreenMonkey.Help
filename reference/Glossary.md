@@ -50,7 +50,7 @@
  so that the full 16x9 fits on the 4x3 screen. When letterboxing occurs, 
  you normally see black bars appearing on the screen above and below the 
  video content.</p>
-<p class="hcp3"><img src="images/Letterboxed.png" alt="" border="0" class="hcp4"></p>
+<p class="hcp3"><img src="../images/Letterboxed.png" alt="" border="0" class="hcp4"></p>
 <h2><a name="LowerThird"></a>Lower Third</h2>
 <p>When you see television news reports and an interview occurs, you often 
  see what is called a &quot;Lower Third&quot; that presents the title and 
