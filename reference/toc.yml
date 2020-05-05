@@ -81,19 +81,33 @@
     - name: Clip Settings
       href: clipSettings/clipSettings.md
     - name: Rename
+      href: clipSettings/rename.md
     - name: Notes
+      href: clipSettings/notes.md
     - name: Edit / Cue
+      href: clipSettings/editCue.md
     - name: Transition
+      href: clipSettings/transition.md
     - name: Effects
+      href: clipSettings/effects.md
     - name: Link
+      href: clipSettings/link.md
     - name: Layer
+      href: clipSettings/layer.md
     - name: Schedule
+      href: clipSettings/schedule.md
     - name: Clear
+      href: clipSettings/clear.md
     - name: Remove
+      href: clipSettings/remove.md
     - name: Export Clip Template
+      href: clipSettings/exportClipTemplate.md
     - name: Cut
+      href: clipSettings/cutCopyPaste.md
     - name: Copy
+      href: clipSettings/cutCopyPaste.md
     - name: Paste
+      href: clipSettings/cutCopyPaste.md
 - name: Clip Types
   items: 
     - name: Audio
