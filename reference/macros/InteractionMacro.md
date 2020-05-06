@@ -1,6 +1,5 @@
-# Interactions
-
 ![](../../images/interaction.png)
+# Interactions
 
 The Interaction macro allows you to add internal Screen Monkey controls to dashboard clip slots.
 

@@ -1,6 +1,5 @@
-# RS232
-
 ![](../../images/seriallogo.gif)
+# RS232
 
 Screen Monkey can control external equipment using a serial RS232 interface. Many professional presentation and AV devices such as projectors, display screens, media players, etc can be controlled in this way. Before using this macro you will need a Com (Serial) port on the computer running Screen Monkey and a data cable to connect your computer to the device to be controlled.
 

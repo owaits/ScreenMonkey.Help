@@ -1,5 +1,4 @@
-Macros
-======
+# Macros
 
 Macros can be used to extend Screen Monkey to control a wide range of external devices and software. You may simply create a macro to shut down your computer or use a [PJLink](pjlink.md) marco to turn on a projector on your network. Whatever you want to do macros give you the potential to control other devices from within Screen Monkey. A macro behaves as any clip and so can be renamed, linked, scheduled and run in the same manner as a normal clip.
 

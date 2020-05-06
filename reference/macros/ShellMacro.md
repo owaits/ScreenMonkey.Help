@@ -1,6 +1,5 @@
-# Shell Execute
-
 ![](../../images/shell.png)
+# Shell Execute
 
 The shell macro allows you to run Windows shell commands from within Screen Monkey.
 

@@ -1,6 +1,5 @@
-# PJLink
-
 ![](../../images/pjlink.png)
+# PJLink
 
 [PJLink](https://pjlink.jbmia.or.jp/english/) is a protocol for controlling projectors over ethernet. It is supported by a number of manufacturers including Panasonic and Hitachi. Not all projectors have an ethernet port or PJLink support, check the specification or manual for your projector before attempting to control it.
 

@@ -1,3 +1,4 @@
+![](../../images/network-purple.png)
 # HTTP
 
-![](../../images/network-purple.png)
+

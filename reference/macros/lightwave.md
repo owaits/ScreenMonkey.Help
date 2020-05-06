@@ -1,3 +1,3 @@
+![](../../images/lightwaverf.png)
 # LightwaveRF
 
-![](../../images/lightwaverf.png)
