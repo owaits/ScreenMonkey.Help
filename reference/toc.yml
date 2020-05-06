@@ -186,8 +186,19 @@
       items:
       - name: Text Clip
         href: clipTypes/Text/TextClip.md
-      - name: Creating Text Clips
-        href: clipTypes/Text/CreatingTextClips.md    
+      - name: Text Clip Formatting
+        href: clipTypes/Text/CreatingTextClips.md
+      - name: Text
+      - name: Live Text
+      - name: Image
+      - name: Countdown
+      - name: Countdown Clock
+      - name: Stopwatch
+      - name: Schedule
+      - name: Text File
+      - name: Date/Time
+      - name: Notice Pages
+      - name: Notice List
     - name: Ticker Tape
       href: clipTypes/TickerTapeClip.md
     - name: Video
