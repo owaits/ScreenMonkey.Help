@@ -2,80 +2,80 @@
   items:
     - name: Main window
       href: mainWindow.md
-    - name: Layers
+    - name: Understanding Layers
       href: layers.md
     - name: Organizing clips
       href: organizing.md
-    - name: Toolbar
-      items:
-        - name: Open
-          href: toolbar/open.md  
-        - name: Save
-          href: toolbar/save.md
-        - name: Live
-          href: toolbar/live.md
-        - name: Edit
-          href: toolbar/edit.md
-        - name: Link
-          href: toolbar/link.md
-        - name: Trigger
-          href: toolbar/trigger.md
-        - name: Layers
-          href: toolbar/layers.md
-        - name: Preview
-          href: toolbar/preview.md
-        - name: Display
-          href: toolbar/display.md
-        - name: Schedule
-          href: toolbar/schedule.md
-        - name: Notes
-          href: toolbar/notes.md
-        - name: Cue
-          href: toolbar/cue.md
-        - name: Window
-          href: toolbar/window.md
+- name: Toolbar
+  items:
+    - name: Open
+      href: toolbar/open.md  
+    - name: Save
+      href: toolbar/save.md
+    - name: Live
+      href: toolbar/live.md
+    - name: Edit
+      href: toolbar/edit.md
+    - name: Link
+      href: toolbar/link.md
+    - name: Trigger
+      href: toolbar/trigger.md
+    - name: Layers
+      href: toolbar/layers.md
+    - name: Preview
+      href: toolbar/preview.md
+    - name: Display
+      href: toolbar/display.md
+    - name: Schedule
+      href: toolbar/schedule.md
+    - name: Notes
+      href: toolbar/notes.md
+    - name: Cue
+      href: toolbar/cue.md
+    - name: Window
+      href: toolbar/window.md
     - name: Events and Errors
       href: setup/EventsandErrors.md
     - name: File Association
       href: setup/FileAssociation.md
     - name: Command Line Parameters
       href: CommandLineArguments.md
+- name: Settings
+  items:
     - name: Settings
-      items:
-        - name: Settings
-          href: setup/Settings/Settings.md
-        - name: General
-          href: setup/Settings/General.md
-        - name: Display Renderer
-          href: setup/Settings/DisplayRenderer.md
-        - name: Schedule Sync
-          href: setup/Settings/scheduleSync.md
-        - name: ACN
-          href: setup/Settings/acn.md
-        - name: ArtNet
-          href: setup/Settings/ArtNet.md
-        - name: ATEM
-          href: setup/Settings/atem.md
-        - name: CITP
-          href: setup/Settings/CITP.md
-        - name: Network
-          href: setup/Settings/Network.md
-        - name: XKeys
-          href: setup/Settings/xkeys.md
-        - name: AltertGrid
-          href: setup/Settings/alertGrid.md
-        - name: Mouse and Keyboard
-          href: setup/Settings/MouseAndKeyboard.md
-        - name: MIDI
-          href: setup/Settings/MIDI.md
-        - name: Notices
-          href: setup/Settings/notices.md
-        - name: Pro Upgrade
-          href: setup/Settings/ProUpgrade.md
-        - name: Statistics
-          href: setup/Settings/Statistics.md
-        - name: TCP Terminal
-          href: setup/Settings/tcpTerminal.md
+      href: setup/Settings/Settings.md
+    - name: General
+      href: setup/Settings/General.md
+    - name: Display Renderer
+      href: setup/Settings/DisplayRenderer.md
+    - name: Schedule Sync
+      href: setup/Settings/scheduleSync.md
+    - name: ACN
+      href: setup/Settings/acn.md
+    - name: ArtNet
+      href: setup/Settings/ArtNet.md
+    - name: ATEM
+      href: setup/Settings/atem.md
+    - name: CITP
+      href: setup/Settings/CITP.md
+    - name: Network
+      href: setup/Settings/Network.md
+    - name: XKeys
+      href: setup/Settings/xkeys.md
+    - name: AltertGrid
+      href: setup/Settings/alertGrid.md
+    - name: Mouse and Keyboard
+      href: setup/Settings/MouseAndKeyboard.md
+    - name: MIDI
+      href: setup/Settings/MIDI.md
+    - name: Notices
+      href: setup/Settings/notices.md
+    - name: Pro Upgrade
+      href: setup/Settings/ProUpgrade.md
+    - name: Statistics
+      href: setup/Settings/Statistics.md
+    - name: TCP Terminal
+      href: setup/Settings/tcpTerminal.md
 - name: Clip Settings
   items:
     - name: Clip Settings
