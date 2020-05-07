@@ -1,5 +1,5 @@
 # Renaming Clips
-Every clip has a name to identify it from other clips. This name is displayed underneath the the clip in the dashboard. This can be [disabled in settings](../Settings/General.md) if you prefer. Clip names are also used when creating links and schedules.
+Every clip has a name to identify it from other clips. This name is displayed underneath the clip in the dashboard. This can be [disabled in settings](../Settings/General.md) if you prefer. Clip names are also used when creating links and schedules.
 
 When you create a clip the name is set automatically using either the filename or an appropriate description. It is often helpful to change this name.
 
@@ -15,5 +15,4 @@ The thumbnail is either generated from the media (for video, image and text base
 
 *Tip:* If you create your thumbnails with a coloured border as shown above you can quickly identify different clip actions. For example, if you are controlling a [video router with macros](../macros/videohub.md) use a blue border for routing to a preview monitor and red border for routing to the main transmission output. 
 
-## Notes
-- It is possible to have more than one clip with the same name. Internally Screen Monkey will treat them as separate clips. This is useful if you wish to see the ‘same’ clip on more than one page.
+*Note:* It is possible to have more than one clip with the same name. Internally Screen Monkey will treat them as separate clips. This is useful if you wish to see the ‘same’ clip on more than one page.

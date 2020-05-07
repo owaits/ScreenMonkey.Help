@@ -22,7 +22,7 @@ Using this effect you can adjust the colour of a clip when it is presented on th
 
 ![](../../images/clip-effects-colour.png)  
 
-Here are some examples or adding and subtracting red from a clip.
+Here are some examples for adding and subtracting red from a clip.
 
 |-|-|
 |Normal|![](../../images/img_35.jpg)|
