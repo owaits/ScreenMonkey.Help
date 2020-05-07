@@ -4,10 +4,10 @@ The dashboard is where all your clips will live. To keep things organised there 
 
 There are a number of tools which will help you keep everything organised.
 
-- [Rename](clipSettings/rename.md) a clip
+- [Rename](clipSettings/rename.md) a clip and change the icon
 - [Move](toolbar/edit.md) a clip
 - [Clear](clipSettings/clear.md) clips (an empty slot is left behind) 
 - [Remove](clipSettings/remove.md) clips (the gap is closed and subsequent clips shuffle up)
-- [Cut](clipSettings/cut.md)/[Copy](clipSettings/copy.md)/[Paste](clipSettings/paste.md) to move clips between pages
-- [Page bookmarks](mainWindow.md)
+- [Cut/Copy/Paste](clipSettings/cutCopyPaste.md) to duplicate or clip or move clips between pages
+- [Page bookmarks](pages.md)
 - [Add Notes](clipSettings/notes.md) and [View Notes](toolbar/notes.md)
