@@ -1,6 +1,4 @@
-<h1><img src="../../images/ClipTemplateIcon.png" alt="" style="border: none; margin-left: 0px; 
-		 margin-right: 0px; margin-top: 0px; margin-bottom: -6px;" border="0"> 
- Clip Templates</h1>
+<h1>Clip Templates</h1>
 <h2>What a Clip Template does</h2>
 <p><span class="rvts6">The Clip Template feature allows you to export any 
  existing clip to be used as a template when creating new clips. The template 
@@ -78,7 +76,3 @@
 		Documents and Settings\UserName\My Documents\Screen Monkey\Templates</span></td>
 	</tr>
 </table>
-<p>&#160;</p>
-<h2 class="rvps3">Enhancement History</h2>
-<p><a href="../../releases/Version_3_7.md#ClipTemplates">Version 3.7 
- - January 2012: Clip Templates added and announced</a></p>
