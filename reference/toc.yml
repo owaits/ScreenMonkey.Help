@@ -11,7 +11,7 @@
     - name: Organizing clips
       href: organizing.md
     - name: Events and Errors
-      href: setup/EventsandErrors.md
+      href: EventsandErrors.md
 
 - name: Toolbar
   items:
