@@ -244,10 +244,10 @@
 - name: System Requirements
   href: SystemRequirements.md
 - name: Keyboard Shortcuts
-  href: keyboardShortcuts.md
+  href: advanced/keyboardShortcuts.md
 - name: File Association
-  href: setup/FileAssociation.md
+  href: advanced/FileAssociation.md
 - name: Command Line Parameters
-  href: CommandLineArguments.md
+  href: advanced/CommandLineArguments.md
 - name: Glossary
   href: Glossary.md
