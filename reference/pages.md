@@ -1,4 +1,5 @@
-<h1>Organizing Clips</h1>
+Pages
+
 <p>As you begin working with Screen Monkey, adding clips and playing Shows, 
  you will likely find that you need simpler ways to work.</p>
 <p>When you add Clips to the Main Dashboard, you add them to slots. The 
