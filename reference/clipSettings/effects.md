@@ -24,6 +24,7 @@ Using this effect you can adjust the colour of a clip when it is presented on th
 
 Here are some examples for adding and subtracting red from a clip.
 
+|Effect|Example|
 |-|-|
 |Normal|![](../../images/img_35.jpg)|
 |Subtract Blue and Green|![](../../images/img_37.jpg)|
@@ -36,6 +37,7 @@ Once the effect has been added to the clip adjust the brightness and contrast us
 
 Here are some examples of the effect applied to a clip.
 
+|Effect|Example|
 |-|-|
 |Normal|![](../../images/img_39.jpg)|
 |Increased Brightness|![](../../images/img_40.jpg)|
