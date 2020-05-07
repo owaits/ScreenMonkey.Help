@@ -1,9 +1,13 @@
-- name: Application
+- name: Application Overview
   items:
     - name: Main window
       href: mainWindow.md
-    - name: Understanding Layers
+    - name: Understanding layers
       href: layers.md
+    - name: Adding clips
+      href: CreatingClips.md
+    - name: Using pages
+      href: pages.md
     - name: Organizing clips
       href: organizing.md
 - name: Toolbar
@@ -40,42 +44,6 @@
       href: setup/FileAssociation.md
     - name: Command Line Parameters
       href: CommandLineArguments.md
-- name: Settings
-  items:
-    - name: Settings
-      href: setup/Settings/Settings.md
-    - name: General
-      href: setup/Settings/General.md
-    - name: Display Renderer
-      href: setup/Settings/DisplayRenderer.md
-    - name: Schedule Sync
-      href: setup/Settings/scheduleSync.md
-    - name: ACN
-      href: setup/Settings/acn.md
-    - name: ArtNet
-      href: setup/Settings/ArtNet.md
-    - name: ATEM
-      href: setup/Settings/atem.md
-    - name: CITP
-      href: setup/Settings/CITP.md
-    - name: Network
-      href: setup/Settings/Network.md
-    - name: XKeys
-      href: setup/Settings/xkeys.md
-    - name: AltertGrid
-      href: setup/Settings/alertGrid.md
-    - name: Mouse and Keyboard
-      href: setup/Settings/MouseAndKeyboard.md
-    - name: MIDI
-      href: setup/Settings/MIDI.md
-    - name: Notices
-      href: setup/Settings/notices.md
-    - name: Pro Upgrade
-      href: setup/Settings/ProUpgrade.md
-    - name: Statistics
-      href: setup/Settings/Statistics.md
-    - name: TCP Terminal
-      href: setup/Settings/tcpTerminal.md
 - name: Clip Settings
   items:
     - name: Clip Settings
@@ -239,6 +207,42 @@
     href: macros/TCPMacro.md
   - name: Triton Routing Switcher
     href: macros/tritonRouting.md
+- name: Settings
+  items:
+    - name: Settings
+      href: setup/Settings/Settings.md
+    - name: General
+      href: setup/Settings/General.md
+    - name: Display Renderer
+      href: setup/Settings/DisplayRenderer.md
+    - name: Schedule Sync
+      href: setup/Settings/scheduleSync.md
+    - name: ACN
+      href: setup/Settings/acn.md
+    - name: ArtNet
+      href: setup/Settings/ArtNet.md
+    - name: ATEM
+      href: setup/Settings/atem.md
+    - name: CITP
+      href: setup/Settings/CITP.md
+    - name: Network
+      href: setup/Settings/Network.md
+    - name: XKeys
+      href: setup/Settings/xkeys.md
+    - name: AltertGrid
+      href: setup/Settings/alertGrid.md
+    - name: Mouse and Keyboard
+      href: setup/Settings/MouseAndKeyboard.md
+    - name: MIDI
+      href: setup/Settings/MIDI.md
+    - name: Notices
+      href: setup/Settings/notices.md
+    - name: Pro Upgrade
+      href: setup/Settings/ProUpgrade.md
+    - name: Statistics
+      href: setup/Settings/Statistics.md
+    - name: TCP Terminal
+      href: setup/Settings/tcpTerminal.md
 - name: System Requirements
   href: SystemRequirements.md
 - name: Keyboard Shortcuts
