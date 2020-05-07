@@ -10,6 +10,9 @@
       href: pages.md
     - name: Organizing clips
       href: organizing.md
+    - name: Events and Errors
+      href: setup/EventsandErrors.md
+
 - name: Toolbar
   items:
     - name: Open
@@ -38,12 +41,6 @@
       href: toolbar/cue.md
     - name: Window
       href: toolbar/window.md
-    - name: Events and Errors
-      href: setup/EventsandErrors.md
-    - name: File Association
-      href: setup/FileAssociation.md
-    - name: Command Line Parameters
-      href: CommandLineArguments.md
 - name: Clip Settings
   items:
     - name: Clip Settings
@@ -210,42 +207,47 @@
 - name: Settings
   items:
     - name: Settings
-      href: setup/Settings/Settings.md
+      href: Settings/Settings.md
     - name: General
-      href: setup/Settings/General.md
+      href: Settings/General.md
     - name: Display Renderer
-      href: setup/Settings/DisplayRenderer.md
+      href: Settings/DisplayRenderer.md
     - name: Schedule Sync
-      href: setup/Settings/scheduleSync.md
+      href: Settings/scheduleSync.md
     - name: ACN
-      href: setup/Settings/acn.md
+      href: Settings/acn.md
     - name: ArtNet
-      href: setup/Settings/ArtNet.md
+      href: Settings/ArtNet.md
     - name: ATEM
-      href: setup/Settings/atem.md
+      href: Settings/atem.md
     - name: CITP
-      href: setup/Settings/CITP.md
+      href: Settings/CITP.md
     - name: Network
-      href: setup/Settings/Network.md
+      href: Settings/Network.md
     - name: XKeys
-      href: setup/Settings/xkeys.md
+      href: Settings/xkeys.md
     - name: AltertGrid
-      href: setup/Settings/alertGrid.md
+      href: Settings/alertGrid.md
     - name: Mouse and Keyboard
-      href: setup/Settings/MouseAndKeyboard.md
+      href: Settings/MouseAndKeyboard.md
     - name: MIDI
-      href: setup/Settings/MIDI.md
+      href: Settings/MIDI.md
     - name: Notices
-      href: setup/Settings/notices.md
+      href: Settings/notices.md
     - name: Pro Upgrade
-      href: setup/Settings/ProUpgrade.md
+      href: Settings/ProUpgrade.md
     - name: Statistics
-      href: setup/Settings/Statistics.md
+      href: Settings/Statistics.md
     - name: TCP Terminal
-      href: setup/Settings/tcpTerminal.md
+      href: Settings/tcpTerminal.md
+      
 - name: System Requirements
   href: SystemRequirements.md
 - name: Keyboard Shortcuts
   href: keyboardShortcuts.md
+- name: File Association
+  href: setup/FileAssociation.md
+- name: Command Line Parameters
+  href: CommandLineArguments.md
 - name: Glossary
   href: Glossary.md
