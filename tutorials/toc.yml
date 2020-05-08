@@ -1,7 +1,6 @@
 - name: Work with Clips
   items:
     - name: Main Window
-      href: WorkingWithClips/MainWindow.md
     - name: Create Clips
       href: WorkingWithClips/CreatingClips.md
     - name: Creating and using Lower Thirds
