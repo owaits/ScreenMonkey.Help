@@ -7,7 +7,7 @@
 <p class="rvps2"><span class="rvts10">You may advance to the next clip 
  in a sequence, Clear all layers, Fade all layers out or in at the same 
  time or fade individual layers out or in as desired.</span></p>
-<p class="rvps3" style="margin-left: 24px;"><img alt="" src="../../images/LayersDashboard.png" border="0" class="hcp2"></p>
+<p class="rvps3" style="margin-left: 24px;"><img alt="" src="../../images/layers-dashboard.png" border="0" class="hcp2"></p>
 <table style="margin-left: 24px; border-collapse: separate; border-collapse: separate;" 
 		 cellspacing="0" border="1">
 	<col>
