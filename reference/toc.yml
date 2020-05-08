@@ -45,6 +45,10 @@
   items:
     - name: Clip Settings
       href: clipSettings/clipSettings.md
+    - name: Playback Settings
+      href: clipSettings/playbackSettings.md
+    - name: Template
+      href: clipSettings/template.md
     - name: Rename
       href: clipSettings/rename.md
     - name: Notes
