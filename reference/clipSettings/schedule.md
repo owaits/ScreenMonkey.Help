@@ -4,7 +4,7 @@ Screen Monkey allows you to configure pre-determined dates and times for clips t
 
 Advanced users can [import a complete schedule](../Settings/scheduleSync.md) for multiple clips including titles and descriptions from a JSON API service.
 
-*Note:* Screen Monkey needs to be running for the schedule to work. Configuring a schedule for clips does not configure a timer in the PC that will start Screen Monkey and present the clip. If Screen Monkey has been closed then the schedule has no meaning. If the scheduled time has been passed, Screen Monkey will not re-schedule or remind you that a schedule was missed.
+*Note:* Screen Monkey needs to be running for the schedule to work. Configuring a schedule for clips does not configure a timer in the computer that will start Screen Monkey and present the clip. If Screen Monkey has been closed then the schedule has no meaning. If the scheduled time has been passed Screen Monkey will not re-schedule or remind you that a schedule was missed.
 
 ## Schedule a clip to play
 Right-click the clip and choose Schedule. The Schedule view dialog is shown.

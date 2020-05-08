@@ -25,6 +25,8 @@ Select the template you wish to use, click OK. Then select the media that you wi
 ## Notes
 - If the template was saved from an Audio clip the new media dialog filters to show only audio files to make the selection. Likewise, if the template was saved from an Image clip, the dialog filters to only images.
 
+- Templates can be used to copy a complex clip setup between shows as they are saved completely independently from the show file.
+
 - If you later make changes to the Clip Template any existing clips are not affected. If you want the attributes applied to existing clips, you must apply them separately.
 
 - There is no limit to the number of clips that can be created from a template		

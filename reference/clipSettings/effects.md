@@ -18,9 +18,9 @@ A clip can support multiple effects so you may add more than one effect to a cli
 When you play the clip your selected effects will be applied to the clip. 
 
 ## Colour Correction Effect  
-Using this effect you can adjust the colour of a clip when it is presented on the screen. Add the effect and then use the color adjustment controls to change the look of the clip. The color can either be adjusted by adding or subtracting color.
+Using this effect you can adjust the colour of a clip when it is presented on the screen. Add the effect and then use the colour adjustment controls to change the look of the clip. The colour can be adjusted by adding or subtracting colour.
 
-![](../../images/clip-effects-colour.png)  
+![](../../images/clip-effects-colour.png)
 
 Here are some examples for adding and subtracting red from a clip.
 
@@ -30,7 +30,7 @@ Here are some examples for adding and subtracting red from a clip.
 |Subtract Blue and Green|![](../../images/img_37.jpg)|
 |Add Red|![](../../images/img_36.jpg)|
 
-## Brightness and Contrast Effect  
+## Brightness and Contrast Effect  
 Once the effect has been added to the clip adjust the brightness and contrast using the sliders. A reset button allows you to return to the default settings. 
 
 ![](../../images/clip-effects-brightness.png)

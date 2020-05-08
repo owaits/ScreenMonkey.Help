@@ -4,7 +4,7 @@ Every clip has a name to identify it from other clips. This name is displayed un
 When you create a clip the name is set automatically using either the filename or an appropriate description. It is often helpful to change this name.
 
 ## Changing the Clip Name
-To change the clip name place the mouse over the clip you wish to rename and click the right mouse button to bring up the popup menu. From the menu select ‘Rename’. This will bring up a dialog in which you can type in a new clip name. Click OK to change the name.
+To change the clip name place the mouse over the clip you wish to rename and click the right mouse button to bring up the popup menu. From the menu select ‘Rename’. This will bring up a dialog in which you can type in a new clip name. Click OK or press Enter to change the name.
 
 ![](../../images/clip-rename.png)
 

@@ -10,11 +10,11 @@ Clip linking is a three step process:
 
 - First you choose the clip you’re linking *from*
 - Then decide *when* the link action will occur
-- Next you choose which clip you are linking *to*.
+- Next you choose which clip you are linking *to*
 
 A clip can be linked *from* and linked *to* multiple times. There are no limits on the number of links you can create.
 
-To quickly create a single link use the link menu. For managing multiple links use the [link editor](#link-editor). 
+To quickly create a single link use the link menu. For managing multiple links use the [link viewer](#link-viewer). 
 
 ## Link Menu
 To link a clip using the menu right-click the *from* clip to display the context menu and select Link > and then choose the type of link you wish to create from the sub-menu. The destination is set to ‘Next’ automatically but can be changed later.
@@ -47,7 +47,7 @@ When you are creating a link, the default behavior is for Screen Monkey to try a
 
 ![](../../images/link-select-clip.png)
 
-There are two clips shown in the image above that require explanation. These are the Clear Layer clips named “Clear Layer 3” etc. You may link to these clips to clear the indicated layer. This is very handy if you want something to appear, then disappear when it has finished.
+The Clear Layer clips named “Clear Layer 3” etc. are used to clear the indicated layer. This is very handy if you want something to appear, then disappear when it has finished.
 
 ## Link Viewer
 For more advanced use cases the Link Viewer is required. This allows you to view, add, edit and delete multiple links on a single clip. To open the Link Viewer right click on a clip and then click on ‘Link’ in the menu. The dialog will open showing all existing links.
@@ -66,9 +66,9 @@ The Link Editor is opened from the Link Viewer and allows you to add or edit lin
 In the Link Editor the Timer has an additional option available: ‘Wait for clip to end when time is reached’. If this option is ticked the Timer action will wait until the clip has played to the end. This is only relevant to video and audio clips.
 
 ## Link Icons
-If a clip has a link assigned a link icon is shown in the top left of the dashboard clip thumbnail.
+If a clip has a link assigned a small chain-link icon is shown in the top left of the dashboard clip thumbnail.
 
 ![](../../images/dashboard-clips-linked.png)
 
 ## Link Edit Mode
-Creating links on several clips individually can be tedious. You can quickly create or change multiple links in [link multi-edit mode](../toolbar/link.md) which is enabled from the toolbar. 
+Creating links on many clips individually can be tedious. You can quickly create or change multiple links in [link multi-edit mode](../toolbar/link.md) which is enabled from the toolbar. 

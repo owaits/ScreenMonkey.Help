@@ -4,7 +4,7 @@ Transitions allow you to choose how clips appear on the output. If no transition
 By using the transition settings you can choose many other options which can make your show more professional and engaging. By configuring a fade transition a clip might gently fade into view as opposed to immediately appearing.
 
 ## Selecting a Transition Effect
-There are many transition effects to choose from and different parameters which specify how the effect behaves. The default transition is ‘No Effect’ which means the clip will simply appear on the screen.
+There are many transition effects to choose from and different parameters which specify how the effect behaves. The default transition is ‘No Effect’ which means the clip will immediately appear on the screen.
 
 To change the transition of a clip right-click the clip in the Screen Monkey dashboard to display the popup menu and select ‘Transition’. This will present the transition settings dialog as shown below.
 
@@ -21,7 +21,7 @@ To change the transition of a clip right-click the clip in the Screen Monkey das
 
 If you want a cross dissolve effect where one clip fades out and a second clip simultaneously fades in then apply the ‘Fade’ transition to *both* clips.
 
-## Settings 
+## Playback Settings 
 First choose an effect from the list on the left and then enter a transition time which is the time taken for the transition to complete. To change the time take one of the following actions.
 
 - Type a new speed value into the field
