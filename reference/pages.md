@@ -68,13 +68,3 @@ Pages
  to exactly the Clips you need when you need them. You now use familiar 
  names instead of memorizing page numbers.</p>
 <p class="hcp2"><img src="../../images/PageExample6.png" alt="" border="0" class="hcp3"></p>
-<p class="hcp5">&#160;</p>
-<h2>Space Clips</h2>
-<p class="hcp5">Another tool you may wish to use for organizing 
- things is a Space Clip. </p>
-<p class="hcp5"><a href="../../reference/clipTypes/CueListSpaceClip.md">Click 
- here</a> to learn more about Space Clips.</p>
-<p class="hcp5">&#160;</p>
-<h2 class="rvps3">Enhancement History</h2>
-<p><a href="../../releases/Version_3_7.md#ClearPageBookmarksOnNewShow">Version 
- 3.7 - October 2011: Clear Page Bookmarks on New Show</a></p>
