@@ -63,6 +63,8 @@ The Link Editor is opened from the Link Viewer and allows you to add or edit lin
 
 ![](../../images/link-editor.png)
 
+In the Link Editor the Timer has an additional option available: ‘Wait for clip to end when time is reached’. If this option is ticked the Timer action will wait until the clip has played to the end. This is only relevant to video and audio clips.
+
 ## Link Icons
 If a clip has a link assigned a link icon is shown in the top left of the dashboard clip thumbnail.
 
