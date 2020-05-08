@@ -58,14 +58,14 @@ For more advanced use cases the Link Viewer is required. This allows you to view
 - To edit a link select it and then press the ‘Edit’ button
 - To remove a link select it and press the ‘Delete’ button
 
-## Link Editor
+## Link Editor
 The Link Editor is opened from the Link Viewer and allows you to add or edit links. In this dialog all link types are shown on the left and the link parameters are on the right. The Link Editor allows you to change the type of link, the target clip and any additional settings for each link, for example the duration of a timed link.
 
 ![](../../images/link-editor.png)
 
 In the Link Editor the Timer has an additional option available: ‘Wait for clip to end when time is reached’. If this option is ticked the Timer action will wait until the clip has played to the end. This is only relevant to video and audio clips.
 
-## Link Icons
+## Link Icons
 If a clip has a link assigned a link icon is shown in the top left of the dashboard clip thumbnail.
 
 ![](../../images/dashboard-clips-linked.png)
