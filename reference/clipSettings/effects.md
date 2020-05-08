@@ -47,5 +47,6 @@ Here are some examples of the effect applied to a clip.
 The effect settings can be modified while the clip is live to help you get the correct levels. 
 
 Open the Effects dialog for the clip then click to select an effect
+
 - To edit the effect press the ‘Edit’ button and then adjust the parameters and you will see the changes on the output
 - To remove an effect first select the effect and then use the ‘Delete’ button.

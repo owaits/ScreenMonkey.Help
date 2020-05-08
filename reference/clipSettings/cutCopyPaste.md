@@ -6,7 +6,7 @@ Screen Monkey behaves like a standard Windows application and supports cut, copy
 Remove a clip and place it in the clipboard.
 
 ## Copy
-Place the clip in the clipboard.
+Place the clip into the clipboard.
 
 ## Paste
 Create a new clip from the clipboard. Paste must be used on an empty dashboard slot.

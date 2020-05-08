@@ -27,7 +27,7 @@ The following link types can be used. You can add as many types as you need in a
 |Link Type|Description|
 |-|-|
 |Off|No link is set.|
-|Manual|This clip will link to the next clip when the ‘Go’ key is pressed. By default the ‘Go’ key is the spacebar. This may be reassigned in the [Screen Monkey settings](../../Reference/Settings/Settings.md).|
+|Manual|This clip will link to the next clip when the ‘Go’ button or key is pressed. By default the ‘Go’ key is the spacebar.|
 |At Start|The linked clip will begin playing at the same time as the current clip. This link type is only valid for links to clips that play on other layers.|
 |At End|The linked clip will begin playing when the current clip finishes. This type is only applicable to clips which have a duration, such as audio or video clips. On a clip such as an image this option will be disabled as an image clip has no end.|
 |Loop|The current clip will begin playing again when it finishes. This is the equivalent of linking the clip to itself. This type is only applicable to clips which have a duration, such as video. On a clip such as an image, this option will be disabled as an image clip has no end.|
