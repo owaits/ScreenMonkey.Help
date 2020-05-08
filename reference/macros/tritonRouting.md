@@ -15,7 +15,7 @@ For each route you want to make (source > destination) a new clip is required. T
 
 ![](../../images/macro-triton.png)
 
-### Labels
+## Labels
 It’s usually a good idea to rename the Triton control clips to have more meaningful names. For example instead of `In1 -> Out1` you could use `Cam1 Preview`.
 
 ![](../../images/dashboard-macro-triton.png)
