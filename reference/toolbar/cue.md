@@ -5,4 +5,4 @@ Clicking ‘Cue’ will enter cue mode. All clips on the dashboard will flash wi
 
 Click on ‘Cue’ again to exit cue mode.
 
-*Note, A few clip types have no edit / cue settings.*
+*Note*, A few clip types have no edit / cue settings.
