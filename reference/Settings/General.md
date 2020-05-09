@@ -215,3 +215,7 @@
 <h2><a name="Events_and_Errors"></a>Events and Errors</h2>
 <p>See the <a class="rvts15" href="../EventsAndErrors.md">Events &amp; 
  Errors</a> topic for more information.</p>
+
+
+## Autosave
+Additionally, Screen Monkey has an ‘Auto Save’ feature that is enabled by default. The default increment is every 5 minutes, but you are able to change this to suit your taste in [General Settings](../Settings/General.md). Choices vary from Never to 1 Hour.
