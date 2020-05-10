@@ -13,4 +13,4 @@ Answers to some common issues and questions.
 ![](../images/ffdshow.png)
 
 ## PowerPoint playback
-- Check that you have a compatible version installed on your computer.
+- Check that you have a compatible version installed on your computer. PowerPoint version 2013 or later is required.
