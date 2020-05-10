@@ -14,3 +14,15 @@
 <p>&#160;</p>
 <h2>Operating Systems</h2>
 <p>Microsoft Windows XP, Windows Vista, Windows 7, Windows 10.</p>
+
+
+
+Suggested minimum PC specification when playing video.
+
+Intel i5 or Equivalent
+GPU Score above 800
+Dual Monitor Output
+Windows 10
+.Net Framework 4.5 or newer
+FFDShow Installed (Ideally through k-lite codec pack)
+Microsoft Office 2013 (when using Power Point clips)
