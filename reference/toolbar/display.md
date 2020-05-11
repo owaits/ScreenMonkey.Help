@@ -44,8 +44,7 @@ If you want to create your own profile you can do this in the profiles editor. J
 Either change the settings from the properties list on the left hand side or use the mouse to drag and resize the layers on the screen view. As you select each layer the properties will update to show the selected layer.
 
 ## Layer Settings
-
-Each of the layers has the following settings you may configure.
+Each of the layers has the following settings you may configure. Note that these settings are applied in realtime so its easy to get the layout you require but they should not normally be adjusted live during a show.
 
 1. **Name** allows you to enter a name for the layer which will appear in the left hand panel of the main window
 1. **AspectRatio** determines how content which does not fit the layer dimensions is resized to fit. When set to maintain the media will be resized but the aspect ratio will be maintained and you may get black borders at the sides or along the top. When set to stretch the media will be stretched to fit the layer.
