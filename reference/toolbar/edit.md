@@ -12,27 +12,27 @@ The toolbar icon background changes to purple to indicate edit mode and the clip
 ## Selecting Clips
 Clicking on a clip in edit mode does not have the normal action of playing that clip. Any clips you have selected will be highlighted in blue. You may select clips in a number of ways.
 
-### Click
-- Left click on a clip
+1. **Click** - Left click on a clip
 
-### Lassoo
-- Click on the first clip a whilst keeping the mouse button pressed draw a box over all the clips you want to select. Then release the mouse button.
+2. **Lasso** - Click on the first clip and whilst keeping the mouse button pressed draw a box over all the clips you want to select. Then release the mouse button.
+![](../../images/edit-lasso.png)
 
-![](../../images/img_258.jpg)
+3. **Click with Shift** - Click to select the first clip, press and hold Shift, then click to select the last clip. All clips in between will be selected.
 
-### Click with keyboard options
-- Use standard Windows functionality to select the first clip, press and hold Shift, then click to select the last clip.
+4. **Click with Control** - Click to select the first clip. Hold Control (Ctrl) and click on any other clips you wish to select. These clips can be located anywhere on the page.
 
-![](../../images/img_259.png)
+## De-Selecting Clips
+Left clicking on a blue (selected) clip will remove it from the selection.
+ 
+## Editing Multiple Clips
+When you right-click the selection menu will only include items that apply to multiple clips.
 
+![](../../images/edit-mode-menu.png)
 
-
-When you right-click the selection you will notice that you are presented with a different popup menu.
-
-Once you have finished in edit mode, click on the pencil icon or press Ctrl+E to exit.
+## Removing clips
+To quickly remove clips first select them using any of the methods above and then press the keyboard Delete or Backspace key.
 
 ## Moving Clips
+When in edit mode you can move clips by selecting them and dragging them to a new position. You must first click the clip(s) to select, then click again to begin the click and drag process. You can drop the clip(s) on any empty space or on top of an existing clip. In this case the clips are simply reordered, nothing is removed.
 
-When in multi-edit mode you can move clips by selecting them and dragging them to a new position. Typically you must click the clip to select it, then click again to begin the click and drag process.
-
-If you are in list view then you can drag items about in the list to re-order them. You can even drag items between spaces and the main dashboard.
+If you are in list view then you can drag items in the list to re-order them. You can also drag items between spaces and the main dashboard.
