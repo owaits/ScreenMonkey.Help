@@ -220,3 +220,12 @@
  of Screen Monkey, where you want them.</p>
 <p class="rvps2" style="margin-left: 24px;"><img alt="" src="../../images/img_191.jpg" width="619" height="458" border="0" class="hcp4"></p>
 <p class="rvps2" style="margin-left: 24px;">&#160;</p>
+
+
+
+Some helpful tips:
+
+1. To change the layout drag and drop any panel title bar or tab onto a blue indicator
+2. Close tabs or panels with the X in the top right
+3. Pin items to the side of the screen with the Pin icon
+
