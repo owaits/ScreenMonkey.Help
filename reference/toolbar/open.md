@@ -3,7 +3,7 @@
 
 There are 4 sub items to this button which are described below. These items are also available by right clicking anywhere in the dashboard and choosing the ‘File’ menu item.
 
-## New
+## New
 To create an empty blank show in Screen Monkey choose ‘Open > New’. Screen Monkey will issue the following warning:
 
 ![](../../images/NewShowWarning.png)

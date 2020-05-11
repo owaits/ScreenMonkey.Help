@@ -14,7 +14,7 @@ Clicking on a clip in edit mode does not have the normal action of playing that 
 
 1. **Click** - Left click on a clip
 
-2. **Lasso** - Click on the first clip and whilst keeping the mouse button pressed draw a box over all the clips you want to select. Then release the mouse button.
+2. **Lasso** - Click on the first clip and whilst keeping the mouse button pressed draw a box over all the clips you want to select. Then release the mouse button.   
 ![](../../images/edit-lasso.png)
 
 3. **Click with Shift** - Click to select the first clip, press and hold Shift, then click to select the last clip. All clips in between will be selected.

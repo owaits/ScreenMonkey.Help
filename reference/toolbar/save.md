@@ -6,7 +6,7 @@ There are 3 sub menu items which are described below. These functions are also a
 ## Save
 Screen Monkey allows you to save your shows so that you may easily recall them later. When you save a show it will store all the clips and settings in a showfile which can be loaded back into the software at a later date. It is recommended to keep frequent saves of any shows to ensure you do not lose any work.
 
-A saved show does not store the original media files it only stores the clip settings. If you would like to include the media save a [Package](#Package). 
+A saved show does not store the original media files it only stores the clip settings. If you would like to include the media save a [Package](#package). 
 
 If you delete or move the original media files, the show will no longer load successfully. For example, a video clip does not store the original video file, it only contains a link to the video file location on your computer. If you move the media files or load the show on a different computer where the media files are located in a different folder then the show will have missing clip errors. These errors can be easily rectified using [Repair Media](open.md).
 
