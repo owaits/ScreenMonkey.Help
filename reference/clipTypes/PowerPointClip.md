@@ -144,6 +144,16 @@
 		 here</a> to visit the Sizer site</td>
 	</tr>
 </table>
+
+
+
+
+The live monitor for a PowerPoint slide presents images of the Previous, Current and Next slides. It shows the slide in its completed form once all the animations have run.
+
+![](../../images/img_292.jpg)
+
+
+
 <p>&#160;</p>
 <h2 class="rvps3">Enhancement History</h2>
 <p><a href="../../releases/Version_1.md#Freeze">Version 1 - 25th November 
@@ -175,3 +185,9 @@
  3.3 - 9th November 2009: Multiple Action Triggers</a></p>
 <p><a href="../../releases/Version_3_4.md#PowerPointPlayAtStart">Version 
  3.4 - March 2010: PowerPoint Play at Start</a></p>
+ 
+ 
+ The live monitor for a PowerPoint slide presents images of the Previous, Current and Next slides. It shows the slide in its completed form once all the animations have run.
+
+![](../../images/img_292.jpg)
+

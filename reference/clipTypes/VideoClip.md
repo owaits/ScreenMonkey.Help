@@ -42,6 +42,84 @@
 		 Decoder</a> topic may be useful.</td>
 	</tr>
 </table>
+
+## Playback Controls:
+
+![](../../images/img_294.jpg)
+
+To Start
+
+Jumps to the start of the video clip or if the In Time is locked then jumps to the In Time.
+
+![](../../images/img_295.jpg)
+
+Play
+
+If the video clip is stopped or paused then will play the video clip.
+
+![](../../images/img_296.jpg)
+
+Pause
+
+Pauses the video clip by holding it at its current position
+
+![](../../images/img_297.jpg)
+
+To End
+
+Jumps to the end of the video clip or if the Out Time is locked then jumps to the Out Time.
+
+![](../../images/img_298.jpg)
+
+Fast Reverse
+
+Rewinds the video clip by 10 seconds.
+
+![](../../images/img_299.jpg)
+
+Frame Retard
+
+Rewinds the video clip by a single frame and Pauses playback.
+
+![](../../images/img_300.jpg)
+
+Frame Advance
+
+Moves the clip forwards by a single frame and Pauses playback.
+
+![](../../images/img_301.jpg)
+
+Fast Forwards
+
+Moves the clip forwards by 10 seconds.
+
+![](../../images/img_302.jpg)
+
+Loop
+
+When loop is selected the video will return to the start and start playing when it reaches the end. When loop is active the icon will turn green. Setting the loop here will have no effect the next time the video is played.
+
+![](../../images/img_303.jpg)
+
+DVD Root Menu
+
+When playing a DVD returns you to the DVDs root menu.
+
+![](../../images/img_304.jpg)
+
+Volume
+
+Adjusts the volume level of the playing video. The adjusted volume is not saved and so will have no effect the next time the clip is played.
+
+Use the cue dialog to permanently adjust the volume.
+
+
+## Timecode:
+
+![](../../images/img_305.jpg)
+
+Use this to view the elapsed time for the video as well as the remaining time of the video. With a DVD video these times are referenced from the start and end of a title.
+
 <p>&#160;</p>
 <h2>How to use a Video Clip during a show</h2>
 <p>Click the Video Clip to begin playing it. You may wish to enable the 

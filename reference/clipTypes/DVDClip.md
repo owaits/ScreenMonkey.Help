@@ -56,6 +56,16 @@
 								 title="Here is where you type the popup info">Live 
  Monitor</a> in order to see other playback controls as well as keep an 
  eye on elapsed time and time remaining.</p>
+ 
+ 
+ 
+![](../../images/img_293.jpg)
+
+When a DVD clip is playing, the live monitor gives you an indication of the play position, the total time remaining and the current timecode. It also provides some live controls which may be used to control playback of the clip in real time.
+
+
+ 
+ 
 <p class="hcp3"><img src="../../images/DVDLiveMonitor.png" alt="" border="0" class="hcp4"></p>
 <p class="hcp5">During live presentation you may use the 
  <a href="../../tutorials/WorkingWithShows/LayersDashboard.md">Layers 
