@@ -1,8 +1,5 @@
 - name: Work with Clips
   items:
-    - name: Main Window
-    - name: Create Clips
-      href: WorkingWithClips/CreatingClips.md
     - name: Creating and using Lower Thirds
       href: WorkingWithClips/CreatingAndUsingLowerThirds.md
     - name: Creating a Countdown
