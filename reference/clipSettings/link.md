@@ -1,5 +1,7 @@
 # Linking Clips
-Linking clips gives you the ability to control precisely how clips play. Using links you can play one clip immediately after another, or after a time delay, or play when the Go (Spacebar) key is pressed and much more. 
+Linking clips gives you the ability to control precisely how clips play. Using links you can play one clip immediately after another, or after a time delay, play two clips together and much more. 
+
+By default a clip will link to the next clip when the [‘Go’ key or button](../toolbar/layers.md) is pressed. For example, if there are images on a page and the first one is playing then pressing ‘Go’ will cause the second image to appear, pressing ‘Go’ again will display the third and so on.
 
 Links may be used to create a slideshow, add music to slides, create a timed sequence, or even link media playback with control of external video hardware. By using links very complex shows can be highly automated.
 
@@ -27,7 +29,7 @@ The following link types can be used. You can add as many types as you need in a
 |Link Type|Description|
 |-|-|
 |Off|No link is set.|
-|Manual|This clip will link to the next clip when the ‘Go’ button or key is pressed. By default the ‘Go’ key is the spacebar.|
+|Manual|Default setting for new clips. This clip will link to the next clip when the ‘Go’ button or key is pressed. By default the ‘Go’ key is the spacebar.|
 |At Start|The linked clip will begin playing at the same time as the current clip. This link type is only valid for links to clips that play on other layers.|
 |At End|The linked clip will begin playing when the current clip finishes. This type is only applicable to clips which have a duration, such as audio or video clips. On a clip such as an image this option will be disabled as an image clip has no end.|
 |Loop|The current clip will begin playing again when it finishes. This is the equivalent of linking the clip to itself. This type is only applicable to clips which have a duration, such as video. On a clip such as an image, this option will be disabled as an image clip has no end.|
@@ -40,14 +42,14 @@ Below the link types the link destinations are shown.
 |Link Destination|Description|
 |-|-|
 |{no clip}|Click {no clip} to manually choose the link destination clip from the clip browser. If {no clip} is shown then the destination is chosen automatically as the next available clip.|
-|Next|When you choose Next, Screen Monkey links to the next clip in the list. The list will always play in clip order.|
-|Random|When you choose a random link destination, Screen Monkey will select a random clip to link to. The random option can be useful it you want to shuffle the clip playback within a [space](../clipTypes/CueListSpaceClip.md).|
+|Next|Default setting for new clips. When you choose Next, Screen Monkey links to the next clip in the list. The list will always play in clip order.|
+|Random|When you choose a random link destination Screen Monkey will select a random clip to link to. The random option can be useful it you want to shuffle the clip playback within a [space](../clipTypes/CueListSpaceClip.md).|
 
 When you are creating a link, the default behavior is for Screen Monkey to try and link to the next available clip. If no clip exists in the next slot Screen Monkey presents the clip browser allowing you to select the clip you want to link to.
 
 ![](../../images/link-select-clip.png)
 
-The Clear Layer clips named “Clear Layer 3” etc. are used to clear the indicated layer. This is very handy if you want something to appear, then disappear when it has finished.
+You can search for clips by typing in the box at the top of the clip browser. The Clear Layer clips named “Clear Layer 3” etc. are used to clear the indicated layer. This is very handy if you want something to appear, then disappear when it has finished.
 
 ## Link Viewer
 For more advanced use cases the Link Viewer is required. This allows you to view, add, edit and delete multiple links on a single clip. To open the Link Viewer right click on a clip and then click on ‘Link’ in the menu. The dialog will open showing all existing links.

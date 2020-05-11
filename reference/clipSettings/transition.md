@@ -15,7 +15,7 @@ To change the transition of a clip right-click the clip in the Screen Monkey das
 |No Effect|The default for new clips, equivalent to a cut|
 |Fade|The clip will gradually appear over the time specified, equivalent to changing transparency from 100 to 0|
 |Audio and Video Fade|Very similar to the ‘Fade’ transition except audio is also faded in the case of video and audio clips|
-|Fade Wipe|A combination of fade and hard wipe, the new clip will gradually fade in and move over the previous clip starting in the position specified|
+|Fade Wipe|A combination of fade and hard wipe, the new clip will gradually fade in and wipe across the previous clip starting in the position specified|
 |Fly|The new clip moves over the top of the previous clip starting in the position specified|
 |Hard Wipe|The new clip will wipe across the previous clip starting in the position specified|
 
