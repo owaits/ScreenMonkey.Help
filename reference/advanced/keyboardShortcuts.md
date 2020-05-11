@@ -25,10 +25,10 @@ All keyboard shotcuts can be modified in settings.
 |Page down|Goto previous dashboard page|
 |Home|Goto dashboard page 1|
 |Ctrl + H|Hides Screen Monkey dashboard|
-|Ctrl + P|[Play (Live) mode](toolbar/live.md)|
-|Ctrl + E|[Edit mode](toolbar/edit.md)|
-|Ctrl + L|[Link edit mode](toolbar/link.md)|
-|Ctrl + T|[Trigger edit mode](toolbar/trigger.md)|
+|Ctrl + P|[Playback (Live) mode](../toolbar/live.md)|
+|Ctrl + E|[Edit mode](../toolbar/edit.md)|
+|Ctrl + L|[Link edit mode](../toolbar/link.md)|
+|Ctrl + T|[Trigger edit mode](../toolbar/trigger.md)|
 
 ### 3. Current Page
     
