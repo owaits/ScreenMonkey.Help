@@ -1,15 +1,15 @@
 - name: Application Overview
   items:
-    - name: Main window
+    - name: Main Window
       href: mainWindow.md
-    - name: Understanding layers
+    - name: Understanding Layers
       href: layers.md
-    - name: Adding clips
+    - name: Working with Clips
       href: CreatingClips.md
-    - name: Using pages
-      href: pages.md
-    - name: Organizing clips
+    - name: Keeping Organized
       href: organizing.md
+    - name: Using Pages
+      href: pages.md
     - name: Events and Errors
       href: EventsandErrors.md
 
