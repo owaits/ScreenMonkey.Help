@@ -252,8 +252,6 @@
       href: advanced/CommandLineArguments.md
     - name: Hot Keys
       href: advanced/Hotkeys.md
-    - name: Blackmagic Decklink Output
-      href: advanced/blackmagicDecklink.md
     - name: Advanced tips
       href: advanced/tips.md
 - name: Events and Errors
