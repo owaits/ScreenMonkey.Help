@@ -10,24 +10,9 @@
       href: WorkingWithClips/EditingClips.md
     - name: Move Clips
       href: WorkingWithClips/MoveClips.md
-    - name: Link Clips
-      href: WorkingWithClips/LinkingClips.md
-    - name: Delete Clips
-      href: WorkingWithClips/DeleteClips.md
     - name: Repair Clips
       href: WorkingWithClips/RepairingClips.md
-    - name: Organizing Clips
-      href: WorkingWithClips/OrganizingClips.md
-    - name: Select Multiple Clips
-      href: WorkingWithClips/SelectingMultipleClips.md
-    - name: Add Transitions
-      href: WorkingWithClips/Transitions.md
-    - name: Add Effects
-      href: WorkingWithClips/Effects.md
-    - name: Name Clips and Pages
-      href: WorkingWithClips/NamingClipsAndPages.md
-    - name: Scheduling Clips
-      href: WorkingWithClips/SchedulingClips.md
+ 
 - name: Work with Shows
   items:
     - name: Create a Show
