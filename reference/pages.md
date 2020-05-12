@@ -12,7 +12,7 @@ In the top right of the dashboard you will see a row of numbers. These are the p
 ## Page Layouts
 Screen Monkey offers three different page stride options which can be chosen in [Settings](Settings/General.md). 
 
-| | |
+|Setting|Description|
 |-|-|
 |Dynamic |The number is slots per row and page adjusts depending on the size of the slot icons and the size of the dashboard window. Clips automatically flow between pages as required when the window is resized.|
 |100, 256|Every page is fixed at 100 or 256 slots, the number of slots per row is dynamic depending on window size. Clips will not automatically flow between pages unless you are inserting new clips at the very end of the page and you run out of space.|
