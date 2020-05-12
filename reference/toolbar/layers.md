@@ -18,7 +18,7 @@ The following options are available for each layer separately. Note that in addi
 Click to play the next clip. Shift+Click to play the previous clip.
 
 ### Layer Fade In/Out
-Clicking these buttons automatically fades the layer in or out at the speed configured in the [Display Profile](display.md) dialog.
+Clicking these buttons automatically fades the layer in or out at the speed configured in the [Display Profile](display.md) dialog. If a Layer is faded out while a clip is playing then the clip will continue to play. 
 
 ### Layer Sliders
 These sliders allow you to manually adjust the opacity/volume of a layer. This is useful if you want to fade the layer out manually or set a layer to be partially transparent. This action can also be mapped to a MIDI controller with faders.
