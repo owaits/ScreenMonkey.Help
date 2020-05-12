@@ -244,15 +244,22 @@
       href: Settings/Statistics.md
     - name: TCP Terminal
       href: Settings/tcpTerminal.md
-      
+- name: Advanced
+  items: 
+    - name: File Association
+      href: advanced/FileAssociation.md
+    - name: Command Line Parameters
+      href: advanced/CommandLineArguments.md
+    - name: Hot Keys
+      href: advanced/Hotkeys.md
+    - name: Blackmagic Decklink Output
+      href: advanced/blackmagicDecklink.md
+    - name: Advanced tips
+      href: advanced/tips.md
 - name: Events and Errors
   href: EventsandErrors.md
 - name: Keyboard Shortcuts
   href: advanced/keyboardShortcuts.md
-- name: File Association
-  href: advanced/FileAssociation.md
-- name: Command Line Parameters
-  href: advanced/CommandLineArguments.md
 - name: Glossary
   href: Glossary.md
 - name: FAQ
