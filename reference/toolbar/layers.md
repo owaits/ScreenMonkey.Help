@@ -44,4 +44,4 @@ Perhaps you are playing clips on all four layers. Two are visible and two are fa
 ## Status
 
 ### Adjustment Percentage
-This area reports the actual percentage adjustment applied to the layer. Note that transparency and audio are displayed separately.
+This area reports the actual percentage adjustment applied to the layer. Note that opacity and volume are displayed separately.
