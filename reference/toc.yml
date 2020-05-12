@@ -1,4 +1,4 @@
-- name: Application Overview
+- name: Getting Started
   items:
     - name: Main Window
       href: mainWindow.md
@@ -10,8 +10,8 @@
       href: organizing.md
     - name: Using Pages
       href: pages.md
-    - name: Events and Errors
-      href: EventsandErrors.md
+    - name: System Requirements
+      href: SystemRequirements.md
 
 - name: Toolbar
   items:
@@ -245,8 +245,8 @@
     - name: TCP Terminal
       href: Settings/tcpTerminal.md
       
-- name: System Requirements
-  href: SystemRequirements.md
+- name: Events and Errors
+  href: EventsandErrors.md
 - name: Keyboard Shortcuts
   href: advanced/keyboardShortcuts.md
 - name: File Association
