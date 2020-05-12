@@ -27,6 +27,7 @@ There are a few ways of navigating the pages.
 - Press PageUp, PageDown to move up or down
 - Press Home to go to page 1
 - Use the bookmarks to quickly jump to a named page
+- Clicking the bold white page number in the page numbers bar will open the Goto Page dialog where you may type a new page number to jump to
 
 ## Bookmarking Pages
 A page can be given a bookmark so rather than ‘Page 1’ it will show something more meaningful to your way of working. A page with a bookmark retains its original number, so all navigation methods described above still work, the bookmark is an additional way of navigating. Before choosing bookmarks you should ensure you have configured the Dashboard of Screen Monkey to the size you are comfortable using and have organised your clips so they are logically grouped into pages. Bookmarking pages makes it easy to find what you need when you need it.
