@@ -1,7 +1,7 @@
 ![](../../images/toolbar.png) 
 # Layers
 
-The layers dashboard provides quick and easy control over all the layers during playback. It allows you to advance to the next clip in a sequence, clear all layers, and fade layers in or out either individually or together. 
+The layers dashboard provides quick and easy control over all the [layers](../layers.md) during playback. It allows you to advance to the next clip in a sequence, clear all layers, and fade layers in or out either individually or together. 
 
 To open the layers dashboard click on the Layers button in the toolbar. The default view for the layers dashboard is a floating window but it is often helpful to dock it inside the main window so it is always visible.
 

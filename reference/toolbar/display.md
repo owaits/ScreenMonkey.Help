@@ -3,7 +3,7 @@
 
 Display Profiles are very important and allow you to configure physical monitor outputs and display rendering for Screen Monkey.
 
-You can either choose from one of the pre-defined profiles or create your own. Each profile defines the size, position and physical monitor connection that each layer is presented on.
+You can either choose from one of the pre-defined profiles or create your own. Each profile defines the size, position and physical monitor connection that each [layer](../layers.md) is presented on.
 
 ## Display Profile Window
 Click the Display button on the toolbar to open the Display Profile window. Here you can select a profile to use and adjust the transition speed. The transition speed you set here is used by the ‘Fade’ buttons in the [layers dashboard](layers.md).
