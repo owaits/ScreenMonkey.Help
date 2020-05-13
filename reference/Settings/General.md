@@ -1,81 +1,37 @@
 # General
 
-Click the area of interest on the image below to learn more about that option.
-
 ![](../../../images/SettingsDialogGeneral.png)  
 
-The General settings are split into five areas:
+General settings are split into five areas:
 
-*   [Clip Preview](#Clip_Preview)
-    
-*   [Dashboard](#Dashboard)
-    
-*   [Auto Save](#Auto_Save)
-    
-*   [Display Settings](General.md#Display_Settings)
-    
-*   [Events and Errors](General.md#Events_and_Errors)
-    
+*   [Clip Preview](#clip-preview)
+*   [Dashboard](#dashboard)
+*   [Show](#show)
+*   [Schedule](#schedule)
+*   [Display Settings](#display-settings)
+*   [Events and Errors](#events-and-Errors)
 
 ## Clip Preview
+This area contains settings related to clips.
 
-This area contains settings related to how the Main Dashboard behaves when playing back clips.
+- *Show Clip Names* When enabled, the clip name is shown in the bottom of the clip panel. (This setting is recommended to be on)
 
-![](../../../images/ClipPreview.png)
+- *Enable Global Hotkeys* When enabled, [Global Hotkeys](../advanced/Hotkeys.md) are enabled. This means that the Hotkeys for Screen Monkey will work regardless of which application has focus. With this option enabled the Hotkey will always perform its function. 
 
-Show Clip Names
+- *Generate thumbnail images for clips* This option governs whether thumbnails are generated from the clips’ media content or not. When this option is turned off the default clip logo will be displayed. This may speed up the load time of clips such as video clips as Screen Monkey won’t spend time generating a thumbnail.
 
-When enabled, the clip name is shown in the bottom of the clip panel. (This setting is recommended to be on)
-
-With Clip Names enabled:
-
-![](../../../images/ClipNamesOn.png)
-
-With Clip Names disabled:
-
-![](../../../images/ClipNamesOff.png)
-
-Enable Global Hotkeys
-
-When enabled, global Hotkeys are enabled. This means that the Hotkeys for Screen Monkey will work regardless of which application has focus. With this option enabled the Hotkey will always perform its function.
-
-  
-
-![](../../../images/Noteimage.png)
-
-Be forewarned that enabling this function can make your keyboard seem as if certain keys no longer work. For example, if you have assigned the Arrow Left or Arrow Right keys to functions, Screen Monkey will intercept these keysrokes. You may be working in another application and notice the keys aren’t working as you believe they should be.
-
-[Click here to learn more about Hotkeys](../../Hotkeys.md).
-
-Generate thumbnail images for clips
-
-This option governs whether thumbnails are generated from the clips’ media content or not. When this option is turned off the default clip logo will be displayed. This may speed up the load time of clips such as video clips as Screen Monkey won’t spend time generating a thumbnail.
+- *Generate chapter thumbnails for clips* 
 
 ## Dashboard
+This area contains settings related to how the Main Dashboard user interface appears in Screen Monkey.
 
-This area contains settings related to how the Main Dashboard appears in Screen Monkey.
+- *Lock to Prevent Edit*
 
-![](../../../images/Dashboard.png)
+- *Always On Top* When enabled, the Screen Monkey Dashboard window will always be on top of any other windows. This prevents other windows from obscuring the control window.
 
-Always On Top
+- *Show Infobar* Whether or not to display the info bar at the bottom of the dashboard which displays information about the mouse over clip or the live clip on the selected layer.
 
-When enabled, the Screen Monkey Dashboard window will always be on top of any other windows. This prevents other windows from obscuring the control window.
-
-Show Infobar
-
-Whether or not to display the info bar at the bottom of the dashboard which displays information about the mouse over clip or the live clip on the selected layer.
-
-With Show Infobar enabled:
-
-![](../../../images/Infobar.png)
-
-With Show Infobar disabled:
-
-![](../../../images/NoInfobar.png)
-
-Double Click to Play
-
-The default behavior of Screen Monkey is to play a clip when it has been single clicked. If this option is enabled, Screen Monkey will only play a clip if it has been double-clicked.
+- *Double Click to Play* The default behavior of Screen Monkey is to play a clip when it has been single clicked. If this option is enabled, Screen Monkey will only play a clip if it has been double-clicked.
 
 Style
 
@@ -133,21 +89,27 @@ This option allows you to choose whether the Toolbox icons in the Main Dashboard
 
 Large Toolbox icons are especially useful when using Screen Monkey on a touch screen.
 
-## Auto Save
+## Show
 
-Screen Monkey will automatically save your configuration file after a set amount of time. This means that if the application should close unexpectedly or the computer loses power, your show will be reloaded from the last time it auto saved when you next start the software.
+- *Auto Save* Screen Monkey will automatically save your configuration file after a set amount of time. This means that if the application should close unexpectedly or the computer loses power, your show will be reloaded from the last time it auto saved when you next start the software.
 
 ![](../../../images/AutoSave.png)
 
 You can choose to auto save from 1 minute to 1 hour. Or you may choose to turn it off.
 
+- *Auto load show when file is modified*
+
+- *Auto play first clip after show load*
+
+## Schedule
+
+- *Wait for Break before Playing*
+
 ## Display Settings
 
 Screen Monkey allows you to work with all sorts of display devices. Additional Monitors, Projection Systems, Lighting Systems, Midi devices, etc. You may configure different profiles that allow you to accommodate different situations and environments.
 
-![](../../../images/DisplaySettings.png)
-
-  
+![](../../../images/DisplaySettings.png)  
 
 Profile
 

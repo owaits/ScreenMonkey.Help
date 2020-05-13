@@ -13,6 +13,12 @@
  about clicking on the Screen Monkey window for the Hotkey to work. However, 
  this may cause problems if other applications are using the same hotkeys, 
  as Screen Monkey will attempt to override them.</p>
+ 
+ Be forewarned that enabling this function can make your keyboard seem as if certain keys no longer work. For example, if you have assigned the Arrow Left or Arrow Right keys to functions, Screen Monkey will intercept these keysrokes. You may be working in another application and notice the keys aren’t working as you believe they should be.
+
+[Click here to learn more about Hotkeys](../../Hotkeys.md).
+
+ 
 <p><span class="rvts12"><a class="dropspot" href="javascript:TextPopup(this)" 
 							 id="a1">Click here to see the functions of 
  certain key presses</a>.</span></p>
