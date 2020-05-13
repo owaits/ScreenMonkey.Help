@@ -1,24 +1,24 @@
 # Screen Monkey Application
 
-The Main Window is where you setup and run your show. Inside the main window many different panels can be docked. This section will describe the [default layout](toolbar/window.md).
+The Main Window is where you setup and run your show. Inside the main window many different panels can be docked. This section will describe the default layout however many different layouts are possible which can be [saved and recalled](toolbar/window.md).
 
 ## Dashboard
-When you have installed Screen Monkey and run it for the first time, the dashboard contains nothing but blank squares. The squares are called ‘slots’. You will add different media elements to each of the slots. Once added, these elements are called clips. As you add clips the slots will show thumbnail images representing what the clip contains. 
+When you have installed Screen Monkey and run it for the first time the dashboard contains nothing but blank squares. The squares are called ‘slots’. You will add different media elements to each of the slots. Once added, these elements are called clips. As you add clips the slots will show thumbnail images representing what the clip contains. 
 
 [Learn more about creating and playing clips](CreatingClips.md)
 
 ![](../../images/mainwindow-halfsize.png)
 
-The Dashboard may be sized in any configuration that appeals to you. When you close and restart Screen Monkey, your clips and window layout are re-loaded automatically.
+The Dashboard may be sized in any configuration that appeals to you. When you close and restart Screen Monkey, your clips and window layout are re-loaded automatically. It is also possible to [save](toolbar/save.md) and [open](toolbar/open.md) Screen Monkey show files which allows you to work on many shows at once or move shows between computers.
 
-## Right Click Menu
+## Right Click Menu
 Right clicking on any dashboard clip will open a menu where you can adjust clip settings. Depending on the clip type you will see slightly different options. 
 
 [Learn more about clip settings](clipSettings/clipSettings.md)
 
 ## Pages
 The grouping of clips and slots inside the Dashboard is referred to as a page. 
-Screen Monkey places no restriction on the number of pages that may store clips. There are multiple ways to change the pages so you may view different pages in the Main Dashboard.
+Screen Monkey places no restriction on the number of pages that may be used to store clips. Allocating clips to different pages is a great way to keep your show organised.
 
 [Learn more about pages](pages.md)
 
@@ -50,9 +50,9 @@ The toolbar runs across the top of the main window and provides quick access to 
 |[Schedule](toolbar/schedule.md)|Opens the Schedule viewer window.|
 |[Notes](toolbar/notes.md)      |Opens a notes viewer.|
 |[Cue](toolbar/cue.md)          |Provides fast access to cueing a clip. When you select this icon the clips will begin flashing and allow you to select a clip to edit/cue.|
-|[Window](toolbar/window.md)    |When selected allows you to customize or lock the layout. The Layout is the arrangement of windows in the Screen Monkey application.|
+|[Window](toolbar/window.md)    |When selected allows you to save, recall or lock the window layout.|
 
-## Top Right Button
+## Top Right Buttons
 In the top right of the main window there are two more buttons. Clicking on the three dots will open a menu where you can open the [Screen Monkey settings](Settings/Settings.md) dialog or open this online help.
 
 ![](../../images/errorIcon.PNG)
@@ -60,6 +60,6 @@ In the top right of the main window there are two more buttons. Clicking on the 
 If you see a yellow warning triangle you can click it to open the [Events and Errors](EventsAndErrors.md) dialog where you might see important information about Screen Monkey’s operation.
 
 ## Info Bar
-Along the bottom of the main window the Info Bar displays information about a clip when the mouse passes over the clip. When not showing clip information it displays information about the live clip on the current layer. You may use this to see information such as the full clip name, duration, number of slides, link and effect. Screen Monkey may be [configured](../../reference/setup/Settings/Settings.md) to hide the info bar if desired.
+Along the bottom of the main window the Info Bar displays information about a clip when the mouse passes over the clip. When not showing clip information it displays information about the live clip on the current layer. You may use this to see information such as the full clip name, duration, number of slides, link and effect. Screen Monkey may be configured to hide the info bar if desired.
 
 ![](../../images/mainwindow-infobar.png)
