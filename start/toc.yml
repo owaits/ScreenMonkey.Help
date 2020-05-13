@@ -1,7 +1,5 @@
-- name: "Getting Started"
+- name: Getting Started
   href: gettingStarted.md
-- name: Keeping Organized
-  href: organizing.md
 - name: "Using for a Church Service"
   href: UsingForAChurchService.md
 - name: "Using for a Concert"

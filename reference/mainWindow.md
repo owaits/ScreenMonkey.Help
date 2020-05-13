@@ -9,6 +9,14 @@ When you have installed Screen Monkey and run it for the first time the dashboar
 
 ![](../../images/mainwindow-halfsize.png)
 
+There are a number of tools which will help you keep everything organised.
+
+- [Rename](clipSettings/rename.md) a clip and change the icon
+- [Move](toolbar/edit.md) a clip
+- [Clear](clipSettings/clear.md) clips (an empty slot is left behind) 
+- [Remove](clipSettings/remove.md) clips (the gap is closed and subsequent clips shuffle up)
+- [Cut/Copy/Paste](clipSettings/cutCopyPaste.md) to duplicate or clip or move clips between pages
+
 The Dashboard may be sized in any configuration that appeals to you. When you close and restart Screen Monkey, your clips and window layout are re-loaded automatically. It is also possible to [save](toolbar/save.md) and [open](toolbar/open.md) Screen Monkey show files which allows you to work on many shows at once or move shows between computers.
 
 ## Right Click Menu
