@@ -1,10 +1,8 @@
-# Quick Reference
-
-## Useful Hotkeys
+# Keyboard Shortcts
 
 All keyboard shotcuts can be modified in settings.
 
-### 1. Show
+## 1. Show
 
 |Key|Action                                                 |
 |---|-------------------------------------------------------|
@@ -14,7 +12,7 @@ All keyboard shotcuts can be modified in settings.
 |Ctrl + Shift + S|Save As Show|
 |Ctrl + Alt + S|Package Show|
     
-### 2. Dashboard
+## 2. Dashboard
 
 |Key|Action                                                 |
 |---|-------------------------------------------------------|
@@ -30,7 +28,7 @@ All keyboard shotcuts can be modified in settings.
 |Ctrl + L|[Link edit mode](../toolbar/link.md)|
 |Ctrl + T|[Trigger edit mode](../toolbar/trigger.md)|
 
-### 3. Current Page
+## 3. Current Page
     
 |Key|Action                                                 |
 |---|-------------------------------------------------------|

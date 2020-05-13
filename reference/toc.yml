@@ -252,8 +252,9 @@
       href: advanced/Hotkeys.md
     - name: Advanced tips
       href: advanced/tips.md
-- name: Events and Errors
-  href: EventsandErrors.md
+    - name: Events and Errors
+      href: EventsandErrors.md
+  
 - name: Keyboard Shortcuts
   href: advanced/keyboardShortcuts.md
 - name: Glossary
