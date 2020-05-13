@@ -217,5 +217,10 @@
  Errors</a> topic for more information.</p>
 
 
+You may also change the size of the thumbnail images of the clips presented in the dashboard. This is controlled by visiting the [Screen Monkey Settings](../../reference/setup/Settings/Settings.md).
+
+![](../../images/MainDashboard3.png)
+
+
 ## Autosave
 Additionally, Screen Monkey has an ‘Auto Save’ feature that is enabled by default. The default increment is every 5 minutes, but you are able to change this to suit your taste in [General Settings](../Settings/General.md). Choices vary from Never to 1 Hour.

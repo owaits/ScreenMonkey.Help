@@ -28,3 +28,32 @@ Select this item to prevent windows from being moved or closed. To disable the l
 
 ## Reset
 Reset back to the default view as first installed. This is useful if the windows become jumbled or if you accidentally closed a window and can’t find it again.
+
+
+## Docking Windows
+The windows within Screen Monkey are all docakable. This offers an extremely powerful and flexible way of arranging all the different elements of the software. You can arrange all the elements in the way that best suits you.
+
+![](../../images/img_186.jpg)
+
+To change the layout, drag the window to the new position. As you drag the window you will see guides appear indicating where you can drop the window to dock it. Dragging the window away from the main dashboard will cause it to float.
+
+![](../../images/img_187.jpg)
+
+If you drag the window outside all the other windows, it will float. Dropping the window in the center of the guide will cause it to become tabbed.
+
+![](../../images/img_188.jpg)
+
+To view a window that is tabbed, click the tab to make it visible. You may also pin a window so that it is initially hidden but slides out when you click on the window icon. To pin a window, click the Pin icon.
+
+![](../../images/img_189.jpg)
+
+Please note that the window must be docked and not tabbed to see this icon. When the window is pinned it will appear as a small button against the edge it has been pinned to.
+
+![](../../images/img_190.jpg)
+
+You now have a great deal of flexibility to layout the different parts of Screen Monkey, where you want them.
+
+![](../../images/img_191.jpg)
+
+Some helpful tips: 1. To change the layout drag and drop any panel title bar or tab onto a blue indicator 2. Close tabs or panels with the X in the top right 3. Pin items to the side of the screen with the Pin icon
+

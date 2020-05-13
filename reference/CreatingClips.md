@@ -59,9 +59,9 @@ To accomplish this, double-click the clip instead of single clicking. The first 
 ## Play State Indicators
 Some clip types will display an indicator to tell you what the current state of the clip is. A video clip may be playing, paused or stopped. To tell you which state the video is in a little icon appears in the top right of the clip panel.
 
-|Playing|Paused|Stopped|
-|:-:|:-:|:-:|
 |![](../../images/clip-video-play.png)|![](../../images/clip-video-pause.png)|![](../../images/clip-video-stop.png)|
+|:-:|:-:|:-:|
+|Playing|Paused|Stopped|
 
 ## Rewind during Live Playback
 You may wish to rewind a clip back to the beginning while the clip is live. This may happen if you accidentally play the clip early and you want to play the clip from the beginning. Or perhaps the clip has finished playing and you want to play it again.
