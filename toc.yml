@@ -1,8 +1,8 @@
 - name: Quick Start
   href: start/
 
-- name: Tutorials
-  href: tutorials/
-
 - name: Reference
   href: reference/
+
+- name: Tutorials
+  href: tutorials/
