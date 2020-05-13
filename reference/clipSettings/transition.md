@@ -1,4 +1,4 @@
-# Transitions
+# Transition
 Transitions allow you to choose how clips appear on the output. If no transition is specified then clips appear immediately full screen (known as a cut in video production terminology).
 
 By using the transition settings you can choose many other options which can make your show more professional and engaging. By configuring a fade transition a clip might gently fade into view as opposed to immediately appearing.
