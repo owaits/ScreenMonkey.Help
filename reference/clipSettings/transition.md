@@ -10,6 +10,8 @@ To change the transition of a clip right-click the clip in the Screen Monkey das
 
 ![](../../images/ClipTransition.png)
 
+The following transition types are available.
+
 |Name|Description|
 |-|-|
 |No Effect|The default for new clips, equivalent to a cut|
@@ -23,8 +25,8 @@ If you want a cross dissolve effect where one clip fades out and a second clip s
 
 When a clip is cleared from a layer it will by default use the clip transition if one is set. This behaviour can be changed in Screen Monkey [general settings](../Settings/General.md).  
 
-## Playback Settings 
-First choose an effect from the list on the left and then enter a transition time which is the time taken for the transition to complete. To change the time take one of the following actions.
+## Transition Effect Settings 
+First choose a transition effect from the list on the left and then enter a transition time which is the time taken for the transition to complete. To change the time take one of the following actions.
 
 - Type a new speed value into the field
 - Click the Up or Down arrow buttons
