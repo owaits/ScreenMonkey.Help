@@ -1,8 +1,8 @@
 # Using Pages
 
-As you begin working with Screen Monkey, adding clips and playing Shows, you will likely find that you need more space to work. When you add Clips to the Dashboard, you add them to slots. The slots you initially see are all on Page 1. There are many more pages available which can be used when you need more space or want to separate clips for any reason. The number of slots you have available on a page depends on a couple of different factors - page stride and window layout.
+As you begin working with Screen Monkey, adding clips and playing shows, you will likely find that you need more space to work. When you add clips to the dashboard you add them to slots. The slots you initially see are all on Page 1. There are many more pages available which can be used when you need more space or want to separate clips for any reason. The number of slots you have available on a page depends on a couple of different factors - page stride and window layout.
 
-You may find that it’s helpful to add clips to specific pages in order to organize them. Perhaps you have a group of several music clips used during offering at a [church service](../../start/UsingForAChurchService.md). You might place all those clips on a specific Page. Or if you are working on a [concert](../../start/UsingForAConcert.md) perhaps you want to organize all the information for each act on different pages.
+You may find that it’s helpful to add clips to specific pages in order to organize them. Perhaps you have a group of several music clips used during offering at a [church service](../start/UsingForAChurchService.md). You might place all those clips on a specific Page. Or if you are working on a [concert](../start/UsingForAConcert.md) perhaps you want to organize all the information for each act on different pages.
 
 ## Page Numbers
 In the top right of the dashboard you will see a row of numbers. These are the page numbers. The number shown in bold white is the current page.
@@ -10,7 +10,7 @@ In the top right of the dashboard you will see a row of numbers. These are the p
 ![](../../images/page-numbers.png)
 
 ## Page Layouts
-Screen Monkey offers three different page stride options which can be chosen in [Settings](Settings/General.md). 
+Screen Monkey offers three different page stride options which can be chosen in [General Settings](Settings/General.md). 
 
 |Setting|Description|
 |-|-|
@@ -30,7 +30,7 @@ There are a few ways of navigating the pages.
 - Clicking the bold white page number in the page numbers bar will open the Goto Page dialog where you may type a new page number to jump to
 
 ## Bookmarking Pages
-A page can be given a bookmark so rather than ‘Page 1’ it will show something more meaningful to your way of working. A page with a bookmark retains its original number, so all navigation methods described above still work, the bookmark is an additional way of navigating. Before choosing bookmarks you should ensure you have configured the Dashboard of Screen Monkey to the size you are comfortable using and have organised your clips so they are logically grouped into pages. Bookmarking pages makes it easy to find what you need when you need it.
+A page can be given a bookmark so rather than ‘Page 1’ it will show something more meaningful to your way of working. Bookmarking pages makes it easy to find what you need when you need it. A page with a bookmark retains its original number, so all navigation methods described above still work, the bookmark is an additional way of navigating. Before choosing bookmarks you should ensure you have configured the Dashboard of Screen Monkey to the size you are comfortable using and have organised your clips so they are logically grouped into pages.
 
 In the top left corner of the Dashboard we see the bookmark drop-down, currently showing ‘Page 1’.
 

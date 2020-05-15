@@ -3,7 +3,7 @@ Screen Monkey requires a modern Windows desktop or laptop to run smoothly.
 
 ## Hardware
 - Intel i5 or equivalent
-- GPU Score above 800
+- GPU score above 800
 - Dual monitor outputs
 
 ## Software

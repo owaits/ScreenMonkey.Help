@@ -25,7 +25,7 @@ To clear a clip on a different layer, you first need to set that layer as active
 ![](../../images/layers-dashboard-clear.png)
 
 ## Assigning Clips to Specific Layers
-To assign a clip to a specific layer so it will always play on that layer rather than the active layer right click the clip open the Layer menu and choose which layer the clip will play on.
+To assign a clip to a specific layer so it will always play on that layer rather than the active layer right click the clip open the [Layer menu](clipSettings/layer.md) and choose which layer the clip will play on.
 
 ![](../../images/clip-menu-layer.png)
 
@@ -39,4 +39,4 @@ The audio layer is provided to play media which contains no video content such a
 When you add audio clips they are automatically assigned to this layer and will display an ‘A’ symbol in the top left of the thumbnail to indicate this. Any clip may be manually assigned to the Audio layer. When it plays, it will not present visual output.
 
 ## Screen Monkey and PowerPoint
-Screen Monkey has the ability to simply play [PowerPoint](../../reference/clipTypes/PowerPointClip.md) presentations on any of its four layers. However, if you use PowerPoint natively to present on the second monitor, this provides a ‘fifth’ layer, in that you may use PowerPoint to present slides on the PC, then use Screen Monkey to present content that overlays the running PowerPoint presentation.
+Screen Monkey has the ability to simply play [PowerPoint](clipTypes/PowerPointClip.md) presentations on any of its four layers. However, if you use PowerPoint natively to present on the second monitor, this provides a ‘fifth’ layer, in that you may use PowerPoint to present slides on the PC, then use Screen Monkey to present content that overlays the running PowerPoint presentation.

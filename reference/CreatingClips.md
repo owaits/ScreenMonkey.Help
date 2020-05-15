@@ -10,11 +10,11 @@ The process of adding media to Screen Monkey is achieved by creating clips. Ther
 Clips go into slots, usually one clip per slot except in the case of the special cue-list and playlist clips. There are three ways to create clips.
 
 ### 1. Clip Chooser
-To create a new clip left-click on an empty clip slot. This slot is where your clip will be placed once it is created. The Create Clip dialog window will open. If necessary click ‘Choose Clip Type...’ to display a grid of all the clip types installed on your system.
+To create a new clip left-click on an empty clip slot. This slot is where your clip will be placed once it is created. The Create Clip dialog window will open. If necessary click ‘Choose Clip Type...’ to display a grid of all the clip types installed on your system. 
 
 ![](../../images/clip-chooser.png)
 
-Choose the clip type you want to add and click OK. You can also double click the icon to bypass clicking OK. Refer to the Clip Types section of this documentation for more details.
+Choose the clip type you want to add and click OK. You can also double click the icon to bypass clicking OK. Refer to the [Clip Types](clipTypes/clipTypes.md) and [Macros](macros/Macros.md) sections of this documentation for more details.
 
 ### 2. File Chooser
 Another way of creating clips is to select several media files you want to add and let Screen Monkey work out what clip type should be created. Start by clicking on an empty slot to open the Create Clip dialog then choose ‘Open File...’ from the left hand panel. 
@@ -35,11 +35,11 @@ You may also drop multiple files into Screen Monkey to quickly load lots of clip
 ### 4. Clip Template
 Create a clip based on a [saved template](clipSettings/exportClipTemplate.md).
 
-## Inserting Clips
-Clips are inserted by simply by adding them over the top of an existing clip. When you do this, the clips will be shifted along to make space for the inserted clip.
-
 ## Moving Clips
 Use [Edit mode](toolbar/edit.md) to move clips around the dashboard.
+
+## Inserting Clips
+Clips are inserted by simply by dragging them over the top of an existing clip. When you do this, the clips will be shifted along to make space for the inserted clip.
 
 ## Modify Clip Settings
 Right click on any clip to bring up a [menu of options](clipSettings/clipSettings.md) for modifying all aspects of the clip.
