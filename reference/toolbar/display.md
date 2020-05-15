@@ -54,7 +54,7 @@ Each of the layers has the following settings you may configure. Note that these
 2. **BorderStyle** Set to solid to place a border around the layer and none to have no border
 3. **BorderWidth** The width of the border placed around the layer
 1. **Device**
-1. **Shape** - you can choose from either rectangular, circular or polygon. Each changes the shape of the layer. When set to polygon you can use the edit view to create any shape you wish.
+1. **Shape** allows you to choose from either rectangular, circular or polygon. Each changes the shape of the layer. When set to polygon you can use the edit view to create any shape you wish.
 1. **PanX**
 1. **PanY**
 1. **PanZoom**
@@ -87,7 +87,8 @@ When in polygon mode you can create a new point just by clicking on the line whe
 
 ![](../../images/img_338.jpg)
 
-The display profiles can also be found in the settings menu.
+## General Settings
+The display profiles can also be found in the [General](../Settings/General.md) section of Screen Monkey setting.
 
 ![](../../images/DisplaySettings.png)
 

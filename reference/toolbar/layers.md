@@ -39,9 +39,7 @@ Plays the next clip regardless of the layer it is assigned to. For example, perh
 Suppose you are playing clips on three of the four layers. Clicking Clear All will clear all layers.
 
 ### Master Fades
-Perhaps you are playing clips on all four layers. Two are visible and two are faded out. Clicking the Fade Out or Fade In will cause all layers to respect the action.
+Perhaps you are playing clips on all four layers. Two are visible and two are faded out. Clicking the Fade Out or Fade In will cause all layers to respect the action. These buttons do not fade the volume, except on the audio layer.
 
 ## Status
-
-### Adjustment Percentage
-This area reports the actual percentage adjustment applied to the layer. Note that opacity and volume are displayed separately.
+The area below the faders reports the layer names and the actual percentage adjustment applied to the layer. Opacity is shown on top and Volume is shown below.
