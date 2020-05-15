@@ -2,7 +2,7 @@
 
 You may use a variety of command line arguments to control Screen Monkey. You will need to browse the installation folder using the cd command first. Below is a list of supported commands.
 
-`ScreenMonkey.exe {filename} /play {clip_index} /layer {layer_index} /go /pause /next /previous /clear /clearall`
+`ScreenMonkey.exe {filename} /play {clip_index} /layer {layer_index} /go /pause /next /previous /clear /clearall /debug`
 
 |Parameter|Description|
 |-|-|
