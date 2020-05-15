@@ -52,7 +52,7 @@ When you are creating a link, the default behavior is for Screen Monkey to try a
 You can search for clips by typing in the box at the top of the clip browser. The Clear Layer clips named “Clear Layer 3” etc. are used to clear the indicated layer. This is very handy if you want something to appear, then disappear when it has finished.
 
 ## Link Viewer
-For more advanced use cases the Link Viewer is required. This allows you to view, add, edit and delete multiple links on a single clip. To open the Link Viewer right click on a clip and then click on ‘Link’ in the menu. The dialog will open showing all existing links.
+For more advanced use cases the Link Viewer is required. This allows you to view, add, edit and delete multiple links on a single clip. To open the Link Viewer right click on a clip and then click on ‘Link’ in the menu or choose Link > More Options. The dialog will open showing all existing links.
 
 ![](../../images/link-viewer.png)
 

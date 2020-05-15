@@ -19,7 +19,7 @@ In this example the command will switch the primary input of the scaler to HDMI.
 
 ![](../../images/macro-tcp.png)
 
-When you are finished the macro will be added to the dashboard clip and the message you entered will be sent every time you run the macro.
+When you are finished click OK and the macro will be added to the dashboard as a clip. The message you entered will be sent to the device every time you run the macro.
 
 ![](../../images/dashboard-macro-tcp.png)
 

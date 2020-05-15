@@ -1,12 +1,8 @@
 ![](../../images/toolbar.png)
 # Link
 
-The link operation will mostly work the same in this mode but a few things behave differently.
+If you need to quickly link lots of clips together you can use Link Edit mode. To enter Link Edit just click the Link button in the toolbar.
 
-In multi edit mode it may be possible to create a link list in a specific order. Select the clips in the order you want them to play and enable the link.
+In link edit mode right-clicking on a clip will immediately open the link browser for the clip.
 
-Once you have linked a clip it will not use the multi edit selection order to assign the link. So you need a way to force the clips to be linked in the selection order. You will notice when in multi edit mode the link menu has a different option.
-
-![](../../images/img_230.jpg)
-
-If you select Play In Selection Order the links for the selected clips will be created in the order you selected them.
+To leave Link Edit mode click on a different mode in the toolbar.

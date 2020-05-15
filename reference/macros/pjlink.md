@@ -7,7 +7,7 @@
 A network connection is required between the computer running Screen Monkey and the projectors to be controlled. You must set a valid IP address on each projector. Check the user guide for your device for details on how to do this.
 
 ## Add device
-The first step is to add the projector to Screen Monkey. You will need to specify a name, IP address of the projector and optionally authentication details. Some projectors require a password, others do not. Check your user guide.
+The first step is to add the projector to Screen Monkey. Start by creating a new PJLink macro clip then click ‘New’ in the device section. You will need to specify a name, IP address of the projector, and optionally authentication details. Some projectors require a password, others do not. Check your user guide.
 
 ![](../../images/macro-pjlink-new.png)
 
