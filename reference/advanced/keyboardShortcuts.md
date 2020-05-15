@@ -1,6 +1,6 @@
-# Keyboard Shortcts
+# Keyboard Shortcuts
 
-All keyboard shotcuts can be modified in settings.
+All keyboard shotcuts can be modified in [settings](../Settings/MouseandKeyboard.md).
 
 ## 1. Show
 

@@ -30,7 +30,7 @@ When many video types are recorded, they are recorded at a size that isn’t rea
 When you see television news reports and an interview occurs, you often see what is called a “Lower Third” that presents the title and name of the person being interviewed. These are typically placed on top of the video image in the bottom 1/3 of the screen area. [Click here](http://en.wikipedia.org/wiki/Lower_third) for more information on Lower Thirds.
 
 ## MIDI
-Musical Instrument Digital Interface - This is an industry-standard protocol that enables electronic musical instruments (synthesizers, drum machines), computers and other electronic equipment (MIDI controllers, sound cards, samplers) to communicate and synchronize with each other. [Click here](http://en.wikipedia.org/wiki/Midi) for more information.
+Musical Instrument Digital Interface - This is an industry-standard protocol that enables electronic musical instruments (synthesizers, drum machines), computers and other electronic equipment (MIDI controllers, sound cards, samplers) to communicate and synchronize with each other. [Click here](http://en.wikipedia.org/wiki/MIDI) for more information.
 
 ## MSEX
 Media SErver eXtensions - The Media Server Extensions layer is the part of the suite of protocols that is used for communication between a controller and a media server. It allows information for specified elements to be passed from the media server to the console and/or visualizer. 
@@ -44,7 +44,7 @@ Sometimes video content is recorded in a 4x3 format and played back on a 16x9 de
 The term Pixel is a contraction between the words PIcture and ELement. Pixels are the smallest unit of measurement for a computer screen. All the different Pixels combined make up the mosaic of the image presented on the screen.
 
 ## RDM
-Remote Device Management or RDM is a protocol enhancement to USITT [DMX512](http://en.wikipedia.org/wiki/DMX512 “DMX512”) that allows bi-directional communication between a lighting or system controller and attached RDM compliant devices over a standard DMX line. This protocol will allow configuration, status monitoring, and management of these devices in such a way that does not disturb the normal operation of standard DMX512 devices that do not recognize the RDM protocol. The standard was originally developed by the Entertainment Services and Technology Association - Technical Standards (ESTA) and is officially known as “ANSI E1.20, Remote Device Management Over DMX512 Networks. [Click here](http://en.wikipedia.org/wiki/RDM_(lighting)) for more details.
+Remote Device Management or RDM is a protocol enhancement to [DMX512](http://en.wikipedia.org/wiki/DMX512) that allows bi-directional communication between a lighting or system controller and attached RDM compliant devices over a standard DMX line. This protocol will allow configuration, status monitoring, and management of these devices in such a way that does not disturb the normal operation of standard DMX512 devices that do not recognize the RDM protocol. The standard was originally developed by the Entertainment Services and Technology Association - Technical Standards (ESTA) and is officially known as “ANSI E1.20, Remote Device Management Over DMX512 Networks”. [Click here](http://en.wikipedia.org/wiki/RDM_(lighting)) for more details.
 
 ## Relative Pathing
 When creating links or references to files or web pages, there are two ways to reference the file or page.
