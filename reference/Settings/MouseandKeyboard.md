@@ -36,7 +36,7 @@
 <p class="hcp2"><img alt="" src="../../../images/img_330.jpg" border="0" class="hcp3"></p>
 <p class="hcp2">&#160;</p>
 <h2>Assigning Keys to specific clips</h2>
-<p>This can also be done from the main clip panel, by pressing and holding 
+<p>This can also be done from the main clip panel in trigger edit mode, by pressing and holding 
  the key you wish to assign, then clicking on the clip that you want to 
  be able to control. When you use this approach you will encounter the 
  following warning dialog.</p>
