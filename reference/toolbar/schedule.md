@@ -30,7 +30,7 @@ Click to pause the scheduler, click again to un-pause. No clips will run automat
 ## Live/Next Status
 The thumbnail, name and scheduled time for the currently live item is shown on the left. This will only show items played by the scheduler.
 
-On the right the next scheduled item is shown together with a countdown clock which counts down to the start time of the next scheduled item.
+On the right the next scheduled item is shown together with a countdown clock which counts down to the start time of the item.
 
 ## Table View
 The table in the lower half of the window shows a row for every scheduled clip and has the following columns.

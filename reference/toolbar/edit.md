@@ -1,7 +1,7 @@
 ![](../../images/toolbar.png) 
 # Edit
 
-You may find yourself wanting to change the settings of more than one clip at a time. This is where edit mode is handy. It allows you to select a number of clips and change the settings on all the selected clips in one go. When in edit mode you can change the effect, link and layer as well as remove the selected clips. Edit mode also allows you to quickly move clips and re-arrange the dashboard.
+You may find yourself wanting to change the settings of more than one clip at a time. This is where edit mode is handy. It allows you to select a number of clips and change the settings on all the selected clips in one go. When in edit mode you can change the effect, link and layer as well as remove the selected clips. Edit mode also allows you to quickly move clips and rearrange the dashboard.
 
 ## Edit Mode
 - To enter edit mode click the pencil icon in the toolbar or press Ctrl+E

@@ -4,7 +4,7 @@
 Triggers allow you to play clips by simply pressing a keyboard key that you assign to the clip. The triggers work even when Screen Monkey is minimised or not the active application.
 
 ## Trigger Edit Mode
-To enter Trigger Edit mode click the trigger icon on the toolbar. The dashboard will change to trigger display mode. Any clips with triggers assigned will show the trigger key above the thumbnail. Any clips without triggers assigned will have a grey border. In the example below the top row of clips have been assigned keys and the bottom row have not.
+To enter Trigger Edit mode click the trigger icon on the toolbar or press Ctrl+T. The dashboard will change to trigger display mode. Any clips with triggers assigned will show the trigger key above the thumbnail. Any clips without triggers assigned will have a grey border. In the example below the top row of clips have been assigned keys and the bottom row have not.
 
 ![](../../images/dashboard-triggers.png)
 
