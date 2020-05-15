@@ -8,7 +8,7 @@ Answers to some common issues and questions.
 - Check Screen Monkey [display profile](toolbar/display.md)
 
 ## Video does not play or Live Monitor timecode does not update
-- Check ffdshow (from [K-Lite](https://codecguide.com/download_kl.htm) package) is correctly installed and ‘Use ffdshow in:’ is not ticked in ffdshow settings.
+- Check ffdshow (from [K-Lite](https://codecguide.com/download_kl.htm) package) is correctly installed and ‘Use ffdshow only in:’ is not ticked in ffdshow settings.
 
 ![](../images/ffdshow.png)
 
