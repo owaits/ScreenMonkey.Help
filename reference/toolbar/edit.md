@@ -35,4 +35,4 @@ To quickly remove clips first select them using any of the methods above and the
 ## Moving Clips
 When in edit mode you can move clips by selecting them and dragging them to a new position. You must first click the clip(s) to select, then click again to begin the click and drag process. You can drop the clip(s) on any empty space or on top of an existing clip. In this case the clips are simply reordered, nothing is removed.
 
-If you are in list view then you can drag items in the list to re-order them. You can also drag items between spaces and the main dashboard.
+If you are in list view then you can drag items in the list to re-order them. You can also drag items between [space clips](../clipTypes/CueListSpaceClip.md) and the main dashboard.
