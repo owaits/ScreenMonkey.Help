@@ -35,14 +35,14 @@ You may also drop multiple files into Screen Monkey to quickly load lots of clip
 ### 4. Clip Template
 Create a clip based on a [saved template](clipSettings/exportClipTemplate.md).
 
+## Do more with clips
+Adding clips is just the start, you can create very complex and highly automated shows. Learn more about [links](clipSettings/link.md), [transitions](clipSettings/transition.md), [effects](clipSettings/effects.md) and [schedules](clipSettings/schedule.md). Right click on any clip to bring up a [menu of options](clipSettings/clipSettings.md) for modifying all aspects of the clip.
+
 ## Moving Clips
 Use [Edit mode](toolbar/edit.md) to move clips around the dashboard.
 
 ## Inserting Clips
 Clips are inserted by simply by dragging them over the top of an existing clip. When you do this, the clips will be shifted along to make space for the inserted clip.
-
-## Modify Clip Settings
-Right click on any clip to bring up a [menu of options](clipSettings/clipSettings.md) for modifying all aspects of the clip.
 
 ## Playing Clips
 After you have added clips to slots you’re ready to play the show. To play a clip, find the clip you want to play and left-click once on it. The clip border turns white to indicate the clip is running and the layer preview thumbnail at the left of the dashboard is updated.
