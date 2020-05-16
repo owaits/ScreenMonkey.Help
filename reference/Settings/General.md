@@ -1,6 +1,6 @@
 # General
 
-![](../../../images/SettingsDialogGeneral.png)  
+![](../../../images/settings-general.png)  
 
 General settings are split into five areas:
 
@@ -9,7 +9,7 @@ General settings are split into five areas:
 *   [Show](#show)
 *   [Schedule](#schedule)
 *   [Display Settings](#display-settings)
-*   [Events and Errors](#events-and-Errors)
+*   [Events and Errors](#events-and-errors)
 
 ## Clip Preview
 This area contains settings related to clips.
@@ -90,15 +90,11 @@ This option allows you to choose whether the Toolbox icons in the Main Dashboard
 
   
 
-![](../../../images/Tipimage.png)
-
 Large Toolbox icons are especially useful when using Screen Monkey on a touch screen.
 
 ## Show
 
 - *Auto Save* Screen Monkey will automatically save your configuration file after a set amount of time. This means that if the application should close unexpectedly or the computer loses power, your show will be reloaded from the last time it auto saved when you next start the software.
-
-![](../../../images/AutoSave.png)
 
 You can choose to auto save from 1 minute to 1 hour. Or you may choose to turn it off.
 
@@ -111,21 +107,14 @@ You can choose to auto save from 1 minute to 1 hour. Or you may choose to turn i
 - *Wait for Break before Playing*
 
 ## Display Settings
+Screen Monkey allows you to work with all sorts of display devices. Additional Monitors, Projection Systems, Lighting Systems, MIDI devices, etc. You may configure different profiles that allow you to accommodate different situations and environments. 
 
-Screen Monkey allows you to work with all sorts of display devices. Additional Monitors, Projection Systems, Lighting Systems, Midi devices, etc. You may configure different profiles that allow you to accommodate different situations and environments.
+See [Display Profiles](../toolbar/display.md) for more information.
 
-![](../../../images/DisplaySettings.png)  
-
-Profile
-
-See the [Display Profile](../DisplayProfiles.md) topic for more information.
-
-Use Effect on Clip Out
-
-When enabled, the effect of the last played clip is used to clear the effect when the Clear panel is pressed. If this is set and a fade to black was the last clip run then pressing clear would fade back to the desktop. (It is highly recommended to ensure this setting is enabled.)
+- **Use Effect on Clip Out** When enabled, the effect of the last played clip is used to clear the effect when the Clear panel is pressed. If this is set and a fade to black was the last clip run then pressing clear would fade back to the desktop. It is recommended this setting is enabled.
 
 ## Events and Errors
 
-See the [Events & Errors](../EventsAndErrors.md) topic for more information.
+See the [Events & Errors](../EventsAndErrors.md) for more information.
 
 You may also change the size of the thumbnail images of the clips presented in the dashboard. This is controlled by visiting the \[Screen Monkey Settings\](../../reference/setup/Settings/Settings.md). !\[\](../../images/MainDashboard3.png) ## Autosave Additionally, Screen Monkey has an ‘Auto Save’ feature that is enabled by default. The default increment is every 5 minutes, but you are able to change this to suit your taste in \[General Settings\](../Settings/General.md). Choices vary from Never to 1 Hour.
