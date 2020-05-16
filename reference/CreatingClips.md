@@ -49,21 +49,38 @@ After you have added clips to slots you’re ready to play the show. To play a c
 
 To play a different clip, simply left-click on it and it will play.
 
-## Pausing a Clip
+### Pausing a Clip
 Clip types such as video and audio may be paused while they are playing. This will cause the clip to stop playing and freeze at its current frame. To pause a clip, left-click the clip slot while the clip is running.
 
 This can be an extremely useful feature to help you cue video and have it ready for immediate play. Perhaps you want to start and pause a video right at the beginning so that as soon as it’s needed, you are ready to begin playing the video.
 
 To accomplish this, double-click the clip instead of single clicking. The first click will instruct Screen Monkey to play the video and the second will pause it. This means that when you single-click again the video will begin playing instantly with no delay as the video loads.
 
-## Play State Indicators
+### Play State Indicators
 Some clip types will display an indicator to tell you what the current state of the clip is. A video clip may be playing, paused or stopped. To tell you which state the video is in a little icon appears in the top right of the clip panel.
 
 |![](../../images/clip-video-play.png)|![](../../images/clip-video-pause.png)|![](../../images/clip-video-stop.png)|
 |:-:|:-:|:-:|
 |Playing|Paused|Stopped|
 
-## Rewind during Live Playback
+### Rewind during Live Playback
 You may wish to rewind a clip back to the beginning while the clip is live. This may happen if you accidentally play the clip early and you want to play the clip from the beginning. Or perhaps the clip has finished playing and you want to play it again.
 
 To rewind a clip, press and hold the Ctrl key while left-clicking the running clip. The clip will then rewind back to the start, whatever play state it is in.
+
+## Repairing Clips
+Sometimes your clip media will be on a removable drive or you may have had to move the media files. If this occurs, Screen Monkey will fail to find the files required to load a clip. This is indicated by an event in the event log and the clip thumbnail will present an error image as shown below.
+
+![](../../images/dashboard-clip-redcross.PNG)
+
+When this happens you can use the repair clip or [repair media](toolbar/open.md#repair-media) tools to tell Screen Monkey where the files have been moved to.
+
+To repair a single clip, click it as if you where going to play it. Screen Monkey prompts to ask if you want to attempt to repair the clip.
+
+![](../../images/repair-clip-message.png)
+
+Click yes and the clip will attempt to repair itself. In some cases you are presented with a file browser dialog that allows you to locate the missing file or folder. The clip type determines the action taken to try and repair a clip. Once you have repaired the clip it should re-load and be usable as a normal clip again. 
+
+If you need to repair lots of clips then the [repair media](toolbar/open.md#repair-media) tool will save you time.
+
+Not all clip types support repairing. If the clip does not support repairing, Screen Monkey will inform you.
