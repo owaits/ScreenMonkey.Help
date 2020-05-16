@@ -38,6 +38,11 @@ Style
 The drop-down allows you to choose whether the Screen Monkey Dashboard is presented as a Panel or a List.
 
   
+The Main Dashboard offers two different 
+ views. Panel and List. The default is Panel but if you prefer, you may 
+ open the Screen Monkey Settings and change to List.
+
+<img alt=“” src=“../../images/PanelStyle.png” border=“0” class=“hcp4”>
 
 Panel
 

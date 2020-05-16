@@ -1,10 +1,5 @@
 <h1>Editing Clips</h1>
-<p>The process of Editing Clips typically involves beginning with right-clicking 
- the clip. And when you right-click a context menu generally appears. Exactly 
- what you may do from the context menu will vary depending upon the clip 
- type. </p>
-<p>For example, some clip types will sport an <span class="hcp2">Edit 
- / Cue</span> option.</p>
+
 <h2>What is cueing?</h2>
 <p>Cueing is the process of configuring a video, audio or DVD clip to play 
  a smaller segment.</p>
