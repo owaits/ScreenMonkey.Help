@@ -18,7 +18,6 @@ Once communication is established Screen Monkey will be able to display the comm
 
 These usually include power on, power off, input selection, mute, etc. Select the command from the grid and click ok. That command will be mapped to a new clip on the dashboard and can be played, renamed, scheduled and linked. The command clips will highlight purple to show that they are active. For example if the projector is powered on then a ‘power on’ clip will be purple. Similarly if you add a clip for each projector input (SDI, VGA, Video, etc) then the currently active input will be highlighted. This is even true if the input is switched using the projector remote control or input buttons.
 
-## Notes
-A projector will take some time to power down due to the need to cool the lamp. This means there maybe a delay between clicking a power off clip and it highlighting purple.
+*Note:* A projector will take some time to power down due to the need to cool the lamp. This means there maybe a delay between clicking a power off clip and it highlighting purple.
 
 
