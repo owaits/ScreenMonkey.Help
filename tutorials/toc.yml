@@ -9,26 +9,10 @@
  
 - name: Work with Shows
   items:
-    - name: Create a Show
-      href: WorkingWithShows/CreateAShow.md
-    - name: Save a Show
-      href: WorkingWithShows/SaveAShow.md
     - name: Load a Show
       href: WorkingWithShows/LoadAShow.md
     - name: Package a Show
       href: WorkingWithShows/SaveorPackageShow.md
-    - name: Display Layers
-      items:
-      - name: Display Layers
-        href: WorkingWithShows/DisplayLayers.md
-      - name: Layers Dashboard
-        href: WorkingWithShows/LayersDashboard.md
-    - name: Live Monitor
-      items:
-      - name: Live Monitor
-        href: WorkingWithShows/LiveMonitor.md
-      - name: Use Live Monitor
-        href: WorkingWithShows/UseLiveMonitor.md
     - name: Cue Sheet Export
       href: WorkingWithShows/CueSheetExport.md
     - name: Enhanced Podcast
