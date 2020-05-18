@@ -64,8 +64,8 @@ Each of the layers has the following settings you may configure. Note that these
 4. **OffsetY** - the vertical offset from the center of the screen as a percentage of the screen height. A negative offset will result in the layer shifting to the top of the screen and a positive offset will result in the layer shifting to the bottom of the screen.
 1. **Rotation** allows you to rotate the layer a specified number of degrees.
 2. **Width** adjusts the width of the layer as a percentage of the whole screen. A width of 50% will mean the layer width is half the width of the screen.
-5. **Zoom** proportionally scales both the width and the height as a percentage of the screen dimensions
-1. **Volume** adjustment level for any audio playing on the layer
+5. **Zoom** proportionally scales both the width and the height as a percentage of the screen dimensions.
+1. **Volume** adjustment level for any audio playing on the layer.
 
 ## Editing a Layer’s Shape
 The easiest way to edit a layer’s shape is in the editors preview. The default shape for a layer is rectangular and you can click on a layer to adjust the size and position of the layer within the screen.
