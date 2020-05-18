@@ -2,119 +2,54 @@
 
 ![](../../../images/settings-general.png)  
 
-General settings are split into five areas:
-
-*   [Clip Preview](#clip-preview)
-*   [Dashboard](#dashboard)
-*   [Show](#show)
-*   [Schedule](#schedule)
-*   [Display Settings](#display-settings)
-*   [Events and Errors](#events-and-errors)
-
 ## Clip Preview
 This area contains settings related to clips.
 
-- *Show Clip Names* When enabled, the clip name is shown in the bottom of the clip panel. (This setting is recommended to be on)
+- **Show Clip Names** When enabled the clip name is shown in the bottom of the clip panel. This setting is recommended to be on.
 
-- *Enable Global Hotkeys* When enabled, [Global Hotkeys](../advanced/Hotkeys.md) are enabled. This means that the Hotkeys for Screen Monkey will work regardless of which application has focus. With this option enabled the Hotkey will always perform its function. 
+- **Enable Global Hotkeys** When ticked [Global Hotkeys](../advanced/Hotkeys.md) are enabled. This means that the Hotkeys for Screen Monkey will work regardless of which application has focus. With this option enabled the Hotkey will always perform its function. This setting is recommended to be off.
 
-- *Generate thumbnail images for clips* This option governs whether thumbnails are generated from the clips’ media content or not. When this option is turned off the default clip logo will be displayed. This may speed up the load time of clips such as video clips as Screen Monkey won’t spend time generating a thumbnail.
+- **Generate thumbnail images for clips** This option governs whether thumbnails are generated from the clips’ media content or not. When this option is turned off the default clip logo will be displayed. This may speed up the load time of clips such as video clips as Screen Monkey won’t spend time generating a thumbnail. This setting is recommended to be on.
 
-- *Generate chapter thumbnails for clips* 
+- **Generate chapter thumbnails for clips** creates additional thumbnails throughout the clip. This setting is recommended to be off.
 
 ## Dashboard
-This area contains settings related to how the Main Dashboard user interface appears in Screen Monkey.
+This area contains settings related to how the Main Dashboard user interface appears and behaves in Screen Monkey.
 
-- *Lock to Prevent Edit*
+- **Lock to Prevent Edit** Prevents new clips from being created.
 
-- *Always On Top* When enabled, the Screen Monkey Dashboard window will always be on top of any other windows. This prevents other windows from obscuring the control window.
+- **Always On Top** When enabled, the Screen Monkey Dashboard window will always be on top of any other windows. This prevents other windows from obscuring the control window.
 
-- *Show Infobar* Whether or not to display the info bar at the bottom of the dashboard which displays information about the mouse over clip or the live clip on the selected layer.
+- **Show Infobar** Whether or not to show the info bar at the bottom of the dashboard which displays information about the mouse over clip or the live clip on the selected layer.
 
-- *Double Click to Play* The default behavior of Screen Monkey is to play a clip when it has been single clicked. If this option is enabled, Screen Monkey will only play a clip if it has been double-clicked.
+- **Double Click to Play** The default behavior of Screen Monkey is to play a clip when it has been single clicked. If this option is enabled, Screen Monkey will only play a clip if it has been double-clicked.
 
-Style
+- **Style** The drop-down allows you to choose whether the Screen Monkey Dashboard is presented as a grid panel (recommended) or as a List. The list view is useful for re-ordering clips or viewing a lot of clips on screen.
 
-The drop-down allows you to choose whether the Screen Monkey Dashboard is presented as a Panel or a List.
+- **Panel Size** The drop-down allows you to choose whether the Screen Monkey Dashboard is presented using Small, Medium (recommneded) or Large panels. This setting is ignored if Screen Monkey is configured to present the Main Dashboard as a List.
 
-  
-The Main Dashboard offers two different 
- views. Panel and List. The default is Panel but if you prefer, you may 
- open the Screen Monkey Settings and change to List.
+- **Page Stride** As you resize the Main Dashboard window, the slots are grouped according to pages. The number of slots in any given page is determined by the size of the window and whether Screen Monkey is configured to present Small, Medium or Large clips. The drop-down here allows you more control over how many clips are assigned to a given page. [Learn more about these options](../pages.md).
 
-<img alt=“” src=“../../images/PanelStyle.png” border=“0” class=“hcp4”>
-
-Panel
-
-![](../../../images/img_321.jpg)
-
-List
-
-![](../../../images/img_322.jpg)
-
-Panel Size
-
-The drop-down allows you to choose whether the Screen Monkey Dashboard is presented using Small, Medium or Large panels. This setting is ignored if Screen Monkey is configured to present the Main Dashboard as a List.
-
-![](../../../images/PanelSize.png)
-
-Page Stride
-
-As you resize the Main Dashboard window, the slots are grouped according to pages. The number of slots in any given page is determined by the size of the window and whether Screen Monkey is configured to present Small, Medium or Large clips. The drop-down here allows you more control over how many clips are assigned to a given page.
-
-  
-
-Dynamic
-
-Screen Monkey determines the number dynamically based on Panel Size setting and size of Window.
-
-100
-
-Each Page contains 100 slots.
-
-256
-
-Each Page contains 256 slots.
-
-  
-
-![](../../../images/Tipimage.png)
-
-The 255 clip option is specifically useful when controlling via [DMX](../DMXControl.md) as it ensures that each page fits on a DMX channel.
-
-Toolbox Size
-
-This option allows you to choose whether the Toolbox icons in the Main Dashboard are Large or Small.
-
-![](../../../images/ToolboxSize.png)
-
-  
-
-Large Toolbox icons are especially useful when using Screen Monkey on a touch screen.
+- **Toolbox Size** This option allows you to choose whether the Toolbar icons at the top of the Main Dashboard are Large (default) or Small.
 
 ## Show
+Configure Screen Monkey show files.
 
-- *Auto Save* Screen Monkey will automatically save your configuration file after a set amount of time. This means that if the application should close unexpectedly or the computer loses power, your show will be reloaded from the last time it auto saved when you next start the software.
+- **Auto Save** Screen Monkey will automatically save your show after a set amount of time. This means that if the application should close unexpectedly or the computer loses power, your show will be reloaded from the last time it auto saved when you next start the software. You can choose to auto save from 1 minute to 1 hour or you may choose to turn it off. Recommended setting is 5 minutes.
 
-You can choose to auto save from 1 minute to 1 hour. Or you may choose to turn it off.
+- **Auto load show when file is modified** With this option enabled you can replace the live show file with an updated version and Screen Monkey will load and activate it. This maybe useful for remote management of Screen Mokney installations.
 
-- *Auto load show when file is modified*
-
-- *Auto play first clip after show load*
+- **Auto play first clip after show load** Often used in conjuction with the previous setting. When the show is loaded the first clip is played without user intervention.
 
 ## Schedule
+Screen Monkey can run cilps on a timed schedule. Learn more about [scheduling clips](../clipSettings/schedule.md).
 
-- *Wait for Break before Playing*
+- **Wait for Break before Playing** When enabled this setting will prevent scheduled clips playing if a manually triggered clip is active. The scheduled clip will play as soon as the manual clip completes.
 
 ## Display Settings
-Screen Monkey allows you to work with all sorts of display devices. Additional Monitors, Projection Systems, Lighting Systems, MIDI devices, etc. You may configure different profiles that allow you to accommodate different situations and environments. 
+Screen Monkey allows you to work with all sorts of display devices. Additional Monitors, Projection Systems, Lighting Systems, MIDI devices, etc. You may configure different profiles that allow you to accommodate different situations and environments. See [Display Profiles](../toolbar/display.md) for more information.
 
-See [Display Profiles](../toolbar/display.md) for more information.
-
-- **Use Effect on Clip Out** When enabled, the effect of the last played clip is used to clear the effect when the Clear panel is pressed. If this is set and a fade to black was the last clip run then pressing clear would fade back to the desktop. It is recommended this setting is enabled.
+- **Use Effect on Clip Out** If enabled then when a clip is cleared from a layer it will use the clip transition if one is set. It is recommended this setting is enabled.
 
 ## Events and Errors
-
-See the [Events & Errors](../EventsAndErrors.md) for more information.
-
-You may also change the size of the thumbnail images of the clips presented in the dashboard. This is controlled by visiting the \[Screen Monkey Settings\](../../reference/setup/Settings/Settings.md). !\[\](../../images/MainDashboard3.png) ## Autosave Additionally, Screen Monkey has an ‘Auto Save’ feature that is enabled by default. The default increment is every 5 minutes, but you are able to change this to suit your taste in \[General Settings\](../Settings/General.md). Choices vary from Never to 1 Hour.
+Clicking the 'Show Event Log' button here will open the log. See [Events & Errors](../EventsAndErrors.md) for more information.
