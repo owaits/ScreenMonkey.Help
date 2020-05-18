@@ -2,10 +2,10 @@
   items:
     - name: Main Window
       href: mainWindow.md
-    - name: Understanding Layers
-      href: layers.md
     - name: Working with Clips
       href: CreatingClips.md
+    - name: Understanding Layers
+      href: layers.md
     - name: Using Pages
       href: pages.md
     - name: System Requirements
