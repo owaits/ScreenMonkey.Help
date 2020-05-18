@@ -48,17 +48,17 @@ The toolbar runs across the top of the main window and provides quick access to 
 |-|-|
 |[Open](toolbar/open.md)        |Open a sub-menu with options for New, Open, Open Recent and Repair Media.|
 |[Save](toolbar/save.md)        |Open a sub-menu with options for Save, Save As and Package show.|
-|[Live](toolbar/live.md)        |Activate playback mode. Clicking clips in the dashboard will cause them to play or pause.|
-|[Edit](toolbar/edit.md)        |Enter Edit mode. You may edit the settings for multiple clips at once.|
-|[Link](toolbar/link.md)        |Link Edit mode. You may edit the link settings for multiple clips at once.|
-|[Trigger](toolbar/trigger.md)  |Trigger Edit mode.|
-|[Layers](toolbar/layers.md)    |Clicking this icon will open the Layers Dashboard. This window provides controls allowing you to play the next clips as well as fade layers in and out.|
-|[Preview](toolbar/preview.md)  |When selected will show or hide the Live Monitor window for the current clip.|
+|[Live](toolbar/live.md)        |Activate live playback mode. Clicking clips in the dashboard will cause them to play or pause.|
+|[Edit](toolbar/edit.md)        |Edit mode is for editing the settings of multiple clips at once and for rearranging clips.|
+|[Link](toolbar/link.md)        |Link Edit mode allows you to quickly edit the link settings for multiple clips at once.|
+|[Trigger](toolbar/trigger.md)  |Trigger Edit mode allows you to assign keys for triggering clip playback.|
+|[Layers](toolbar/layers.md)    |Opens the Layers Dashboard. This window provides controls allowing you to play the next clips as well as fade layers in and out.|
+|[Preview](toolbar/preview.md)  |Show or hide the Live Monitor preview window.|
 |[Display](toolbar/display.md)  |Open the display profile editor where you configure external monitors and layer shapes.|
 |[Schedule](toolbar/schedule.md)|Opens the Schedule viewer window.|
 |[Notes](toolbar/notes.md)      |Opens a notes viewer.|
-|[Cue](toolbar/cue.md)          |Provides fast access to cueing a clip. When you select this icon the clips will begin flashing and allow you to select a clip to edit/cue.|
-|[Window](toolbar/window.md)    |When selected allows you to save, recall or lock the window layout.|
+|[Cue](toolbar/cue.md)          |Provides fast access to the cue/edit settings for a clip..|
+|[Window](toolbar/window.md)    |Open a sub-menu with options to recall, save or lock the window layout.|
 
 ## Top Right Buttons
 In the top right of the main window there are two more buttons. Clicking on the three dots will open a menu where you can open the [Screen Monkey settings](Settings/Settings.md) dialog or open this online help.
