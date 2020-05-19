@@ -8,29 +8,28 @@ Screen Monkey allows you to show, hide, pin and dock almost any part of the user
 To make it easy to switch between different layouts or restore a previous layout you can save your window positions to a view. It is then simple to restore those layouts with one button press. You restore a Window layout by selecting the desired view from the Window menu. All the windows move to the position at the point when you saved the view.
 
 ## Docking Windows
-To change the layout, drag the window to the new position. As you drag the window you will see guides appear indicating where you can drop the window to dock it. Dragging the window away from the main dashboard will cause it to float.
+By default new windows float above the dashboard but they can be docked. To change the layout, drag the title bar of the window. As you drag the window you will see guides appear indicating where you can drop the window to dock it. 
 
-![](../../images/img_187.jpg)
+![](../../images/window-docking.png)
 
-If you drag the window outside all the other windows, it will float. Dropping the window in the center of the guide will cause it to become tabbed.
+Dropping the window in the center of the guide will cause it to become tabbed.
 
-![](../../images/img_188.jpg)
+![](../../images/window-tabs.png)
 
-To view a window that is tabbed, click the tab to make it visible. You may also pin a window so that it is initially hidden but slides out when you click on the window icon. To pin a window, click the Pin icon.
+To view a window that is tabbed, click the tab to make it visible. 
 
-![](../../images/img_189.jpg)
+You may also pin a window so that it is initially hidden but slides out when you hover on the pinned window icon. To pin a window, click the pin icon. When the window is pinned it will appear as a small button against the edge it has been pinned to. Click the pin again to un-pin.
 
-Please note that the window must be docked and not tabbed to see this icon. When the window is pinned it will appear as a small button against the edge it has been pinned to.
+![](../../images/window-pinned.png)
 
-![](../../images/img_190.jpg)
-
-You now have a great deal of flexibility to layout the different parts of Screen Monkey, where you want them.
+You now have a great deal of flexibility to layout the different parts of Screen Monkey where you want them.
 
 Some helpful tips: 
 
-1. To change the layout drag and drop any panel title bar or tab onto a blue indicator 
+1. To change the layout drag and drop any panel title bar or any tab onto a blue indicator 
 2. Close tabs or panels with the X in the top right 
-3. Pin items to the side of the screen with the Pin icon
+3. Pin items to the side of the screen with the pin icon
+4. Drop outside of any blue indicators to return to floating
 
 ## Window Menu items
 Clicking on the Window toolbar icon will reveal a menu. Any user saved views will appear first followed by the items described below.
