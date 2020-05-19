@@ -7,4 +7,4 @@ When you first add the clip to a slot you are presented with a dialog allowing y
 
 ![](../../images/clip-testcard.png)
 
-*Note: There is no edit function for testcard clips. If you decide you want to use a different test card later you must clear the clip and re-add it.*
+*Note:* There is no edit function for testcard clips. If you decide you want to use a different test card later you must clear the clip and re-add it.
