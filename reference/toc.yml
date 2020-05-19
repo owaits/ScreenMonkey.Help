@@ -153,8 +153,6 @@
       items:
       - name: Text Clip
         href: clipTypes/Text/TextClip.md
-      - name: Text Clip Formatting
-        href: clipTypes/Text/CreatingTextClips.md
       - name: Text
       - name: Live Text
       - name: Image
