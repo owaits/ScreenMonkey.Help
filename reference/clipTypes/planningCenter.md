@@ -52,6 +52,8 @@ Create a Planning Center clip as normal but instead of selecting a plan enter th
 
 - You may optionally use Planning Center song sequences however this is not recommended because Planning Center sequence codes do not map 1-1 with Screen Monkey and this can lead to confusion and missing sections.
 
+- Your Personal Access Token is saved by Screen Monkey but it is not part of the showfile and will not be lost if you create a new show. Likewise it will not be transfered to a new computer as part of the showfile.
+
 
 
 
