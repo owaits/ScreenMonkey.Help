@@ -1,7 +1,7 @@
 # Default Song Tags
 The following song tags are installed by default.
 
-| Id | QuickName | Name         | Break? |
+| Id |Quick Name | Name         | Slide Breaks |
 |----|-----------|--------------|--------|
 | 1  | P         | Plain Text   | After  |
 | 2  | C         | Chorus       | After  |
