@@ -1,5 +1,5 @@
 # Default Song Tags
-The following section names are installed by default.
+The following song tags are installed by default.
 
 | Id | QuickName | Name         | Break? |
 |----|-----------|--------------|--------|
