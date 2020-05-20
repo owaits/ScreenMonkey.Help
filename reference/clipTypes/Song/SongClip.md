@@ -18,7 +18,7 @@ You now have a few options:
 - you want to [configure the way songs are presented on screen](SongDisplay.md)
 
 ## How to use a Song Clip
-Songs are divided into sections and pages. Sections are identified by specific phrases in the text, such as 'Chorus' or 'Verse 1'. Pages are created automatically to ensure the text fits onto the screen in the font size specified. Depending on the song makeup each section may require one or more pages. 
+Songs are divided into sections and pages. Sections are identified by specific phrases in the text, such as 'Chorus' or 'Verse 1'. Pages are created automatically to ensure the text fits onto the screen in the font size and within the margins specified. Depending on the song makeup each section may require one or more pages. 
 
 In the example below the [display settings](SongDisplay.md) for the song only allow 2 lines to be shown on the screen so section 1 (verse 1) is split into multiple pages.
 
