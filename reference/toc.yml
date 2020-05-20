@@ -147,6 +147,8 @@
         href: clipTypes/Song/WorkingWithLabels.md
       - name: Configuring the Appearance
         href: clipTypes/Song/ConfiguringTheAppearance.md
+      - name: Song Tags Reference
+        href: clipTypes/Song/SongTags.md
     - name: Test Card
       href: clipTypes/TestCardClip.md
     - name: Text
