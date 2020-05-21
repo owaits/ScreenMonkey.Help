@@ -1,116 +1,76 @@
-<h1>Configuring the Appearance</h1>
-<p>To Configure the Appearance of a Song Clip, right-click the clip in 
- the Main Dashboard and choose Display Options. (Alternatively, you may 
- edit the clip and choose <span class="hcp2">Tools &gt; Display 
- Options</span> from the <span class="hcp2">Cue</span> dialog.)</p>
-<p>The <span class="hcp2">Display Style</span> dialog should 
- open.</p>
-<p style="margin-left: 24px;"><img src="../../../images/DisplayStyleEditorSong.png" alt="" style="border: none;" border="0"></p>
-<p>This dialog will allow you to configure the appearance of your songs. 
- If you are wondering why the dialog has the different colored areas, <a 
-	 href="http://en.wikipedia.org/wiki/Title_safe" target="_blank">click 
- here</a>.</p>
-<p>&#160;</p>
-<table style="margin-left: 24px; border-collapse: separate; border-collapse: separate;" 
-		 cellspacing="0" border="1">
-	<col>
-	<col>
-	<tr>
-		<td colspan="2" bgcolor="#C0C0C0"><span class="hcp2">Background</span></td>
-		
-	</tr>
-	<tr>
-		<td class="hcp3"><p class="hcp4">None</p></td>
-		<td>Clicking None chooses no background at all. If you want a Transparent 
-		 background, click None. This is useful for using with layers or 
-		 for presenting text over video. 
-		<br>&#160;</td>
-	</tr>
-	<tr>
-		<td class="hcp3"><p class="hcp4">Colour</p></td>
-		<td>This is the default and the color is black. Clicking the Colour 
-		 icon will cause a Windows color chooser to present. From there 
-		 you may choose the desired color. When you choose a color it will 
-		 also update the preview. 
-		<br>&#160;</td>
-	</tr>
-	<tr>
-		<td class="hcp3"><p class="hcp4">Image</p></td>
-		<td>Clicking Image allows you to browse to and choose an image 
-		 to be used. jpg, png, and bmp’s are supported. Note that whatever 
-		 image you choose will be scaled to fill the screen. Additionally, 
-		 if the image is configured with a transparent background, the 
-		 transparency is respected. Although the filter doesn't list them, 
-		 .gif images appear to work here. .gif transparency also appears 
-		 to be respected. Animated images are not supported. 
-		<br>&#160; 
-		<br>If you wish to remove an image, click the Color 
-		 icon. 
-		<br>&#160;</td>
-	</tr>
-	<tr>
-		<td colspan="2" bgcolor="#C0C0C0"><span class="hcp2">Main 
-		 Text</span></td>
-		
-	</tr>
-	<tr>
-		<td class="hcp3"><p class="hcp4">Font</p></td>
-		<td>Click here to change the Font characteristics of the Text. 
-		 
-		<br>&#160;</td>
-	</tr>
-	<tr>
-		<td class="hcp3"><p class="hcp4">Colour</p></td>
-		<td>Changes the color of the displayed Font. 
-		<br>&#160;</td>
-	</tr>
-	<tr>
-		<td class="hcp3"><p class="hcp4">Align</p></td>
-		<td>Clicking this box gives you alignment options for the displayed 
-		 Font. 
-		<br>&#160;</td>
-	</tr>
-	<tr>
-		<td class="hcp3"><p class="hcp4">Margin</p></td>
-		<td>Sets the margins or borders around the Song or Copyright information. 
-		 
-		<br>&#160;</td>
-	</tr>
-	<tr>
-		<td class="hcp3"><p class="hcp4">Effect</p></td>
-		<td>When displaying song words over an image background you often 
-		 need an effect such as drop shadow or text outline to ensure the 
-		 words stand out. This gives you the option to add both an outline 
-		 and drop shadow to the text. Both effects are highly configurable 
-		 to ensure you get exactly the effect you want. 
-		<br>&#160;</td>
-	</tr>
-	<tr>
-		<td class="hcp3"><p class="hcp4">Transition</p></td>
-		<td>You can set the time taken for the song words to transition 
-		 from one verse to the next. You have four speed options &quot;No 
-		 Transition&quot;, &quot;Fast Transition&quot;, &quot;Normal Transition&quot; 
-		 and &quot;Slow Transition&quot;. 
-		<br>&#160;</td>
-	</tr>
-	<tr>
-		<td colspan="2" bgcolor="#C0C0C0"><span class="hcp2">Template</span></td>
-		
-	</tr>
-	<tr>
-		<td class="hcp3"><p class="hcp4">Load</p></td>
-		<td>Clicking this icon allows you to load a template. 
-		<br>&#160;</td>
-	</tr>
-	<tr>
-		<td class="hcp3"><p class="hcp4">Save</p></td>
-		<td>Clicking this icon allows you to save a template. You may wish 
-		 to have different templates that provide different color backgrounds 
-		 or background images. For example, at Easter there might be one 
-		 background and at Christmas another. Or perhaps a song targeted 
-		 at children has one background while a song for adults has another. 
-		 
-		<br>&#160;</td>
-	</tr>
-</table>
+# Song Display Settings
 
+To change to style and format of the presented song words use the Display Editor. There are a lot of similarities between this display editor and the [Text clip](../Text/TextClip.md) so those pages are also worth reading.
+
+## Display Editor
+To open the Display Editor either:
+
+- Right-click the Song clip on the Main Dashboard and choose Display Options
+- From within a Song Clip edit dialog choose Tools > Display Options 
+
+![](../../../images/song-display-default.png)
+
+This dialog will allow you to configure the appearance of your songs. 
+
+There are four main areas
+
+- Toolbar along the top
+- Caption list down the left hand side
+- Preview in the remainder of the window
+- Bottom section buttons
+
+## Captions List
+Provides a list of the three elements which make up a song clip. 
+
+- **Main Text** is where the lyrics are shown
+- **Copyright** an optional line displaying the copyright information (on by default)
+- **Title** an optional line displaying the song title (off by default)
+
+Click on an item to select it and then edit the settings for that caption using the toolbar buttons.
+
+## Toolbar
+The toolbar is split into three sections - background, text and template.
+
+### Background
+Defines the background for the song. The same background is used for every page/section.
+
+|Item|Description|
+|-|-|
+|None|Clicking None sets no background at all, ie, fully transparent. This is useful when using multiple layers to present the song lyrics over video clips.|
+|Colour|This is the default and the color is black. Clicking the Colour icon will cause a Windows color chooser to present. From there you may choose the desired color. When you choose a color it will also update the preview.|
+|Image|Clicking Image allows you to browse to and choose an image to be used. jpg, png, and bmp’ are supported. Note that whatever image you choose will be scaled to fill the screen. Additionally, if the image is configured with a transparent background, the transparency is respected. Animated images are not supported. If you wish to remove an image, click the Colour or None button.|
+
+### Text Formatting
+The following settings are applied to each caption (main text, copyright, title) individually. First select a caption from the list on the left and then use these tools to modify it.
+
+|Item|Description|
+|-|-|
+|Font|Click here to change the Font and style (bold, italic, etc) of the selected caption.|
+|Colour|Changes the colour of the selected caption.|
+|Align|Clicking this box gives you alignment options for aranging the text within the frame. The icons give an indication of how the text will be laid out.|
+|Margin|Allows you to set the four margins (left, right, top, bottom) from the edges of the screen to the selected caption.|
+|Effect|This section gives you two effect options - Outline and Drop Shadow. Both are configurable in terms of look and colour.|
+|Transition|You can set the time taken for the song words to transition (disolve) from one page to the next. There are four speed options 'No Transition', 'Fast Transition', 'Normal Transition' and 'Slow Transition'.|
+|Format|There are|
+|Visible| |
+
+### Template
+
+Load
+
+Clicking this icon allows you to load a pre-saved display style template.  
+ 
+
+Save
+
+Clicking this icon allows you to save a template. You may wish to have different templates that provide different color backgrounds or background images. For example, at Easter there might be one background and at Christmas another. Or perhaps a song targeted at children has one background while a song for adults has another.
+
+## Buttons
+Along the bottom of the widow are four buttons.
+
+|Item|Description|
+|-|-|
+|OK|Close the dialog and keep changes|
+|Cancel|Close the dialog and lose changes| 
+|Apply| | 
+|Apply to All| |
