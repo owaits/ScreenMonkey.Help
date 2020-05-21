@@ -18,17 +18,29 @@ You now have a few options:
 - you want to [configure the way songs are presented on screen](SongDisplay.md)
 
 ## How to use a Song Clip
-Songs are divided into sections and pages. Sections are identified by specific phrases in the text, such as 'Chorus' or 'Verse 1'. Pages are created automatically to ensure the text fits onto the screen in the font size and within the margins specified. Depending on the song makeup each section may require one or more pages. 
+Songs are divided into Sections and Pages. 
 
-In the example below the [display settings](SongDisplay.md) for the song only allow 2 lines to be shown on the screen so section 1 (verse 1) is split into multiple pages.
+**Sections** are identified by specific phrases in the text, such as 'Chorus' or 'Verse 1' which you type into the editor. The order and arrangement of Sections is determined by the QuickName sequence. 
 
-Click the Song Clip to begin presenting it. The first section will display. Repeated clicks will present the subsequent pages and sections.
+**Pages** are created automatically to ensure the text fits onto the screen in the font size and within the margins specified. Depending on the song makeup each section will require one or more pages. 
 
-In the Live Monitor the lyrics for the whole song and a preview of the current output will be displayed. The current section is highlighted and you can jump to other sections simply by clicking on the lyrics.
+In the example below the [display settings](SongDisplay.md) for the song only allow two lines to be shown on the screen so every section is split into multiple pages.
 
-![](../../../images/preview-songwords.png)
+![](../../../images/song-livemonitor.png)
 
-You can advance the song though the sections by using the keyboard arrow keys.
+Click the Song Clip in the dashboard to begin presenting it. The first page will display. Repeated clicks on the clip icon will present the subsequent pages and sections.
 
-You may wish to assign a keyboard key to jump to specific section in a song. This is useful when you are displaying songs and do not know what order the sections will be sung in. You can assign keys to all the sections and when that key is pressed it will jump straight to that section. This is configured in the [Mouse and Keyboard](../../Settings/MouseandKeyboard.md) settings.
+It is recommended to use the Live Monitor so you can preview the lyrics for the whole song. The current section is highlighted and you can jump to other sections simply by clicking on the lyrics in the Live Monitor. To show the next page of a section click again on that section.
+
+There are aditional ways to navigate the song. Along the top are left and right arrow buttons. Click these to move forward and backward through the pages. Next to the left arrow is the Restart Verse button which will display Page 1 of the current section.
+
+![](../../../images/song-livemonitor-left-right.png)
+
+Also, at the bottom the QuickNames for the song sections are shown in sequence order, click any of these to jump to that section. 
+
+![](../../../images/song-livemonitor-sequence.png)
+
+You can move forwards and backwards through the song pages by using the keyboard arrow left and right keys.
+
+You may wish to assign a keyboard key to a specific section in a song. This is useful when you are displaying songs and do not know what order the sections will be sung in. You can assign keys to all the sections and when that key is pressed it will jump straight to that section. This is configured in the [Mouse and Keyboard](../../Settings/MouseandKeyboard.md) settings.
 
