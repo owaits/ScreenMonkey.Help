@@ -1,7 +1,7 @@
 # Default Song Tags
 The following song tags are installed by default. They can be changed as required by using the [song tag editor](SongEditor.md).
 
-| Id |Quick Name | Name         | Slide Breaks |
+| Id |Quick Name | Name   | Slide Breaks |
 |----|-----------|--------------|--------|
 | 1  | P         | Plain Text   | After  |
 | 2  | C         | Chorus       | After  |
