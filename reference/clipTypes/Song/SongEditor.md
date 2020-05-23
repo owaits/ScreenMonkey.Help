@@ -55,6 +55,21 @@ Above the main lyrics there are a number of metadata fields which can be populat
 
 Use the [Song Display Style](SongDisplay.md) editor to configure how these fields are presented on screen.
 
+## 5. Labels
+When you create Song Clips you have an ability to add labels. Labels are a handy way of finding Songs later. For example, for a church setting you may wish to define a Label of Christmas songs. Then associate it with all the different songs using a Christmas theme. Labels can be very useful when you need to [Search for songs](SongSearch.md).
+
+### To associate a label with a song
+Click the Label drop-down and either select an existing label or start typing to create a new label.
+
+![](../../../images/song-label-new.png)
+
+![](../../../images/song-label-hymn.png)
+
+You may repeat this process to add as many labels as needed.
+
+### To remove a label
+A label is removed by clicking on the cross next to the label name.
+
 ## 6. Save an XML file
 It's a good idea to save all your songs to a dedicated common folder intended for only songs. This will come in handy if you want to use [Song Search](SongSearch.md) to reuse songs later. 
 
@@ -80,17 +95,3 @@ To create your own tags. Open any song for editing and from the Tools menu selec
 
 ![](../../../images/song-tags.png)
 
-## Labels
-When you create Song Clips you have an ability to add labels. Labels are a handy way of finding Songs later. For example, for a church setting you may wish to define a Label of Christmas songs. Then associate it with all the different songs using a Christmas theme. Labels can be very useful when you need to [Search for songs](SongSearch.md).
-
-### To associate a label with a song
-Click the Label drop-down and either select an existing label or start typing to create a new label.
-
-![](../../../images/song-label-new.png)
-
-![](../../../images/song-label-hymn.png)
-
-You may repeat this process to add as many labels as needed.
-
-### To remove a label
-A label is removed by clicking on the cross next to the label name.
