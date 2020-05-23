@@ -7,8 +7,8 @@ You may use a variety of command line arguments to control Screen Monkey. You wi
 |Parameter|Description|
 |-|-|
 |`{filename}`|The name that was used to save the show|
-|`/play {clip_index}`|Plays the clip at the specified index. `{clip_index}` = the handle index of the clip to play
-|`/layer {layer_index}`|Changes the active layer. `{layer_index}` = the index of the layer to make active|
+|`/play {clip_index}`|Plays the clip at the specified index. `{clip_index}` is the handle index of the clip to play
+|`/layer {layer_index}`|Changes the active layer. `{layer_index}` is the index of the layer to make active|
 |`/go`|Manual activation of linked clips|
 |`/pause`|Pauses the current clip|
 |`/next`|Moves to the next clip or the first clip if on clear|
