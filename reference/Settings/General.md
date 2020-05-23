@@ -24,9 +24,9 @@ This area contains settings related to how the Main Dashboard user interface app
 
 - **Double Click to Play** The default behavior of Screen Monkey is to play a clip when it has been single clicked. If this option is enabled, Screen Monkey will only play a clip if it has been double-clicked.
 
-- **Style** The drop-down allows you to choose whether the Screen Monkey Dashboard is presented as a grid panel (recommended) or as a List. The list view is useful for re-ordering clips or viewing a lot of clips on screen.
+- **Style** The drop-down allows you to choose whether the Screen Monkey Dashboard is presented as a grid panel (recommended) or as a list. The list view is useful for re-ordering clips or viewing a lot of clips on screen.
 
-- **Panel Size** The drop-down allows you to choose whether the Screen Monkey Dashboard is presented using Small, Medium (recommneded) or Large panels. This setting is ignored if Screen Monkey is configured to present the Main Dashboard as a List.
+- **Panel Size** The drop-down allows you to choose whether the Screen Monkey Dashboard is presented using Small, Medium (recommended) or Large panels. This setting is ignored if Screen Monkey is configured to present the Main Dashboard as a List.
 
 - **Page Stride** As you resize the Main Dashboard window, the slots are grouped according to pages. The number of slots in any given page is determined by the size of the window and whether Screen Monkey is configured to present Small, Medium or Large clips. The drop-down here allows you more control over how many clips are assigned to a given page. [Learn more about these options](../pages.md).
 
@@ -52,4 +52,4 @@ Screen Monkey allows you to work with all sorts of display devices. Additional M
 - **Use Effect on Clip Out** If enabled then when a clip is cleared from a layer it will use the clip transition if one is set. It is recommended this setting is enabled.
 
 ## Events and Errors
-Clicking the 'Show Event Log' button here will open the log. See [Events & Errors](../EventsAndErrors.md) for more information.
+Clicking the 'Show Event Log' button here will open the log. See [Events and Errors](../EventsAndErrors.md) for more information.
