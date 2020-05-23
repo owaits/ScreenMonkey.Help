@@ -9,12 +9,12 @@ The Screen Monkey Planning Center clip simply creates a set of [Song](Song/SongC
 
 - The Screen Monkey computer must be connected to the internet
 - Your own [Planning Center Services](https://www.planningcenter.com/services/) account
-- A [Personal Access Token](https://developer.planning.center/docs/#/introduction/authentication) application ID and secret key for your account
+- A [Personal Access Token](api.planningcenteronline.com/oauth/applications) application ID and secret key for your account
 - A set of songs in your Planning Center Services database
 - Optionally, a service plan created in your Planning Center Services account (recommended).
 
 ## Getting Started
-First visit the Planning Center online website, login, and create your Personal Access Token. Enter any description you choose and press 'Submit'.
+First visit the [API setup page](api.planningcenteronline.com/oauth/applications) on the Planning Center online website, login, and create your Personal Access Token. Enter any description you choose and press 'Submit'.
 
 ![](../../images/planningcenter-createtoken.jpeg)
 
@@ -52,7 +52,7 @@ Create a Planning Center clip as normal but instead of selecting a plan enter th
 
 - You may optionally use Planning Center song sequences however this is not recommended because Planning Center sequence codes do not map 1-1 with Screen Monkey and this can lead to confusion and missing sections.
 
-- Your Personal Access Token is saved by Screen Monkey but it is not part of the showfile and will not be lost if you create a new show. Likewise it will not be transfered to a new computer as part of the showfile.
+- Your Personal Access Token is saved by Screen Monkey and will not be lost if you create a new show. 
 
 
 
