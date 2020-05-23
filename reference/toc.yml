@@ -139,14 +139,12 @@
       items: 
       - name: Song Clip
         href: clipTypes/Song/SongClip.md
-      - name: Creating Song Clip
-        href: clipTypes/Song/CreatingSongClips.md
+      - name: Song Clip Editor
+        href: clipTypes/Song/SongEditor.md
       - name: Searching for Songs
-        href: clipTypes/Song/SearchingForSongs.md
-      - name: Working with Labels
-        href: clipTypes/Song/WorkingWithLabels.md
-      - name: Configuring the Appearance
-        href: clipTypes/Song/ConfiguringTheAppearance.md
+        href: clipTypes/Song/SongSearch.md
+      - name: Song Display Style
+        href: clipTypes/Song/SongDisplay.md
       - name: Song Tags Reference
         href: clipTypes/Song/SongTags.md
     - name: Test Card

@@ -65,9 +65,7 @@ If you wish to Save the song simply use the File > Save As option from the menu 
 ## License Text
 You may add your CCLI number or copyright details for songs. This is a global Screen Monkey setting for your installation and not associated with a particular song.
 
-From within the song clip editor choose 'Tools > License Text'.
-
-![](../../../images/CCLI1.png)
+To edit the license text choose 'Tools > License Text' from any Song clip editor dialog.
 
 The License dialog is presented. Enable the Show license checkbox and type the text into the field provided.
 
