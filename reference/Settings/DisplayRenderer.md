@@ -18,4 +18,4 @@ In conjunction with a DMX output profile enables output to pixel mapped displays
 In development.
 
 ## WPF
-This uses the latest WPF technology built into Windows to display the clips to the screen. It supports 3D graphics and allows for more elaborate transition effects. You may also notice that the animations are smoother with higher performance. Currently the only clip types that support the WPF renderer are Image, Color, Song and Video but this will be extended in future versions.
+This uses the latest WPF technology built into Windows to display the clips to the screen. It supports 3D graphics and allows for more elaborate transition effects. You may also notice that the animations are smoother with higher performance. Currently not all clip types will play in this renderer but this will be resolved in a future version.
