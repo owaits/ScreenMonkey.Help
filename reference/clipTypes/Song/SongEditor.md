@@ -18,7 +18,7 @@ Initially the song dialog will be empty.
 
 ![](../../../images/song-empty.png)
 
-You can start typing the lyrics into the large white area however if the song is available online it will be quicker to copy and paste from a website. Make a quick google search for the lyrics of the song you wish to add and copy-paste them into the clip. For example, if we search for 'How Great Thou Art' then we find this [wikipedia page](https://en.wikipedia.org/wiki/How_Great_Thou_Art) from which we can copy the lyrics.
+You can start typing the lyrics into the large white area however if the song is available online it will be quicker to copy and paste from a website. Make a quick internet search for the lyrics of the song you wish to add and copy-paste them into the clip. For example, if we search for 'How Great Thou Art' then we find this [wikipedia page](https://en.wikipedia.org/wiki/How_Great_Thou_Art) from which we can copy the lyrics.
 
 ![](../../../images/wikipedia-howgreat2.png)
 
@@ -29,9 +29,13 @@ Now paste the copied text into the song clip edit dialog.
 ## 2. Add the section tags
 Next we should prefix each verse, chorus or part with a section heading tag. By prefixing with tags we are telling Screen Monkey how elements are to be presented when we play the clip and making it easier for us to jump around the song in playback if required.
 
-Screen Monkey has a lot of tags pre-configured for you. [View a list of default song section tags online](SongTags.md). Each tag has a Name which is used in the main editor and a QuickName which is used to configure the sequence. These tags should be sufficient for most circumstances but you can [edit them](#edit-song-tags) if required.
+There are 33 [song section tags available by default](SongTags.md). Each tag has a Name which is used in the main editor and a single-character QuickName which is used to create the sequence. Each tag also has a slide break setting. These tags should be sufficient for most circumstances but you can edit them if required.
 
-Place the cursor before each section and type the tag name to identify the section. For example, at the start is 'Verse 1'. Note that after you type the tag it becomes bold and shaded. Case is not important when typing the section tags. Screen Monkey will not care if you type verse 1 or Verse 1. It will recognize the tag either way.
+To create your own tags or edit existing ones open any song for editing and from the Tools menu select 'Song Tags'. 
+
+![](../../../images/song-tags.png)
+
+To add tags to the lyrics place the cursor before each section and type the tag name to identify the section. For example, at the start is 'Verse 1'. Note that after you type the tag it becomes bold and shaded. Case is not important when typing the section tags. Screen Monkey will not care if you type verse 1 or Verse 1. It will recognize the tag either way.
 
 ![](../../../images/song-edit-words-sequence.png)
 
@@ -84,14 +88,8 @@ To edit the license text choose 'Tools > License Text' from any Song clip editor
 
 The License dialog is presented. Enable the Show license checkbox and type the text into the field provided.
 
-![](../../../images/CCLI2.png)
+![](../../../images/song-edit-license.png)
 
 Click OK to save. In order for the licence to appear on screen it may need to be enabled in the [Song Display Editor](SongDisplay.md).
 
-## Song Tags 
-There are 33 [song tags available by default](SongTags.md). You may change these tags or add additional tags to the list. Each tag requires a Name which is used in the song body to identify the section and a single character QuickName identifier which is used in the sequence code. Each tag also has a slide break setting. 
-
-To create your own tags. Open any song for editing and from the Tools menu select 'Song Tags'. 
-
-![](../../../images/song-tags.png)
 
