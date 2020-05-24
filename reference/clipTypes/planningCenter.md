@@ -9,12 +9,12 @@ The Screen Monkey Planning Center clip simply creates a set of [Song](Song/SongC
 
 - The Screen Monkey computer must be connected to the internet
 - Your own [Planning Center Services](https://www.planningcenter.com/services/) account
-- A [Personal Access Token](api.planningcenteronline.com/oauth/applications) application ID and secret key for your account
+- A [Personal Access Token](https://api.planningcenteronline.com/oauth/applications) application ID and secret key for your account
 - A set of songs in your Planning Center Services database
 - Optionally, a service plan created in your Planning Center Services account (recommended).
 
 ## Getting Started
-First visit the [API setup page](api.planningcenteronline.com/oauth/applications) on the Planning Center online website, login, and create your Personal Access Token. Enter any description you choose and press 'Submit'.
+First visit the [API setup page](https://api.planningcenteronline.com/oauth/applications) on the Planning Center online website, login, and create your Personal Access Token. Enter any description you choose and press 'Submit'.
 
 ![](../../images/planningcenter-createtoken.jpeg)
 
