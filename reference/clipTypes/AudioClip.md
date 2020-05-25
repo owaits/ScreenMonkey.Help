@@ -68,4 +68,4 @@ You may wish to use the [Live Monitor](../toolbar/preview.md) in order to see ot
 
 - The timecode displays show the elapsed time as well as the remaining time of the clip. 
 
-- The vertical red line will move to show the current position as the clip plays.
+
