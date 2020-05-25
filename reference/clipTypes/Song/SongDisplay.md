@@ -58,7 +58,7 @@ The following settings are applied to each caption (main text, copyright, title)
 |Visible|Completely enable or disable the selected caption.|
 
 ### Templates
-You may wish to have different templates that provide different color backgrounds or background images. For example, at Easter there might be one background and at Christmas another. Or perhaps a song targeted at children has one background while a song for adults has another.
+You may wish to have different templates that provide different colour backgrounds or background images. For example, at Easter there might be one background and at Christmas another. Or perhaps a song targeted at children has one background while a song for adults has another.
 
 ![](../../../images/song-display-template.png)
 
