@@ -60,7 +60,7 @@ Above the main lyrics there are a number of metadata fields which can be populat
 Use the [Song Display Style](SongDisplay.md) editor to configure how these fields are presented on screen.
 
 ## 5. Labels
-When you create Song Clips you have an ability to add labels. Labels are a handy way of finding Songs later. For example, for a church setting you may wish to define a Label of Christmas songs. Then associate it with all the different songs using a Christmas theme. Labels can be very useful when you need to [Search for songs](SongSearch.md).
+When you create Song Clips you have the option to add labels. Labels are a handy way of finding songs later. For example, for a church setting you may wish to define a label of Christmas songs then associate it with all the songs on a Christmas theme. Labels can be very useful when you need to [Search for songs](SongSearch.md).
 
 ### To associate a label with a song
 Click the Label drop-down and either select an existing label or start typing to create a new label.
