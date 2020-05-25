@@ -72,7 +72,7 @@ You may wish to open the [Live Monitor](../toolbar/preview.md) in order to use t
 
 ![](../../images/clip-video-preview.png)
 
-- The volume fader adjusts the audio level of the playing video. The adjusted volume is not saved and so will have no effect the next time the clip is played. Use volume fader in the video clip cue dialog to permanently adjust the volume. 
+- The volume fader adjusts the audio level of the playing clip. The adjusted volume is not saved and so will have no effect the next time the clip is played. Use the volume fader in the video clip cue dialog to permanently adjust the volume. 
 
 - The loop button can be used to loop the video forever. The loop button state in the Live Monitor is not saved. Use the loop button in the video clip cue dialog if you need to make the loop setting permanent.
 
