@@ -11,7 +11,7 @@ Click an empty slot and choose Clear Layer.
 ## Configure a Clear Layer Clip
 Right clip on the clip icon and use the [layer menu](../clipSettings/layer.md) to assign the clip to a layer of your choice.
 
-## Use a Clear Layer Clip during a show
+## Use a Clear Layer Clip in a show
 During a show you may click the clip in order to clear the layer. 
 
 If you have a series of linked clips that play one after the other then you may need to insert a clear layer clip at the end of the sequence to ensure the last clip is cleared and Screen Monkey is ready for the next clip to play.

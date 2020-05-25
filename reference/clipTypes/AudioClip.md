@@ -5,7 +5,7 @@ The Audio Clip allows you to play any audio file stored on your computer to the 
 
 *Note:* Screen Monkey has no capability to play an audio CD inserted in the computer CD/DVD drive. You will need first to rip it to a compatible file format so it exists as a file on your computer.
 
-## Add an Audio Clip
+## Create an Audio Clip
 There are three ways of creating audio clips.
 
 - Click on any empty slot and choose the Audio clip. You are presented with a file open dialog from which you may browse the computer and select the audio file you wish to use.
@@ -41,7 +41,7 @@ The edit/cue dialog allows you to set In and Out points for the media so that th
 ### Transition
 Audio clips maybe faded in and out by applying an ['Audio and Video Fade' transition](../clipSettings/transition.md).
 
-## Use an Audio Clip during a show
+## Use an Audio Clip in a show
 When presenting a show, you left click the clip icon on the Screen Monkey dashboard to begin playing it. Clicking the clip again will pause playback. Control-Click to restart the clip from the beginning.
 
 You may wish to use the [Live Monitor](../toolbar/preview.md) in order to see other playback controls as well as keep an eye on elapsed time and time remaining.

@@ -13,7 +13,7 @@ The ESV clip allows you to very easily add text from the English Standard Versio
 
 ![](../../images/clip-esv-passage-builder.png)
 
-## Playback
+## Using a ESV Clip in a show
 Playback works in a very similar way to [song clips](Song/SongClip.md). Activate the clip by left clicking on the dashboard icon in the normal way. Then step through the text pages by either left clicking repeatedly on the clip icon or choosing a text section in the [live preview](../toolbar/preview.md) monitor.
 
 ![](../../images/clip-esv-preview.png)

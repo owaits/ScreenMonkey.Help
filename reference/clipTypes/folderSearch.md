@@ -7,7 +7,7 @@ Although very similar to [Space](CueListSpaceClip.md) and [Playlist](playlist.md
 
 Screen Monkey will continually update its ouptut to reflect the contents of the linked folder, even when the Folder Search clip is live.
 
-## Creating a Folder Search Clip
+## Create a Folder Search Clip
 Simply create a new Folder Search clip in an empty slot and specify the folder on your computer you wish to use. Screen Monkey will play any compatible media in this folder. Although it is technically possible to mix images, audio and video within a folder search this may make it difficult to template links.
 
 ![](../../images/foldersearch-browse.png)
@@ -16,7 +16,7 @@ Click OK and the clip will be created. A cue list will open showing the media wh
 
 ![](../../images/foldersearch-cue.png)
 
-## Configuration of Folder Search
+## Configure a Folder Search Clip
 There are a few configuration changes that will be needed to make Folder Search useful.
 
 1. The media referenced by the Folder Search can be advanced manually by left clicking on the clip but in most circumstances you will want to add links to advance the media automatically. In the case of images this will be a Timer and in the case of audio or video media this will likely be a link At End. Right click on the clip and use the [link template function](../clipSettings/template.md).
@@ -34,7 +34,7 @@ As described above the clip will update automatically when the contents of the f
 
 *Note:* It is not possible to point an existing Folder Search at a different folder. If you need to change the search folder path you will need to create a new clip.
 
-## Using a Folder Search Clip
+## Using a Folder Search Clip in a show
 Click to play the clip as normal. The folder search clip may be assinged to a layer or linked to other clips as required. The 'move next' link is on by default for media inside folder search so left clicking on the Folder Search will manually advance to the next clip.
 
 ![](../../images/dashboard-foldersearch.png)

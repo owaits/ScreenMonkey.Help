@@ -3,7 +3,7 @@
 
 The Video Clip allows you to play a video file stored on the computer.
 
-## How to create a Video Clip
+## Create a Video Clip
 There are three ways of creating video clips.
 
 - Click on any empty slot and choose the Video clip. You are presented with a file open dialog from which you may browse the computer and select the video file you wish to use.
@@ -25,7 +25,7 @@ The supported video container formats are:
 
 *Note:* To ensure reliable playback and full compatibility you must install and configure the ffdshow video decoder from KLite. See the [FAQ](../faq.md) for additional details.
 
-## Configuring a video clip
+## Configure a Video Clip
 No additional configuration is necessary but a number of options are available from the right-click clip menu.
 
 ### Mute
@@ -61,7 +61,7 @@ Refer to the clip settings [transition page](../clipSettings/transition.md) for 
 ### Effects
 Refer to the clip settings [effects page](../clipSettings/effecs.md) for details.
 
-## How to use a Video Clip during a show
+## Use a Video Clip in a show
 
 - Click the Video Clip to begin playing it
 - Click the clip again to pause
