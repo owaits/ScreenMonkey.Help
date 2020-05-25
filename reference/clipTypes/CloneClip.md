@@ -1,7 +1,7 @@
 ![](../../images/CloneClipIcon.png)
 # Clone Clip
 
-The Clone Clip allows you to duplicate from one layer onto another. The clone can be filtered to only duplicate certain channels such as red, green, blue and alpha. The alpha channel is especially useful when combined with a vision mixer which supports separate alpha mask keying.
+The Clone Clip allows you to duplicate one layer onto another. The clone can be filtered to only duplicate certain channels such as red, green, blue or alpha. The alpha channel is especially useful when combined with a vision mixer which supports separate alpha mask keying.
 
 ## Creating Clone Clip
 Click on an empty dashbaod slot and choose 'Clone' from the create clip browser.
