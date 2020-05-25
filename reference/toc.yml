@@ -153,17 +153,10 @@
       items:
       - name: Text Clip
         href: clipTypes/Text/TextClip.md
-      - name: Text
-      - name: Live Text
-      - name: Image
-      - name: Countdown
-      - name: Countdown Clock
-      - name: Stopwatch
-      - name: Schedule
-      - name: Text File
-      - name: Date/Time
-      - name: Notice Pages
-      - name: Notice List
+      - name: Text Display Style
+        href: clipTypes/Text/TextDisplay.md
+      - name: Text Objects
+        href: clipTypes/Text/TextClipObjects.md
     - name: Ticker Tape
       href: clipTypes/TickerTapeClip.md
     - name: Video
