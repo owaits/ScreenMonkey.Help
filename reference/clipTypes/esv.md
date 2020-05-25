@@ -18,20 +18,20 @@ For a single passage use the search bar at the top of the window. Type the Bible
 ![](../../images/clip-esv-search.png)
 
 ### Passage Search Builder
-If you need to present multiple passages in a single clip then use the Passage Builder. Click the three dots to the right of the search field and a new dialog will open. Here you can choose multiple books, chapters and verses. Start by entering your first passage start and end. Then click 'Add Section' and repeat for the next passage. Keep adding as many sections as you need then click ok.
+If you need to present multiple passages in a single clip then use the Passage Builder. Click the three dots to the right of the search field and a new dialog will open. Here you can choose multiple books, chapters and verses. Start by entering your first passage start and end. Then click 'Add Section' and repeat for the next passage. Keep adding as many sections as you need then click OK.
 
 ![](../../images/clip-esv-passage-builder.png)
 
 Once you have the passage(s) you require in the clip cue dialog press OK and a new clip will appear on the dashboard. 
 
 ## Configure an ESV Passage Clip
-If you right-click on the dashboard clip icon there are a few menu options. 
+If you right-click on the dashboard clip icon there are a few menu options specific to this clip. 
 
 - **Start Slide** Choose on which slide to start the playback. This allows you to skip the 'Passage Title' screen or start at any other position if required.
 
 - **[Playback Settings](../clipSettings/playbackSettings.md)** For the ESV Passage clip 'Auto Rewind' is enabled by default.
 
-- **Display Options** Configure the style and the format of the clip. Refer to the [Song clip](Song/SongDisplay.md) and the Formatting section below for details.
+- **Display Options** Configure the style and the format of the clip. Refer to the [Song clip](Song/SongDisplay.md) and the [Formatting](#formatting) section below for details.
 
 - **Edit / Cue** change the Bible passages to be displayed.
 
