@@ -3,7 +3,7 @@
 
 The Clear Layer Clip allows you to clear any layer of content that is being played or presented.
 
-There is always a Clear Active Layer clip in slot 1 (top left) of the Dashboard on every page. This clip type allows you to create aditional clear layer clips in other locations and to assign them to specific layers. This clip is also very useful for ending a series of linked clips.
+There is always a Clear Active Layer clip in slot 1 (top left) of the Dashboard on every page. This clip type allows you to create additional clear layer clips in other locations and to assign them to specific layers. This clip is also very useful for ending a series of linked clips.
 
 ## Create a Clear Layer Clip
 Click an empty slot and choose Clear Layer. 
