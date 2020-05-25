@@ -1,5 +1,5 @@
 ![](../../images/ndi.png)
-# NDI
+# NDI Clip
 
 [Network Device Interface (NDI)](https://www.ndi.tv) is a standard for sending high quality low latency live video and audio over a local ethernet network. There are a wide range of hardware and software devices capable of transmitting and receiving NDI streams including cameras, vision mixers, and display devices. Using a simple app you can even turn your phone into an NDI camera. One of the benefits of NDI is that it is extremely easy to setup and use.
 

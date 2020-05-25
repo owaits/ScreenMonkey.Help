@@ -1,5 +1,5 @@
 ![](../../images/foldersearchclip.png)
-# Folder Search
+# Folder Search Clip
 
 The Folder Search clip is a special type of cue list which is automatically populated from a folder on your computer. Folder Search is normally used for creating image slideshows however it can also hold video or audio clips.
 

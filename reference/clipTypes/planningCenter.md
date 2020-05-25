@@ -1,5 +1,5 @@
 ![](../../images/planning-center-full-color.png)
-# Planning Center
+# Planning Center Clip
 
 [Planning Center](https://www.planningcenter.com/services/) is a popular management system for churches. With a Planning Center Services subscription you can create service plans (lists of worship songs) and import them directly into Screen Monkey. This means the words operator using Screen Monkey will have a complete and accurate set of songs as picked by the worship leader.
 

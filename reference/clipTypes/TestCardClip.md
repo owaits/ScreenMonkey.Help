@@ -1,5 +1,5 @@
 ![](../../images/testcard.png)
-# Test Card
+# Test Card Clip
 
 The test card clip contains a library of video test cards for use when setting up and calibrating your display or output. The clip allows you to choose from a selection of standard cards and display these to the screen. The cards are digitally generated so there is no loss in quality when resizing to different screen sizes.
 

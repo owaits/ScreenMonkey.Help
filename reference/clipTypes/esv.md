@@ -1,5 +1,5 @@
 ![](../../images/esv.png)
-# ESV Passage
+# ESV Passage Clip
 
 The ESV clip allows you to very easily add text from the English Standard Version Bible. The clip allows you to search for a passage and then add it as a new text clip. Multiple passages from different books or chapters in the Bible can be added to the same clip. 
 

@@ -1,5 +1,5 @@
 <h1><img src="../../images/LIveStreamIcon.png" style="border: none; margin-left: 0px; 
-		 margin-right: 0px; margin-top: 0px; margin-bottom: -6px;" alt="" border="0"> Live Stream</h1>
+		 margin-right: 0px; margin-top: 0px; margin-bottom: -6px;" alt="" border="0">Live Stream Clip</h1>
 <h2>What a Live Stream Clip does</h2>
 <p><span class="rvts6">The Live Stream clip is used when you want to display 
  live video streams across the internet. </span></p>
