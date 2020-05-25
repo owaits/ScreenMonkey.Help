@@ -34,7 +34,7 @@ As described above the clip will update automatically when the contents of the f
 
 *Note:* It is not possible to point an existing Folder Search at a different folder. If you need to change the search folder path you will need to create a new clip.
 
-## Using a Folder Search Clip in a show
+## Use a Folder Search Clip in a show
 Click to play the clip as normal. The folder search clip may be assinged to a layer or linked to other clips as required. The 'move next' link is on by default for media inside folder search so left clicking on the Folder Search will manually advance to the next clip.
 
 ![](../../images/dashboard-foldersearch.png)
