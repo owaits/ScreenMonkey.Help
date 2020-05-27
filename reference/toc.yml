@@ -155,6 +155,8 @@
         href: clipTypes/Text/TextDisplay.md
       - name: Text Objects
         href: clipTypes/Text/TextClipObjects.md
+      - name: Date and Time Formats
+        href: clipTypes/Text/DateTime.md
     - name: Ticker Tape
       href: clipTypes/TickerTapeClip.md
     - name: Video

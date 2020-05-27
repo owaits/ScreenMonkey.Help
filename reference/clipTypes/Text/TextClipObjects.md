@@ -36,57 +36,56 @@ Displays formatted text to the screen.
 
 ## Live Text
 
-## Image
-The image object allows you to insert images and logos into your text template to add extra visual flair to the text clip.
 
-Once you add the image object, select the format tab from the menu and click Browse to locate the image file to add. The image can be resized and moved like any other text object.
+## Image
+The image object allows you to insert images and logos into your text clip template.
+
+|Item|Description|
+|-|-|
+|Format Browse|The toolbar format button allows you to browse for an image file. Use the margins and alignment toolbar options to position the image.|
+|Note|The aspect ratio of the image will be preserved when the clip is played even though it may appear stretched on the preview canvas depending on how you set the margins.|
 
 ## Countdown
+Provides a live onscreen countdown from the number you specify.
+
+|Item|Description|
+|-|-|
+|Format|Use a [pattern to format the displayed time](DateTime.md)|
+|Reset on Clip Play|
+|Count Past Zero|
+|Warning|
+|Alert|
 
 ## Countdown Clock
+Generates a realtime onscreen countdown showing the time remaining to the time you specify.
+
+|Item|Description|
+|-|-|
+|Format|[Use a pattern to format the displayed time](DateTime.md)|
+|Reset on Clip Play|
+|Count Past Zero|
+|Warning|
+|Alert|
 
 ## Stopwatch
+Provides an onscreen clock which counts up from zero in realtime, starting when the clip is played.
+
+|Item|Description|
+|-|-|
+|Default|HH:mm:ss|
+|Format|[Use a pattern to format the displayed time](DateTime.md)|
 
 ## Schedule
 
 ## Text File
 
 ## Date/Time
-Using the Date/Time object you can display the current date and time on the screen.
+Using the Date/Time caption object you can display the current date and/or time live on screen. The format of the time and date is specified using the standard formatting codes and can be combined with static text. 
 
-The format of the time and date is specified using the standard date and time formatting code. Here are some examples.
-
-h:mm:ss
-
-Time with seconds
-
-h:mm
-
-Time without seconds
-
-dd/MM/yyyy
-
-English date format
-
-MM/dd/yyyy
-
-American date format
-
-dd/MM/yyyy h:mm
-
-Date and time together  
-
-The time is h:mm
-
-The time with static text.
-
-dddd
-
-Day of the week e.g. Monday
-
-dd MMMM
-
-Full month with date e.g. 1st January
+|Item|Description|
+|-|-|
+|Default|h:mm:ss tt dd/MM/yyyy|
+|Format|[Use a pattern to format the displayed date and/or time](DateTime.md)|
 
 ## Notice Pages
 
