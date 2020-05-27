@@ -105,8 +105,6 @@
           href: clipTypes/EffectsGenerator/ScriptingLanguageReference.md
     - name: ESV Passage
       href: clipTypes/esv.md
-    - name: Flash
-      href: clipTypes/FlashClip.md
     - name: Folder Search
       href: clipTypes/folderSearch.md
     - name: Freeze
