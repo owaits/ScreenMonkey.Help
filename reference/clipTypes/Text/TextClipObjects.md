@@ -68,7 +68,7 @@ Generates a realtime onscreen countdown showing the time remaining to the time y
 |Alert|
 
 ## Stopwatch
-Provides an onscreen clock which counts up from zero in realtime, starting when the clip is played.
+Provides an onscreen clock which counts up from zero in realtime, starting when the clip is played. If you would like to stop the stopwatch but leave the duration on screen then you can use a [Freeze clip](../FreezeClip.md).
 
 |Item|Description|
 |-|-|
