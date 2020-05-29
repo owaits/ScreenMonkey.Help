@@ -153,7 +153,7 @@
         href: clipTypes/Text/TextClip.md
       - name: Text Display Style
         href: clipTypes/Text/TextDisplay.md
-      - name: Text Objects
+      - name: Text Caption Objects
         href: clipTypes/Text/TextClipObjects.md
       - name: Date and Time Formats
         href: clipTypes/Text/DateTime.md
