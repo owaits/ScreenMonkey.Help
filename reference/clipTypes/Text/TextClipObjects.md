@@ -10,7 +10,7 @@ From within the Text Display Style dialog click on the 'Objects' button and sele
 ## Removing a Caption Object
 Select the caption and then click the black cross button at the top of the caption list.
 
-## Configure a Caption Object
+## Configure a Caption Object
 The caption objects are configured by clicking the caption name in the list on the left of the dialog and then using the Toolbar buttons.
 
 The toolbar buttons which apply to most objects are described here. For all other settings refer to the appropriate section below. 
@@ -35,18 +35,19 @@ Displays formatted text to the screen.
 |Example|In the template you might specify the following display format "Next seminar is starting in {0}" and then in each Text clip that you create you input the location text "Downstairs Hall", "Meeting Room 3", etc in the Edit/Cue dialog. When the clip is played {0} is replaced with the text from the Edit/Cue dialog.|
 
 ## Live Text
-
+(awaiting more information)
 
 ## Image
 The image object allows you to insert images and logos into your text clip template.
 
+*Note:* The aspect ratio of the image will be preserved when the clip is played even though it may appear stretched on the preview canvas depending on how you set the margins.
+
 |Item|Description|
 |-|-|
 |Format Browse|The toolbar format button allows you to browse for an image file. Use the margins and alignment toolbar options to position the image.|
-|Note|The aspect ratio of the image will be preserved when the clip is played even though it may appear stretched on the preview canvas depending on how you set the margins.|
 
 ## Countdown
-Provides a live onscreen countdown from the number you specify.
+Provides a live onscreen countdown (updated once a second) from the number you specify.
 
 |Item|Description|
 |-|-|
@@ -76,9 +77,27 @@ Provides an onscreen clock which counts up from zero in realtime, starting when 
 |Format|[Use a pattern to format the displayed time](DateTime.md)|
 
 ## Schedule
+The Schedule item generates an on screen guide of upcoming events from the data you add to [scheduled clips](../toolbar/schedule.md). This function is especially useful when using Screen Monkey to automate TV channel playout. Between live programmes use this clip to inform viewers what is coming up next. When the clip is live the content will update automatically as the schedule plays.
+
+*Note:* By default scheduled clips are set to 'hidden' so they won't appear in this clip. To show them you must untick the 'Hide' checkbox in the schedule viewer table.
+
+|Item|Description|
+|-|-|
+|Date Format|[Use a pattern to format the displayed time](DateTime.md). This time is taken from the list scheduled clips. Screen Monkey will automatically pick the next clips to show in the guide.|
+|Entry Format|Next to the time you can show the name, title and description of the clip as defined in the [schedule library grid](../toolbar/schedule.md). In a similar way to date and time formatting you have complete flexibilty over the which elements are displayed and in what order. To enable a nice layout you can also add tabs [t] and newline [nl] elements to the format string.|
+|Max Display Items|When set to 0 Screen Monkey will fill the schedule caption with as many items as possible. By using this setting you can limit the display to a number of your choice.|
+|Time Period|Alternatively, you can limit the display by hours and days.|
+|End At Midnight|Don't show events starting tomorrow until the time has passed midnight.|
+|Hang Time|Delay the update of the on screen schedule for a specified number of seconds after the scheduled start time of the clip. This is useful when you need to add delays into your automation to accommodate the processing time of other equipment.|
+
 
 ## Text File
+Allows you to link the Text clip to a plain text file (.txt) on your computer. Use Windows Notepad or a similar text editor to create and edit these files. While the Text clip is live the linked text file is monitored for changes. Whenever the linked file is updated Screen Monkey will update to show the new content of the file.
 
+|Item|Description|
+|-|-|
+|Format|Click Format then Browse and select the .txt file you want to link to the Text clip. The display style canvas will update to show the contents of the file.|
+ 
 ## Date/Time
 Using the Date/Time caption object you can display the current date and/or time live on screen. The format of the time and date is specified using the standard formatting codes and can be combined with static text. 
 
@@ -94,11 +113,6 @@ Using the Date/Time caption object you can display the current date and/or time 
 
 
 
-
-
-
-
-![](../../../images/NewItem33.png)
 
 Countdown
 
@@ -120,82 +134,3 @@ Similar to the Countdown, this object also allows you to display a countdown on 
 
 When you add the Countdown Clock it will display \[Invalid Time Format!\] till you set the target time. The target time is set through the clips edit panel.
 
-![](../../../images/NewItem36.png)
-
-![](../../../images/NewItem37.png)
-
-You can change the format of the countdown from the template editor by selecting format.
-
-Please see the [Date and Time](#Date_and_Time) object settings for details on the date and time format.
-
-![](../../../images/NewItem38.png)
-
-Schedule
-
-Using this object you can display the current clips scheduled for playback in a text clip. This is a great feature when running an automated TV station and you want to display the next programs to be shown during a break. The layout and format of the schedule items is fully customizable. The title and description for each item can be set in the scheduler.
-
-![](../../../images/NewItem40.png)
-
-Once you add the schedule object to your template you can use the Format tab to configure how each item is displayed and what items are displayed.
-
-![](../../../images/NewItem39.png)
-
-  
-
-Date Format
-
-Determines the format to display the start time of each scheduled clip. Please see the [Date/Time](#Date_and_Time) object for details on how to specify the format.
-
-Entry Format
-
-Specifies how each scheduled item is displayed in the list. Special tags allow you to insert information from the scheduled item.
-
-{date} - the start date for the scheduled item.
-
-{time} - the start time for the scheduled item.
-
-{name} - the clip name.
-
-{title} - a special field set through the scheduler for each scheduled item. This is initially blank for each clip and you must set through the scheduler. You can use this to display a different title from the clip name.
-
-{description} - a special field set for each clip through the scheduler.
-
-When you use the {title} or {description} tags you need to ensure you set the text through the scheduler. You can open the scheduler by clicking on the clock icon in the main dashboard. The scheduled items list will open and contains two columns for the title and description. You can enter your text here.  
-  
-![](../../../images/NewItem43.png)  
-  
-The default is to hide scheduled items from display in the scheduled object. This ensures that while you add scheduled items they are not visible. To show the item and display them in the text schedule you need to open the scheduler and clear "Hide" for each scheduled clip. Without doing this, the schedule will appear blank.  
-  
-![](../../../images/NewItem41.png)  
-  
-The following shows a template which has a title with a schedule item.  
-  
-![](../../../images/NewItem44.png)
-
-You can also add a limited set of formatting.
-
-\[t\] - add a tab
-
-\[nl\] - new line
-
-Max Display Items
-
-The number of scheduled items to display at a time.
-
-Time Period
-
-The amount of time to look ahead in the schedule for items to display. setting to zero will display all scheduled items.
-
-End At Midnight
-
-Only displays scheduled items till midnight of the day specified in the Time Period property.
-
-Text File
-
-Using the text file object you can display the contents of a text file within the text clip. All the text from the file is displayed using the template's formatting.
-
-![](../../../images/NewItem45.png)
-
-Once you add the Text File object you then need to select the text file to use. This is done by clicking the format tab and selecting Browse. You can now select the file to display. The text file can be created using applications such as Windows Notepad. Once you select the file it will show you the text that is going to be displayed.
-
-The text file is constantly being monitored for changes even when the clip is live so any changes you save to the file will be immediately updated on the screen. This can be helpful if you want to update the text over a network as you can update the file remotely to change the text being displayed on the screen.
