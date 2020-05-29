@@ -41,9 +41,9 @@ Once the data binding is configured click on the Synchronisation tab and then cl
 ## Example
 Below is an example of a single schedule item which maps as per the screenshot above. 
 
-**Note:** The JSON feed can include additional fields and these will be silently ignored.
+*Note:* The JSON feed can include additional fields and these will be silently ignored.
 
-**Note:** The data must be valid JSON and this may require the escaping of certain characters, for example \u201c.
+*Note:* The data must be valid JSON and this may require the escaping of certain characters, for example \u201c.
 
     {
     "ID":"133",
