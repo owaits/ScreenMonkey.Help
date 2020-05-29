@@ -44,3 +44,14 @@ You can move forwards and backwards through the song pages by using the keyboard
 
 You may wish to assign a keyboard key to a specific section in a song. This is useful when you are displaying songs and do not know what order the sections will be sung in. You can assign keys to all the sections and when that key is pressed it will jump straight to that section. This is configured in the [Mouse and Keyboard](../../Settings/MouseandKeyboard.md) settings.
 
+## Playback Settings
+To access the Playback Settings right click on the Song clip dashboard icon. By default the clip is set to auto-rewind so that re-cueing the clip will always display Page 1. Alternatively if you disable this setting the clip will continiue from the last Page when re-cued.
+
+## Export Options
+A song clip can be exported in a few ways. 
+
+- Cue sheet XML (single file)
+- Enhanced podcast chapter album art with XML (zip archive)
+- Image files with XML (zip archive)
+
+To export the clip right click on the dashboard icon and then choose 'Export Cue Sheet'. A new dialog opens which allows you to choose cue list and then the type of export you require.  
