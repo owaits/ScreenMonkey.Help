@@ -2,6 +2,10 @@
 
 The Schedule Sync tool automates the creation of [scheduled clips](../toolbar/schedule.md). It allows you to import schedule times, dates, titles and descriptions from an online CMS which can generate [JSON](https://www.json.org/json-en.html). 
 
+*Note:* The Schedule Sync tool will not create any clips for you, any clips to be scheduled must be created before starting the sync. The sync process will look for existing clips in the show which match the JSON data and edit their schedule data. 
+
+*Note:* Any type of clip can be used.
+
 There are two tabs in the Schedule Sync section.
 
 ## Binding
@@ -14,7 +18,7 @@ For future use
 
 ### Server Details
 - **URL** The URL from which the JSON data is retrived. This is normally a http server.
-- **Query** Additional parameters required in the URL.
+- **Query** Any additional parameters required in the URL (optional).
 
 ### Data Mapping
 Screen Monkey requires the following data to be present in the JSON data feed.
@@ -26,10 +30,10 @@ Screen Monkey requires the following data to be present in the JSON data feed.
 |Title|A title which will be used in the onscreen schedule clip|String|
 |Description|A description which will be used in the onscreen schedule clip|String|
 |Content Key|A key which matches the JSON item to the clip name. This does not need to be unique, you can schedule the same clip multiple times.|String|
-|Enabled|A flag which is used to determine if the clip will run automatically or only appear in the onscreen schedule. To invert the meaning of the flag use a `!` (not) symbol before the key.|Boolean `0` or `1`|
+|Enabled|A flag which is used to determine if the clip will be enabled to run automatically. When set to disabled the event will still appear in the on screen schedule. To invert the meaning of the flag use a `!` (not) symbol before the key.|Boolean `0` or `1`|
 
 ### Date and Time
-Optionally, you can set an offset which is added to all the datetime fields in the JSON data. This is in the form day:hour:minute:second. The offset can be negative.
+Optionally, you can set an offset which is added to all the datetime fields in the JSON data. This is in the form day:hour:minute:second. The offset can be entered as a negative value by prefixing a minus symbol. This function is useful for testing or re-using old JSON data.
 
 ## Syncronisation
 Once the data binding is configured click on the Synchronisation tab and then click 'Analyse'. Screen Monkey will download the JSON data and parse it. The results will be displayed. If it all looks good click 'Synchronise'. If there are any problems try editing the key mappings on the Binding tab.
