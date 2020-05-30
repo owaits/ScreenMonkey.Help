@@ -35,7 +35,7 @@ To create your own tags or edit existing ones open any song for editing and from
 
 ![](../../../images/song-tags.png)
 
-To add tags to the lyrics place the cursor before each section and type the tag name to identify the section. For example, at the start is 'Verse 1'. Note that after you type the tag it becomes bold and shaded. Case is not important when typing the section tags. Screen Monkey will not care if you type verse 1 or Verse 1. It will recognize the tag either way.
+To add tags to the lyrics place the cursor before each section and type the tag name to identify the section. For example, at the start is `Verse 1`. Note that after you type the tag it becomes bold and shaded. Case is not important when typing the section tags. Screen Monkey will not care if you type `verse 1` or `Verse 1`. It will recognize the tag either way.
 
 ![](../../../images/song-edit-words-sequence.png)
 
@@ -60,7 +60,7 @@ Above the main lyrics there are a number of metadata fields which can be populat
 Use the [Song Display Style](SongDisplay.md) editor to configure how these fields are presented on screen.
 
 ## 5. Labels
-When you create Song Clips you have the option to add labels. Labels are a handy way of finding songs later. For example, for a church setting you may wish to define a label of Christmas songs then associate it with all the songs on a Christmas theme. Labels can be very useful when you need to [Search for songs](SongSearch.md).
+When you create Song Clips you have the option to add labels. Labels are a handy way of finding songs later. For example, for a church setting you may wish to define a label of Christmas songs then associate it with all the songs on a Christmas theme. Labels can be very useful when you need to [search for songs](SongSearch.md).
 
 ### To associate a label with a song
 Click the Label drop-down and either select an existing label or start typing to create a new label.
@@ -79,7 +79,7 @@ It's a good idea to save all your songs to a dedicated common folder intended fo
 
 There is no requirement to save songs as separate files. Once they are on the dashboard they are included in the showfile and will reload with Screen Monkey.
 
-If you wish to Save the song simply use the File > Save As option from the menu at the top of the song clip dialog. Save the Song using an appropriate name and in the location you wish. 
+If you wish to Save the song simply use the File > Save As option from the menu at the top of the song clip dialog. Save the song using an appropriate name and in the location you wish. 
 
 ## License Text
 You may add your CCLI number or copyright details for songs. This is a global Screen Monkey setting for your installation and not associated with a particular song.
