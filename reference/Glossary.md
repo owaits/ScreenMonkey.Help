@@ -63,3 +63,6 @@ Video OBject - This is a file type stored on DVD media. The VOB typically contai
 
 ## URL
 Uniform Resource Locator - A URL often contains a domain name. For example, `http://www.google.com` is a URL.
+
+## XML
+E**x**tensible **M**arkup **L**anguage is a text format markup language for storing data. Screen Monkey uses XML for its show files and song files. It is also used by Podcast RSS feeds among many other things. [Click here](https://en.wikipedia.org/wiki/XML) for more details.
