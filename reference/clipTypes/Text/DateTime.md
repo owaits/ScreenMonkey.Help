@@ -12,8 +12,12 @@ The way Screen Monkey formats dates and time is based on a common set of letter 
 |HH|Hours in 24-hour format with leading zero|01 to 24|
 |m|Minutes|0 to 59|
 |mm|Minutes with leading zero|00 to 59|
+|S|Date time value converted to seconds, used in countdown captions|-|
 |s|Seconds|0 to 59|
 |ss|Seconds with leading zero|00 to 59|
+|f|Tenths of a second|0 to 9|
+|ff|Hundredths of a second|00 to 99|
+|fff|Milliseconds|000 to 999|
 |t|A or P|A or P|
 |tt|AM or PM|AM or PM|
 |d|Day of the month|1 to 31|
@@ -27,6 +31,7 @@ The way Screen Monkey formats dates and time is based on a common set of letter 
 |yy|Year, last 2 digits|00 to 99|
 |yyyy|Year, full 4 digits|0001-9999|
 |\\|The escape character| |
+
 
 Additional uncommon codes (f,F,g,K,etc) are omitted from the table but maybe found online by searching for custom date and time format strings.
 
