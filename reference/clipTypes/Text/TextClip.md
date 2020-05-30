@@ -1,26 +1,36 @@
-# ![](../../../images/TextIcon.png) Text Clip
+![](../../../images/TextIcon.png)
+# Text Clip
 
-## What a Text Clip does
+The text clip allows you to display text and graphics on screen using pre-defined templates. The text clip template is created from a library of [caption objects](TextClipObjects.md) and is really very powerful. Some text clip objects can update their content whilst they are live.
 
-The text clip allows you to display text on the screen using pre-created templates. The text clip is really useful when displaying captions on screen as the text can be easily changed but the template stays the same. A number of different templates can be created and it's simple to switch between the templates when entering the text. Each template can include font, color, background color and image settings.
+By creating templates the text clip content can be easily changed but the design and layout stays the same. Multiple clips can be created from the same template which makes it quick and easy to have several versions or instances of the same text clip.
 
-## How to configure a Text Clip
+A number of different templates can be created and it's simple to switch between the templates when entering the text.
 
-When you choose to add a Text Clip to a slot you end up with an Edit Text dialog as shown below.
+*Note:* Text clip templates are not lost when you create a new show.
 
-![](../../../images/TextClip.png)
+## Create a Text Clip
+Add a new Text Clip by clicking an empty slot and choosing Text from the new clip dialog. A text dialog will appear with one default template called 'Normal'.
 
-Type some text into the white field and click OK.
+![](../../../images/text-edit-normal.png)
 
-At this point it may appear there are precious few ways to manipulate things. Clicking the word Normal in the Template area on the right appears to do absolutely nothing but select the word Normal. The text appears to be centered in the area on the left side and there doesn't appear to be a way to change it. What gives?
+This default template allows you to enter text to be displayed on screen in the white box labelled 'Main Text'. If you type some text and press Enter the preview will update to show how the clip will appear. Click OK and then play the clip to see how it appears on the output.
 
-Click OK to dismiss the dialog, then Right-click the clip in the Main Dashboard and choose Display Options from the menu.
+![](../../../images/text-edit-first.png)
 
-![](../../../images/TextClipDisplayOptions.png)
+## Configure a Text Clip
+The normal template is a useful starting point. To make changes to the template right-click the clip in the dashboard and choose 'Display Options' from the menu. A display style dialog will open which where you create and edit your templates. 
 
-In Screen Monkey 3.7 new capabilities were added to this clip type. [Click here](TextClipObjects.md) to see more about the objects that may be used.
+![](../../../images/text-display-style.png)
 
-Click the Save Template icon followed by OK.
+
+## Templates
+A new template is required when you want to design a new style of text clip. 
+
+- At the right hand side of the toolbar click the 'New' template icon
+- Enter a name for your template and press Enter or click OK
+
+
 
 ![](../../../images/TextClipDisplayStyleTemplate.png)
 
@@ -32,22 +42,13 @@ And when you choose the new Template on the right, you see the fields in the upp
 
 ![](../../../images/NewTextTemplate2.png)
 
-  
-
-![](../../../images/Noteimage.png)
-
 If you wish to change the Template associated with a clip you may right-click the clip and choose Edit / Cue to select a different Template to apply.
 
 You are also able to assign [Effects](../../../tutorials/WorkingWithClips/Effects.md) or [Transitions](../../../tutorials/WorkingWithClips/Transitions.md) to this Clip type.
 
-## How to use a Text Clip during a show
+## Edit/Cue
 
+
+## Use a Text Clip during a show
 Using this Clip type is just like any other. You click the clip to display it.
 
-## Enhancement History
-
-[Version 3.5 - July 2010: Text Clip added and announced](../../../releases/Version_3_5.md#Text_Clip)
-
-[Version 3.7 - January 2012: Text Clip Objects added and announced](../../../releases/Version_3_7.md#37TextClipObjects)
-
-[Version 3.7 - March 2012: Multi Line in Text Clip](../../../releases/Version_3_7.md#MultiLineInTextClip)

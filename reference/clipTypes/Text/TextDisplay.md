@@ -1,3 +1,15 @@
+
+
+
+There are four main areas
+
+- Toolbar along the top which is split into sections for background, selected caption settings and template
+- Caption list down the left hand side where you create [text clip objects](TextClipObjects.md)
+- Preview canvas in the remainder of the window
+- Bottom row of buttons
+
+These areas are described in detail below.
+
 <p>The <span class="hcp2">Display Style</span> dialog should 
  open and offer many options that are used to configure the appearance 
  of the text.</p>
