@@ -33,7 +33,7 @@ Screen Monkey requires the following data to be present in the JSON data feed.
 |Enabled|A flag which is used to determine if the clip will be enabled to run automatically. When set to disabled the event will still appear in the on screen schedule. To invert the meaning of the flag use a `!` (not) symbol before the key.|Boolean `0` or `1`|
 
 ### Date and Time
-Optionally, you can set an offset which is added to all the datetime fields in the JSON data. This is in the form day:hour:minute:second. The offset can be entered as a negative value by prefixing a minus symbol. This function is useful for testing or re-using old JSON data.
+Optionally, you can set an offset which is added to all the datetime fields in the JSON data. This is in the form `days:hours:minutes:seconds`. The offset can be entered as a negative value by prefixing a minus symbol. This function is useful for testing or re-using old JSON data.
 
 ## Syncronisation
 Once the data binding is configured click on the Synchronisation tab and then click 'Analyse'. Screen Monkey will download the JSON data and parse it. The results will be displayed. If it all looks good click 'Synchronise'. If there are any problems try editing the key mappings on the Binding tab.
