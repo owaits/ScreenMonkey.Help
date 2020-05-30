@@ -12,7 +12,7 @@ The way Screen Monkey formats dates and time is based on a common set of letter 
 |HH|Hours in 24-hour format with leading zero|01 to 24|
 |m|Minutes|0 to 59|
 |mm|Minutes with leading zero|00 to 59|
-|S|Date time value converted to seconds, used in countdown captions|-|
+|S|Date time value converted to seconds (used in countdown captions)|-|
 |s|Seconds|0 to 59|
 |ss|Seconds with leading zero|00 to 59|
 |f|Tenths of a second|0 to 9|
