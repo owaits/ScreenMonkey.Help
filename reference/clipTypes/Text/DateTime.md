@@ -6,13 +6,15 @@ The way Screen Monkey formats dates and time is based on a common set of letter 
 ## Date Time Formats
 |Code|Meaning|Example|
 |--|--|--|
+|!h|Date time duration converted to hours (used in countdown captions)|-|
 |h|Hours in 12-hour format|1 to 12|
 |hh|Hours in 12-hour format with leading zero|01 to 12|
 |H|Hours in 24-hour format|1 to 24|
 |HH|Hours in 24-hour format with leading zero|01 to 24|
+|!m|Date time duration converted to minutes (used in countdown captions)|-|
 |m|Minutes|0 to 59|
 |mm|Minutes with leading zero|00 to 59|
-|S|Date time value converted to seconds (used in countdown captions)|-|
+|!s|Date time duration converted to seconds (used in countdown captions)|-|
 |s|Seconds|0 to 59|
 |ss|Seconds with leading zero|00 to 59|
 |f|Tenths of a second|0 to 9|
