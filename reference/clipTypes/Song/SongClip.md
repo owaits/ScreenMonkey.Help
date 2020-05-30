@@ -1,9 +1,9 @@
 ![](../../../images/image2.gif) 
 # Song Clip
 
-Song Clips are used to present song lyrics on the screen as individual verses or sections. This clip type includes a [song editor](SongEditor.md) to quickly enter the lyrics for the song you want to present and a [display editor](SongDisplay.md) to configure exactly how the lyrics appear. In playback you can quickly and easily select to the correct section of the song to display.
+Song Clips are used to present song lyrics as individual verses or sections. This clip type includes a [song editor](SongEditor.md) to quickly enter the lyrics for the song you want to present and a [display editor](SongDisplay.md) to configure exactly how the lyrics appear. In playback you can quickly and easily select to the correct section of the song to display.
 
-You may search a folder containing lyrics to easily add a song from a local XML database of files or import songs and service plans from an online service such as [Planning Center](../planningCenter.md).
+You may [search a folder](SongSearch.md) containing lyrics to easily add a song from a local folder of XML files or import songs and service plans from an online service such as [Planning Center](../planningCenter.md).
 
 ## How to add a Song Clip
 To add a Song clip, click the desired slot and select the Song clip type. This will present the Song Edit dialog which will be empty.
@@ -20,7 +20,7 @@ You now have a few options:
 ## How to use a Song Clip
 Songs are divided into Sections and Pages. 
 
-**Sections** are identified by specific phrases in the text, such as 'Chorus' or 'Verse 1' which you type into the editor. The order and arrangement of Sections is determined by the QuickName sequence. 
+**Sections** are identified by specific phrases in the text, such as `Chorus` or `Verse 1` which you type into the editor. The order and arrangement of sections is determined by the QuickName sequence. 
 
 **Pages** are created automatically to ensure the text fits onto the screen in the font size and within the margins specified. Depending on the song makeup each section will require one or more pages. 
 
@@ -54,4 +54,4 @@ A song clip can be exported in a few ways.
 - Enhanced podcast chapter album art with XML (zip archive)
 - Image files with XML (zip archive)
 
-To export the clip right click on the dashboard icon and then choose 'Export Cue Sheet'. A new dialog opens which allows you to choose cue list and then the type of export you require.  
+To export the clip right click on the dashboard icon and then choose 'Export Cue Sheet'. A new dialog opens which allows you to choose the cue list and then the type of export you require.  
