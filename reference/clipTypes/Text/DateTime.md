@@ -56,3 +56,4 @@ A few examples you may find helpful.
 |North American date format|MM/dd/yyyy|
 |Date and time together|dd/MM/yyyy h:mm|
 |The time with static text|T\he \ti\m\e i\s h:mm|
+|Total seconds remaining in countdown|!s|
