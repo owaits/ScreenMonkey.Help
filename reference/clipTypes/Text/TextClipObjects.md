@@ -47,18 +47,24 @@ The image object allows you to insert images and logos into your text clip templ
 |Format Browse|The toolbar format button allows you to browse for an image file. Use the margins and alignment toolbar options to position the image.|
 
 ## Countdown
-Provides a live onscreen countdown (updated once a second) from the number you specify.
+Provides a live onscreen countdown *from* the time value you specify. This caption is very useful for displaying a clock to a speaker on stage showing them how long they have remaining for their talk. 
+
+The time to count down from is entered in the preview window of the clip. Enter the time to count from in the format `hh:mm:ss` or `mm:ss` or `ss`. Additionally there are buttons to reset, pause the count, increment and decrement by 1 minute.
+
+The starting value will be remembered if you clear the clip.
+
+![](../../../images/text-countdown-preview.png)
 
 |Item|Description|
 |-|-|
-|Format|Use a [pattern to format the displayed time](DateTime.md)|
-|Reset on Clip Play|
-|Count Past Zero|
-|Warning|
-|Alert|
+|Format|Use a [pattern to format the displayed time](DateTime.md). Use the special `!` values to convert the total duration into a specific unit. For example, use `!s` to display 2m:30s as 150 seconds.|
+|Reset on Clip Play|Choose to reset the count every time the clip is played or remember the value last displayed.|
+|Count Past Zero|Allow the count to continue and show a negative display.|
+|Warning|Turn the caption text orange when this time (hh:mm:ss) is passed.|
+|Alert|Turn the caption text red when this time (hh:mm:ss) is passed.|
 
 ## Countdown Clock
-Generates a realtime onscreen countdown showing the time remaining to the time you specify.
+Generates a live onscreen countdown *to* the time you specify.
 
 |Item|Description|
 |-|-|
@@ -90,7 +96,6 @@ The Schedule item generates an on screen guide of upcoming events from the data 
 |End At Midnight|Don't show events starting tomorrow until the time has passed midnight.|
 |Hang Time|Delay the update of the on screen schedule for a specified number of seconds after the scheduled start time of the clip. This is useful when you need to add delays into your automation to accommodate the processing time of other equipment.|
 
-
 ## Text File
 Allows you to link the Text clip to a plain text file (.txt) on your computer. Use Windows Notepad or a similar text editor to create and edit these files. While the Text clip is live the linked text file is monitored for changes. Whenever the linked file is updated Screen Monkey will update to show the new content of the file.
 
@@ -109,28 +114,3 @@ Using the Date/Time caption object you can display the current date and/or time 
 ## Notice Pages
 
 ## Notice List
-
-
-
-
-
-Countdown
-
-You can use this object to display a countdown from a specific number.
-
-Once you add the countdown object it will display "\[Invalid Countdown\]" until you configure the text to a start number in the clip's settings.
-
-![](../../../images/NewItem34.png)
-
-![](../../../images/NewItem35.png)
-
-Once you have set the start number, it will count down from this value each time you play the clip.
-
-[Click here for a step-by-step guide on creating a Countdown clip](../../../tutorials/WorkingWithClips/CreatingACountdown.md).
-
-Countdown Clock
-
-Similar to the Countdown, this object also allows you to display a countdown on the screen. The difference is that with this object, you can specify an end date or time to countdown to. Once you have set the target time, the clip will continuously show a countdown to this time on the screen when the text clip is playing.
-
-When you add the Countdown Clock it will display \[Invalid Time Format!\] till you set the target time. The target time is set through the clips edit panel.
-
