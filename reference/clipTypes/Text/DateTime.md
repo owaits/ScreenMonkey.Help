@@ -14,6 +14,7 @@ The way Screen Monkey formats dates and time is based on a common set of letter 
 |!m|Date time duration converted to minutes (used in countdown captions)|-|
 |m|Minutes|0 to 59|
 |mm|Minutes with leading zero|00 to 59|
+|S|Date time duration converted to seconds (used in countdown captions)|-|
 |!s|Date time duration converted to seconds (used in countdown captions)|-|
 |s|Seconds|0 to 59|
 |ss|Seconds with leading zero|00 to 59|
