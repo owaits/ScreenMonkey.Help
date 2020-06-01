@@ -3,19 +3,15 @@ A few [text clip objects](TextClipObjects.md) display times and/or dates. Screen
 
 The way Screen Monkey formats dates and time is based on a common set of letter abreviations which are listed below together with examples. Take care to understand how these work and when the special escape character is required.
 
-## Date Time Formats
+## Regular Date Time Formats
 |Code|Meaning|Example|
 |--|--|--|
-|!h|Date time duration converted to hours (used in countdown captions)|-|
 |h|Hours in 12-hour format|1 to 12|
 |hh|Hours in 12-hour format with leading zero|01 to 12|
 |H|Hours in 24-hour format|1 to 24|
 |HH|Hours in 24-hour format with leading zero|01 to 24|
-|!m|Date time duration converted to minutes (used in countdown captions)|-|
 |m|Minutes|0 to 59|
 |mm|Minutes with leading zero|00 to 59|
-|S|Date time duration converted to seconds (used in countdown captions)|-|
-|!s|Date time duration converted to seconds (used in countdown captions)|-|
 |s|Seconds|0 to 59|
 |ss|Seconds with leading zero|00 to 59|
 |f|Tenths of a second|0 to 9|
@@ -33,10 +29,29 @@ The way Screen Monkey formats dates and time is based on a common set of letter 
 |MMMM|Month in text, full|June|
 |yy|Year, last 2 digits|00 to 99|
 |yyyy|Year, full 4 digits|0001-9999|
-|\\|The escape character| |
-
+|\\|The escape character|-|
 
 Additional uncommon codes (f,F,g,K,etc) are omitted from the table but maybe found online by searching for custom date and time format strings.
+
+## Countdown Date Time Formats
+|Code|Meaning|Example|
+|--|--|--|
+|!h|Date time duration converted to hours (used in countdown captions)|-|
+|h|Hours in 12-hour format|1 to 12|
+|hh|Hours in 12-hour format with leading zero|01 to 12|
+|!m|Date time duration converted to minutes (used in countdown captions)|-|
+|m|Minutes|0 to 59|
+|mm|Minutes with leading zero|00 to 59|
+|!s|Date time duration converted to seconds (used in countdown captions)|-|
+|s|Seconds|0 to 59|
+|ss|Seconds with leading zero|00 to 59|
+|f|Tenths of a second|0 to 9|
+|ff|Hundredths of a second|00 to 99|
+|fff|Milliseconds|000 to 999|
+|d|Days|-|
+|\\|The escape character|-|
+
+In countdown date format strings the codes have the same meaning when used in uppercase.
 
 ## Escaping Special Characters
 Sometimes the date and time string is contained within other text. For example you might want to write `Here is the time: 12:45` or `Next Meeting at 13:00`. The problem with these examples is that Screen Monkey doesn't know which characters are regular letters and which are date time placeholders. 
