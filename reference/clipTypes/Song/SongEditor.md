@@ -86,7 +86,7 @@ You may add your CCLI number or copyright details for songs. This is a global Sc
 
 To edit the license text choose 'Tools > License Text' from any Song clip editor dialog.
 
-The License dialog is presented. Enable the Show license checkbox and type the text into the field provided.
+The License dialog is presented. Enable the 'Show license text' checkbox and type the text into the field provided.
 
 ![](../../../images/song-edit-license.png)
 
