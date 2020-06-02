@@ -1,3 +1,4 @@
+![](../../images/youtubeclip2.png)
 # YouTube Clip
 
 The YouTube clip allows you to easily display any video hosted on the [YouTube](https://www.youtube.com) platform including livestreams.
