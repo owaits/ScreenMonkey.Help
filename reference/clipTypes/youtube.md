@@ -1,6 +1,6 @@
 # YouTube Clip
 
-The YouTube clip allows you to easily display any video hosted on the YouTube platform including livestreams.
+The YouTube clip allows you to easily display any video hosted on the [YouTube](https://www.youtube.com) platform including livestreams.
 
 ## Create a YouTube Clip
 Click on any empty dashboard slot and choose YouTube from the new clip browser. A dialog containing a web browser will open and show the YouTube homepage. Using this window search for the video you want to present.
