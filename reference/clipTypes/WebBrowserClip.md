@@ -20,6 +20,6 @@ If you need to interact with the website whilst the clip is live, to maybe give 
 - By right clicking on the clip icon and choosing 'Edit/Cue'
 - By using the [live monitor](../toolbar/preview.md)
 
-In either case you now have access to a fully functional web browser inside Screen Monkey. As you click on links and nagivate website the output will update. There are two arrows to the left of the text field where you typed the URL. These arrows allow you to move backward and forward just like the backward and forward buttons in any browser.
+In either case you now have access to a fully functional web browser inside Screen Monkey. As you click on links and nagivate the website the output will update. There are two arrows to the left of the text field where you typed the URL. These arrows allow you to move backward and forward just like the navigation buttons in any browser.
 
 ![](../../images/clip-webbrowser-preview.png)
