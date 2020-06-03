@@ -1,57 +1,57 @@
+# Text Clip Display Style
 
+The Display Style editor is used for editing your Text Clip Templates. There are four main areas in the dialog.
 
-
-There are four main areas
-
-- Toolbar along the top which is split into sections for background, selected caption settings and template
-- Caption list down the left hand side where you create [text clip objects](TextClipObjects.md)
+- Captions list down the left hand side where you create and select [text clip objects](TextClipObjects.md)
+- Toolbar along the top which is split into sections for background, selected caption settings, and template
 - Preview canvas in the remainder of the window
 - Bottom row of buttons
 
-These areas are described in detail below.
+![](../../../images/text-display-style.png)
 
-The Display Style dialog should open and offer many options that are used to configure the appearance of the text.
+## Captions List
+A template will contain one or more caption objects. As you [create caption objects](TextClipObjects.md) they appear in this list. Left click the name of a caption to select it for editing. 
 
-![](../../../images/TextClipDisplayStyle.png)
+## Toolbar
+The toolbar is split into three sections - Background, Caption Settings and Template.
 
-All settings are stored inside Templates. So it's only logical that you would first define a Template and configure it from there.  If you are wondering why the dialog has the different colored areas, [click here](http://en.wikipedia.org/wiki/Title_safe).
+### Background
+Defines the background for the clip.
 
-Click the New Template icon.
+|Item|Description|
+|-|-|
+|None|Clicking None sets no background at all, ie, fully transparent. This is useful when using multiple layers to present the text objects over video clips.|
+|Colour|The default is colour black. Clicking the Colour icon will display a Windows colour picker. From there you may choose the desired background colour.|
+|Image|Clicking Image allows you to browse to and choose an image to be used. jpg, png, and bmp are supported. Note that whatever image you choose will be scaled to fill the screen. Additionally, if the image is configured with a transparent background, the transparency is respected. Animated images are not supported. If you wish to remove an image, click the Colour or None button.|
 
-![](../../../images/TextClipDisplayStyleTemplate.png)
+### Caption Settings
+The middle section of the toolbar allows you to modify the selected text caption object. The caption objects are selected by clicking the caption name in the list on the left of the dialog and then using the toolbar buttons.
 
-Type a name to identify the template and click OK.
+The toolbar buttons which apply to most objects are described here. For all other settings refer to the [Text Clip Objects page](TextClipObjects.md). 
 
-![](../../../images/NameTemplate.png)
+|Item|Description|
+|-|-|
+|Font|Click here to change the Font and style (bold, italic, etc) of the selected caption.|
+|Colour|Changes the text colour of the selected caption.|
+|Align|Clicking this box gives you nine alignment options for aranging the text within the frame. The icons give an indication of how the text will be laid out.|
+|Margin|Allows you to set the four margins (top, bottom, left, right) from the edges of the screen to the selected caption frame.|
+|Effect|This section gives you two effect options - Drop Shadow and Outline. Both are configurable in terms of opacity and colour. To disable the Drop Shadow set the Opacity to minimum (far left).|
+|Transition|You can set the time taken for the caption to transition (disolve) from one page to the next. There are four speed options None, Fast, Medium and Slow.|
+|Format|The format options differ for each caption type as described below.|
+|Visible|Enable or disable the selected caption from being displayed.|
 
-After you have created the template you need to configure it. Notice that your new template already has a Caption named Main Text. Let's add new Captions.
+### Template
+The currently selected template is shown in the drop down menu. Use the buttons to create a new template or delete the selected template.
 
-Click the New Caption icon.
+## Preview Canvas
+The large area in the middle of the dialog shows a preview of how your text clip will look. Depending on the captions in use some placeholder text will be seen because you are viewing the template and the actual data to be displayed is not added until after the clip is created.
 
-![](../../../images/TextClipDisplayStyleCaption.png)
+## Buttons
+Along the bottom of the widow are four buttons.
 
-Type a name to identify the caption and click OK.
-
-![](../../../images/Caption.png)
-
-You may add any number of captions. Captions simply define where any text assigned to these fields will appear. In the example above, we named our Caption "Header". As you might imagine, we want the caption to present a heading as well as to be aligned at the top of the display and centered. For this, we select the Header caption in the Captions list, then click the Align icon to choose the desired alignment.
-
-![](../../../images/CaptionAlign.png)
-
-Note that you may also configure the Font, Font color, Margins, Effect and Transition in the formatting area. These options are pretty intuitive and should need no further explanation.
-
-If you look at the Background section, note that your options are:
-
-  
-
-None
-
-This option removes any Color or Image that has been selected.
-
-Colour
-
-This option allows you to choose a color to be used for the background.
-
-Image
-
-This option allows you to choose an image to be used for the background. Note that the image will simply be scaled to fit.
+|Item|Description|
+|-|-|
+|OK|Close the dialog and keep changes for the current template|
+|Cancel|Close the dialog and lose changes| 
+|Apply|Make changes to the current template but leave the dialog open| 
+|Apply to All|Apply these settings to all text clips using this template in the current show. You will be asked to confirm.|
