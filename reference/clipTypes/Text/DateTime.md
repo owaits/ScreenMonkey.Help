@@ -1,7 +1,7 @@
-# Date and Time Formatting
-A few [text clip objects](TextClipObjects.md) display times and/or dates. Screen Monkey gives you complete control of how time and date is formatted and allows you to combine dates and times with static text. This flexibity requires a little bit of complexity.
+# Text Clip Date and Time Formatting
+A few [text clip objects](TextClipObjects.md) display dates and/or times. Screen Monkey gives you complete control of how date and time is formatted and allows you to combine dates and times with static text. This flexibity requires a little bit of complexity.
 
-The way Screen Monkey formats dates and time is based on a common set of letter abreviations which are listed below together with examples. Take care to understand how these work and when the special escape character is required.
+The way Screen Monkey formats dates and times is based on a common set of letter abreviations which are listed below together with examples. Take care to understand how these work and when the special escape character is required.
 
 ## Regular Date Time Formats
 |Code|Meaning|Example|
@@ -31,18 +31,18 @@ The way Screen Monkey formats dates and time is based on a common set of letter 
 |yyyy|Year, full 4 digits|0001-9999|
 |\\|The escape character|-|
 
-Additional uncommon codes (f,F,g,K,etc) are omitted from the table but maybe found online by searching for custom date and time format strings.
+Additional uncommon codes (f, F, g, K, etc) are omitted from the table but maybe found online by searching for custom date and time format strings.
 
 ## Countdown Date Time Formats
 |Code|Meaning|Example|
 |--|--|--|
-|!h|Date time duration converted to hours (used in countdown captions)|-|
+|!h|Total duration converted to hours|-|
 |h|Hours in 12-hour format|1 to 12|
 |hh|Hours in 12-hour format with leading zero|01 to 12|
-|!m|Date time duration converted to minutes (used in countdown captions)|-|
+|!m|Total duration converted to minutes|-|
 |m|Minutes|0 to 59|
 |mm|Minutes with leading zero|00 to 59|
-|!s|Date time duration converted to seconds (used in countdown captions)|-|
+|!s|Total duration converted to seconds|-|
 |s|Seconds|0 to 59|
 |ss|Seconds with leading zero|00 to 59|
 |f|Tenths of a second|0 to 9|
