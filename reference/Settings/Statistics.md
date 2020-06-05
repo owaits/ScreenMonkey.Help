@@ -38,45 +38,19 @@ You may find that double-clicking the file causes Windows Notepad or another app
 
 The image above was shaded using different colors to better illustrate the data captured.
 
-  
+|Column|Item|Description|
+|-|-|-|
+|A|Date And Time|As you might expect, this is the Date and Time the clip was played or cleared.|
+|B|Layer|This is the layer the clip is playing on. The number here begins at zero, so Layer 1 is 0 and Layer 4 is 3.|
+|C|Handle|Each clip has a unique handle number. This is the handle number assigned to the clip.|
+|D|Clip Name|This is the name of the clip that was played or cleared.|
+|E|Action|This is the action that occurred.|
 
-A
-
-Date And Time
-
-As you might expect, this is the Date and Time the clip was played or cleared.
-
-B
-
-Layer
-
-This is the layer the clip is playing on. The number here begins at zero, so Layer 1 is 0 and Layer 4 is 3.
-
-C
-
-Handle
-
-Each clip has a unique handle number. This is the handle number assigned to the clip.
-
-D
-
-Clip Name
-
-This is the name of the clip that was played or cleared.
-
-E
-
-Action
-
-This is the action that occurred.  
-   
 Playing means the clip was played  
 Paused means a video or other timed clip was paused  
 Finished means a video or other timed clip played until it reached its end  
-NoItem means the clip was cleared.
+NoItem means the clip was cleared.|
 
-
-![](../../../images/Noteimage.png)
 
 While it's not obvious from the example above, if a Clip is playing and is faded in or out of view using the Layers Dashboard, these actions are ignored and not logged.  
    
