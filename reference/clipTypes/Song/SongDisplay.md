@@ -8,7 +8,7 @@ To open the Display Style Editor either:
 - Right-click the Song clip on the Main Dashboard and choose Display Options
 - From within a Song Clip edit dialog choose Tools > Display Options 
 
-![](../../../images/song-display-default.png)
+![](../../../images/song-display-default.PNG)
 
 This dialog will allow you to configure the appearance of your songs. 
 
@@ -47,6 +47,7 @@ The following settings are applied to each caption (main text, copyright, title)
 |-|-|
 |Font|Click here to change the Font and style (bold, italic, etc) of the selected caption.|
 |Colour|Changes the text colour of the selected caption.|
+|Fill|Allows you to fill any of the caption objects with a solid background colour. This fill has a transparency setting which is useful when overlaying songwords on video.|
 |Align|Clicking this box gives you nine alignment options for aranging the text within the frame. The icons give an indication of how the text will be laid out.|
 |Margin|Allows you to set the four margins (top, bottom, left, right) from the edges of the screen to the selected caption frame.|
 |Effect|This section gives you two effect options - Drop Shadow and Outline. Both are configurable in terms of opacity and colour. To disable the Drop Shadow set the Opacity to minimum (far left).|
