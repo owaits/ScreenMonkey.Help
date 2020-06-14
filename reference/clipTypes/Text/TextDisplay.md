@@ -7,7 +7,7 @@ The Display Style editor is used for editing your Text Clip Templates. There are
 - Preview canvas in the remainder of the window
 - Bottom row of buttons
 
-![](../../../images/text-display-style.png)
+![](../../../images/text-display-style.PNG)
 
 ## Captions List
 A template will contain one or more caption objects. As you [create caption objects](TextClipObjects.md) they appear in this list. Left click the name of a caption to select it for editing. 
@@ -33,6 +33,7 @@ The toolbar buttons which apply to most objects are described here. For all othe
 |-|-|
 |Font|Click here to change the Font and style (bold, italic, etc) of the selected caption.|
 |Colour|Changes the text colour of the selected caption.|
+|Fill|Set a solid background colour for the caption. This fill also has a transparency option.|
 |Align|Clicking this box gives you nine alignment options for aranging the text within the frame. The icons give an indication of how the text will be laid out.|
 |Margin|Allows you to set the four margins (top, bottom, left, right) from the edges of the screen to the selected caption frame.|
 |Effect|This section gives you two effect options - Drop Shadow and Outline. Both are configurable in terms of opacity and colour. To disable the Drop Shadow set the Opacity to minimum (far left).|
