@@ -49,7 +49,7 @@ Screen Monkey can run cilps on a timed schedule. Learn more about [scheduling cl
 ## Display Settings
 Screen Monkey allows you to work with all sorts of display devices. Additional Monitors, Projection Systems, Lighting Systems, MIDI devices, etc. You may configure different profiles that allow you to accommodate different situations and environments. See [Display Profiles](../toolbar/display.md) for more information.
 
-- **Use Effect on Clip Out** If enabled then when a clip is cleared from a layer it will use the clip transition if one is set. It is recommended this setting is enabled.
+- **Use transition effects when clips are cleared** If enabled then when a clip is cleared from a layer it will use the clip transition if one is set. It is recommended this setting is enabled.
 
 ## Events and Errors
 Clicking the 'Show Event Log' button here will open the log. See [Events and Errors](../EventsAndErrors.md) for more information.
