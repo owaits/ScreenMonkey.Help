@@ -1,6 +1,6 @@
 # General
 
-![](../../../images/settings-general.png)  
+![](../../../images/settings-general-2.png)  
 
 ## Clip Preview
 This area contains settings related to clips.
