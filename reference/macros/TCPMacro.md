@@ -11,7 +11,7 @@ Enter the IP address of the device you want to talk to and also enter the TCP Po
 
 The example below is for a TVOne Corio universal scaler.
 
-![](../../images/macro-tcp-device.png)
+![](../../images/macro-tcp-device-2.png)
 
 After creating the device settings you will need to enter the message you wish to send to the device. You can either enter it as an ASCII string or a Hexadecimal byte string. Details of the messages you need to send will be found in the documentation of the device you wish to talk to. 
 
