@@ -8,7 +8,7 @@ A macro behaves like any other clip and can be renamed, linked, scheduled and ru
 
 To add a macro, click on an empty clip slot to bring up the Create Clip dialog. Now click ‘Choose Macro...’ to display the grid of macros available.
 
-![](../../images/Macros.PNG)
+![](../../images/clip-chooser-macro.png)
 
 Select the macro you want to create and a custom dialog for that macro type will appear allowing you to configure the macro. See the help pages for each macro type for more details.
 
