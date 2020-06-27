@@ -1,6 +1,6 @@
 # General
 
-![](../../../images/settings-general-2.png)  
+![](../../../images/settings-general-3.png)  
 
 ## Clip Preview
 This area contains settings related to clips.
@@ -53,3 +53,5 @@ Screen Monkey allows you to work with all sorts of display devices. Additional M
 
 ## Events and Errors
 Clicking the 'Show Event Log' button here will open the log. See [Events and Errors](../EventsAndErrors.md) for more information.
+
+-  **Automatically send diagnostic data to developers** When enabled crash reports maybe sent to the developers of Screen Monkey to help them improve the application.
