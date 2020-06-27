@@ -69,6 +69,8 @@
       href: clipSettings/remove.md
     - name: Swap Media
       href: clipSettings/swapMedia.md
+    - name: Pin
+      href: clipSettings/pin.md
     - name: Export Clip Template
       href: clipSettings/exportClipTemplate.md
     - name: Cut
