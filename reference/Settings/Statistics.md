@@ -1,5 +1,5 @@
 # Statistics
-Screen Monkey can create a CSV (Comma Separated Variable) log of the clips which have been played. This feature is enabled in the Satatistics section of the Settings dialog.
+Screen Monkey can create a CSV (Comma Separated Variable) log of the clips which have been played. This feature is enabled in the Statistics section of the Settings dialog.
 
 ![](../../../images/settings-stats.png)  
 
@@ -18,15 +18,12 @@ There are several uses for this feature.
 3. Browse to where you wish to store the logging file, type a suitable name, (eg `asrun.csv`) and click Save.
 4. Click OK to close the Settings dialog
 
-The log file will now be created and updated everytime a clip is played.
+The log file will now be created and updated every time a clip is played.
 
 ## Viewing the statistics logfile
+After you have run a show with statistics logging enabled you will be able to view the data you have collected.
 
-After you have worked your way through one or more shows with statistics logging enabled you will likely wish to view the data you have collected.
-
-To do this, you must use the Windows File Explorer and locate the file and open it using the application of your choice. A variety of applications may be used to view the file. In this case, the screen capture depicts using Microsoft Excel to view the file.
-
-You may find that double-clicking the file causes Windows Notepad or another application to open. The application that opens depends on what the .CSV file type has been [associated](../FileAssociation.md) with in Windows.
+To do this use the Windows File Explorer and locate the log file and open it using the application of your choice. A variety of spreadsheet or text editor applications may be used to view the file.
 
 An example logfile is shown below. 
 
