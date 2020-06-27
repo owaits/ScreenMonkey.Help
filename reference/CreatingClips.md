@@ -7,23 +7,25 @@ The process of adding media to Screen Monkey is achieved by creating clips. Ther
 ![](../../images/dashboard-empty-grid.png)
 
 ## Create Clips
-Clips go into slots, usually one clip per slot except in the case of the special cue-list and playlist clips. There are three ways to create clips.
+Clips go into slots, usually one clip per slot except in the case of the special [cue-list](/reference/clipTypes/CueListSpaceClip.md) and [playlist](/reference/clipTypes/playlist.md) clips. There are four ways to create clips.
 
 ### 1. Clip Chooser
-To create a new clip left-click on an empty clip slot. This slot is where your clip will be placed once it is created. The Create Clip dialog window will open. If necessary click ‘Choose Clip Type...’ to display a grid of all the clip types installed on your system. 
+To create a new clip left-click on an empty clip slot. This slot is where your clip will be placed once it is created. The Create Clip dialog window will open. The grid of available clip types can be filtered by Media, [Macro](/reference/macros/Macros.md), [Template](/reference/clipSettings/exportClipTemplate.md), File or All by clicking the labels in the sidebar.
 
-![](../../images/clip-chooser.png)
+To quickly find a clip type or template by name you can type into the search box at the top of the grid. The grid will be filtered as you type to only show clips or templates than contain the search text.
+
+![](../../images/clip-chooser-all.png)
 
 Choose the clip type you want to add and click OK. You can also double click the icon to bypass clicking OK. Refer to the [Clip Types](clipTypes/clipTypes.md) and [Macros](macros/Macros.md) sections of this documentation for more details.
 
 ### 2. File Chooser
 Another way of creating clips is to select several media files you want to add and let Screen Monkey work out what clip type should be created. Start by clicking on an empty slot to open the Create Clip dialog then choose ‘Open File...’ from the left hand panel. 
 
-![](../../images/clip-chooser-files.png)
+![](../../images/clip-chooser-files-empty.png)
 
 Click ‘Add Files’ or ‘Add Folder’ and select the files you wish to use. Continue adding files until you have everything you require. The files can be of any type supported by Screen Monkey. You can keep adding from different folders or drives by clicking ‘Add Files’ or ‘Add Folder’ again.
 
-![](../../images/clip-chooser-files-2.png)
+![](../../images/clip-chooser-files-3.png)
 
 When you add files the icon will indicate what clip type will be created. Click OK to confirm you want to create the clips. The clips will be created on the dashboard in the order that the files were added.
 
