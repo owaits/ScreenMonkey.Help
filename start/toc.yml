@@ -1,11 +1,13 @@
 - name: Getting Started
   href: gettingStarted.md
-- name: "Using for a Church Service"
+- name: "Using in a Church Service"
   href: UsingForAChurchService.md
-- name: "Using for a Concert"
+- name: "Using at a Concert"
   href: UsingForAConcert.md
-- name: "Using for a Conference"
+- name: "Using at a Conference"
   href: UsingForAConference.md
+- name: "Running a TV Station"
+  href: UsingForTV.md
 - name: More Resources
   href: GetMoreHelp.md
   
