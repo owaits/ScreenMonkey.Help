@@ -16,7 +16,7 @@ Create a clip and configure it with all the settings you wish to repeatedly use.
 ## Use a template to create a new clip
 Click on any empty dashboard slot as if you were going to create any other clip type. The Create Clip dialog will appear. Click ‘Choose Template...’ in the left panel and the available templates will be presented in the main part of the dialog. Select the template you wish to use, click OK. Then select the media that you wish to be associated with the new clip.
 
-![](../../images/clip-create-from-template.png)
+![](../../images/clip-create-from-template-2.png)
 
 ## Notes
 - If the template was saved from an Audio clip the new media dialog filters to show only audio files to make the selection. Likewise if the template was saved from an Image clip the dialog filters to only images.
