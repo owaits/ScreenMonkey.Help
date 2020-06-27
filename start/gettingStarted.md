@@ -8,7 +8,7 @@ A standard Windows installer will guide you through the process. Some advanced c
 To play media files smoothly you will probably need to download and install [KLite Full](https://codecguide.com/download_kl.htm). Screen Monkey works best with ffdshow.
 
 ## Outputs
-In most use cases you will need a secondary display connected to the computer running Screen Monkey which will be used to display the media, text or presentations. The secondary display could be a large TV screen, a projector, a vision mixer or a video encoder. As long as Windows can see it Screen Monkey can use it. Configure Screen Monkey to use the secondary display in [Display Profiles](../reference/toolar/display.md). 
+In most use cases you will need a secondary display connected to the computer running Screen Monkey which will be used to display the media, text or presentations. The secondary display could be a large TV screen, a projector, a vision mixer or a video encoder. As long as Windows can see it Screen Monkey can use it. Configure Screen Monkey to use the secondary display in [Display Profiles](../reference/toolbar/display.md). 
 
 ## Display scaling
 If using Windows 10 the display scaling must be set to 100% for Screen Monkey to work correctly. This can be set in Windows Display Settings.
