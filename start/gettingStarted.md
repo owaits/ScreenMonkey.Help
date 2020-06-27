@@ -1,4 +1,5 @@
 # Getting Started
+This is a very brief overview of Screen Monkey. To learn all the many features and possibilities of Screen Monkey read the [reference documents](../reference/mainWindow.md).
 
 ## Installation
 A standard Windows installer will guide you through the process. Some advanced components are optional.
@@ -7,7 +8,7 @@ A standard Windows installer will guide you through the process. Some advanced c
 To play media files smoothly you will probably need to download and install [KLite Full](https://codecguide.com/download_kl.htm). Screen Monkey works best with ffdshow.
 
 ## Outputs
-In most use cases you will need a secondary display connected to the computer running Screen Monkey which will be used to display the media, text or presentations. The secondary display could be a large TV screen, a projector, a vision mixer or a video encoder. As long as Windows can see it Screen Monkey can use it. Configure Screen Monkey to use the secondary display in [Display Profiles](../reference/DisplayProfiles.md). 
+In most use cases you will need a secondary display connected to the computer running Screen Monkey which will be used to display the media, text or presentations. The secondary display could be a large TV screen, a projector, a vision mixer or a video encoder. As long as Windows can see it Screen Monkey can use it. Configure Screen Monkey to use the secondary display in [Display Profiles](../reference/toolar/display.md). 
 
 ## Display scaling
 If using Windows 10 the display scaling must be set to 100% for Screen Monkey to work correctly. This can be set in Windows Display Settings.
@@ -17,11 +18,11 @@ If using Windows 10 the display scaling must be set to 100% for Screen Monkey to
 ## Overview
 All uses of Screen Monkey are essentially a two step process.
 
-1. You Create a Show and Add Clips. Creating a show is similar to PowerPoint, where you create a blank presentation, then add elements that will be presented.
+1. You create a show and add media as clips. Creating a show is similar to PowerPoint, where you create a blank presentation, then add elements that will be presented.
 
-2. You Play the Clips you have Added. This is similar to PowerPoint, where you launch the slide show and present it to the audience.
+2. You play the clips you have added either manually or automatically. This is similar to PowerPoint, where you launch the slide show and present it to the audience.
 
-Unlike PowerPoint Screen Monkey does not restrict you to fully building the show before presenting. It’s very easy to present and edit the show simultaneously.
+Unlike PowerPoint, Screen Monkey does not restrict you to fully building the show before presenting. It’s very easy to present and edit the show simultaneously.
 
 ## Loading a Clip
 Drag a media, image or PowerPoint file from Windows Explorer and drop it onto one of the empty panels. Alternatively left click on any empty panel and choose a clip type.
@@ -49,6 +50,7 @@ There are as many ways to use Screen Monkey as you can dream up. So that you can
 - [Church Service](UsingForAChurchService.md)
 - [Concert](UsingForAConcert.md)
 - [Conference](UsingForAConference.md)
+- [TV Station](UsingForTV.md)
 
 ## Further Reading
 All functions of Screen Monkey are documented in this online help document. Continue to a description of the [main window](../reference/mainWindow.md).
