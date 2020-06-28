@@ -34,7 +34,7 @@ A page can be given a bookmark so rather than ‘Page 1’ it will show somethin
 
 In the top left corner of the Dashboard we see the bookmark drop-down, currently showing ‘Page 1’.
 
-![](../../images/page-dropdown.png)
+![](../../images/page-dropdown-2.png)
 
 Just to the right of the drop-down list is the Bookmark rename icon. Click this icon and the Bookmark name dialog is presented. Type your desired name into the field and press Enter or click OK.
 
@@ -44,4 +44,17 @@ To change the name just click the rename button again.
 
 Bookmarks make it a simple and efficient process to organize and navigate to exactly the clips you need when you need them. Now you can use familiar names in the drop-down list to move to pages instead of having to memorize page numbers.
 
-![](../../images/pages-dropdown.png)
+![](../../images/pages-dropdown-3.png)
+
+## Clearing Pages
+To quickly tidy up a page and remove all clips click on the 'Clear Page' icon next to the rename icon in the page toolbar.
+
+![](../images/page-clear-icon.png)
+
+Screen Monkey will ask if you wish to proceed. 
+
+![](../images/page-clear-warning.png)
+
+Choose 'OK' and any clips which are not [pinned](/reference/clipSettings/pin.md) will be removed. 
+
+*Note:* The **original** clip in a pinned set it is removed by the page clear commnand.
