@@ -19,10 +19,13 @@ Displays formatted text to the screen.
 |Item|Description|
 |-|-|
 |Display Format|The default placeholder string `{0}` means that the text for this object is set in the Edit/Cue dialog of the Text clip. By modifying this string you can add static text saved in the display profile. This is helpful if you want to specify text that won't change and then allow dynamic input of text through the clip Edit/Cue dialog.|
-|Example|In the template you might specify the following display format "Next seminar is starting in {0}" and then in each Text clip that you create you input the location text "Downstairs Hall", "Meeting Room 3", etc in the Edit/Cue dialog. When the clip is played {0} is replaced with the text from the Edit/Cue dialog.|
+
+In the template you might specify the following display format "Next seminar is starting in {0}" and then in each Text clip that you create you input the location text "Downstairs Hall", "Meeting Room 3", etc in the Edit/Cue dialog. When the clip is played {0} is replaced with the text from the Edit/Cue dialog.
 
 ### Live Text
-(awaiting more information)
+Live Text is similar to the text object above except that it can be edited from the live preview monitor when the text clip is live. As you type the output immediately updates. Other options are the same as the standard text object.
+
+![](../../../images/text-livetext.png)
 
 ### Image
 The image object allows you to insert images and logos into your text clip template.
