@@ -1,4 +1,5 @@
-# ![](../../images/LIveStreamIcon.png)Live Stream Clip
+![](../../images/LIveStreamIcon.png)
+# Live Stream Clip
 
 ## What a Live Stream Clip does
 
