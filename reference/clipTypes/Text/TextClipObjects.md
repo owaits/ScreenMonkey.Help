@@ -59,10 +59,10 @@ Generates a live onscreen countdown *to* the time you specify.
 |Item|Description|
 |-|-|
 |Format|[Use a pattern to format the displayed time](DateTime.md)|
-|Reset on Clip Play|
-|Count Past Zero|
-|Warning|
-|Alert|
+|Reset on Clip Play|Choose to reset the count every time the clip is played or remember the value last displayed.|
+|Count Past Zero|Allow the count to continue and show a negative display.|
+|Warning|Turn the caption text orange when this time (hh:mm:ss) is passed.|
+|Alert|Turn the caption text red when this time (hh:mm:ss) is passed.|
 
 ### Stopwatch
 Provides an onscreen clock which counts up from zero in realtime, starting when the clip is played. If you would like to stop the stopwatch but leave the duration on screen then you can use a [Freeze clip](../FreezeClip.md).
@@ -73,17 +73,17 @@ Provides an onscreen clock which counts up from zero in realtime, starting when 
 |Format|[Use a pattern to format the displayed time](DateTime.md)|
 
 ### Schedule
-The Schedule item generates an on screen guide of upcoming events from the data you add to [scheduled clips](../toolbar/schedule.md). This function is especially useful when using Screen Monkey to automate TV channel playout. Between live programmes use this clip to inform viewers what is coming up next. When the clip is live the content will update automatically as the schedule plays.
+The Schedule item generates an on screen guide of upcoming events from the data you add to [scheduled clips](../../toolbar/schedule.md). This function is especially useful when using Screen Monkey to automate TV channel playout. Between live programmes use this clip to inform viewers what is coming up next. When the clip is live the content will update automatically as the schedule plays.
 
 *Note:* By default scheduled clips are set to 'hidden' so they won't appear in this clip. To show them you must untick the 'Hide' checkbox in the schedule viewer table.
 
 |Item|Description|
 |-|-|
 |Date Format|[Use a pattern to format the displayed time](DateTime.md). This time is taken from the list scheduled clips. Screen Monkey will automatically pick the next clips to show in the guide.|
-|Entry Format|Next to the time you can show the name, title and description of the clip as defined in the [schedule library grid](../toolbar/schedule.md). In a similar way to date and time formatting you have complete flexibilty over the which elements are displayed and in what order. To enable a nice layout you can also add tabs [t] and newline [nl] elements to the format string.|
+|Entry Format|Next to the time you can show the name, title and description of the clip as defined in the [schedule library grid](../../toolbar/schedule.md). In a similar way to date and time formatting you have complete flexibilty over the which elements are displayed and in what order. To enable a nice layout you can also add tabs `[t]` and newline `[nl]` elements to the format string.|
 |Max Display Items|When set to 0 Screen Monkey will fill the schedule caption with as many items as possible. By using this setting you can limit the display to a number of your choice.|
 |Time Period|Alternatively, you can limit the display by hours and days.|
-|End At Midnight|Don't show events starting tomorrow until the time has passed midnight.|
+|End At Midnight|Don't show events starting tomorrow until the current time has passed midnight.|
 |Hang Time|Delay the update of the on screen schedule for a specified number of seconds after the scheduled start time of the clip. This is useful when you need to add delays into your automation to accommodate the processing time of other equipment.|
 
 ### Text File
