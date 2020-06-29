@@ -7,10 +7,10 @@ The process of adding media to Screen Monkey is achieved by creating clips. Ther
 ![](../../images/dashboard-empty-grid.png)
 
 ## Create Clips
-Clips go into slots, usually one clip per slot except in the case of the special [cue-list](/reference/clipTypes/CueListSpaceClip.md) and [playlist](/reference/clipTypes/playlist.md) clips. There are four ways to create clips.
+Clips go into slots, usually one clip per slot except in the case of the special [cue-list](clipTypes/CueListSpaceClip.md) and [playlist](clipTypes/playlist.md) clips. There are four ways to create clips.
 
 ### 1. Clip Chooser
-To create a new clip left-click on an empty clip slot. This slot is where your clip will be placed once it is created. The Create Clip dialog window will open. The grid of available clip types can be filtered by Media, [Macro](/reference/macros/Macros.md), [Template](/reference/clipSettings/exportClipTemplate.md), File or All by clicking the labels in the sidebar.
+To create a new clip left-click on an empty clip slot. This slot is where your clip will be placed once it is created. The Create Clip dialog window will open. The grid of available clip types can be filtered by Media, [Macro](macros/Macros.md), [Template](clipSettings/exportClipTemplate.md), File or All by clicking the labels in the sidebar.
 
 To quickly find a clip type or template by name you can type into the search box at the top of the grid. The grid will be filtered as you type to only show clips or templates than contain the search text.
 
