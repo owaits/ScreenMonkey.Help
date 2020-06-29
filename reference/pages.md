@@ -55,6 +55,6 @@ Screen Monkey will ask if you wish to proceed.
 
 ![](../images/page-clear-warning.png)
 
-Choose 'OK' and any clips which are not [pinned](/reference/clipSettings/pin.md) will be removed. 
+Choose 'OK' and any clips which are not [pinned](clipSettings/pin.md) will be removed. 
 
 *Note:* The **original** clip in a pinned set it is removed by the page clear commnand.
