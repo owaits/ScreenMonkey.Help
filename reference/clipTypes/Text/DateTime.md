@@ -48,7 +48,7 @@ Additional uncommon codes (f, F, g, K, etc) are omitted from the table but maybe
 |f|Tenths of a second|0 to 9|
 |ff|Hundredths of a second|00 to 99|
 |fff|Milliseconds|000 to 999|
-|d|Days|-|
+|d|Days|0 to 999|
 |\\|The escape character|-|
 
 In countdown date format strings the codes have the same meaning when used in uppercase.
