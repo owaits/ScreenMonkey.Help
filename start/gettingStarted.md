@@ -22,7 +22,7 @@ All uses of Screen Monkey are essentially a two step process.
 
 2. You play the clips you have added either manually or automatically. This is similar to PowerPoint, where you launch the slide show and present it to the audience.
 
-Unlike PowerPoint, Screen Monkey does not restrict you to fully building the show before presenting. It’s very easy to present and edit the show simultaneously.
+Unlike PowerPoint, Screen Monkey does not restrict you to fully building the show before presenting. It’s very easy to present and edit the show simultaneously. In this regard using Screen Monkey is somewhat similar to a programmable lighting console.
 
 ## Loading a Clip
 Drag a media, image or PowerPoint file from Windows Explorer and drop it onto one of the empty panels. Alternatively left click on any empty panel and choose a clip type.
