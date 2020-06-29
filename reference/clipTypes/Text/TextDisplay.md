@@ -25,20 +25,20 @@ Defines the background for the clip.
 |Image|Clicking Image allows you to browse to and choose an image to be used. jpg, png, and bmp are supported. Note that whatever image you choose will be scaled to fill the screen. Additionally, if the image is configured with a transparent background, the transparency is respected. Animated images are not supported. If you wish to remove an image, click the Colour or None button.|
 
 ### Caption Settings
-The middle section of the toolbar allows you to modify the selected text caption object. The caption objects are selected by clicking the caption name in the list on the left of the dialog and then using the toolbar buttons.
+The middle section of the toolbar allows you to modify the selected text caption object. The caption objects are selected by clicking the caption name in the list on the left of the dialog.
 
 The toolbar buttons which apply to most objects are described here. For all other settings refer to the [Text Clip Objects page](TextClipObjects.md). 
 
 |Item|Description|
 |-|-|
-|Font|Click here to change the Font and style (bold, italic, etc) of the selected caption.|
+|Font|Click here to change the font family, font style (bold, italic, etc) and font size of the selected caption.|
 |Colour|Changes the text colour of the selected caption.|
 |Fill|Set a solid background colour for the caption. This fill also has a transparency option.|
-|Align|Clicking this box gives you nine alignment options for aranging the text within the frame. The icons give an indication of how the text will be laid out.|
+|Align|Clicking this icon gives you nine alignment options for aranging the text within the frame. The icons give an indication of how the text will be laid out.|
 |Margin|Allows you to set the four margins (top, bottom, left, right) from the edges of the screen to the selected caption frame.|
 |Effect|This section gives you two effect options - Drop Shadow and Outline. Both are configurable in terms of opacity and colour. To disable the Drop Shadow set the Opacity to minimum (far left).|
 |Transition|You can set the time taken for the caption to transition (disolve) from one page to the next. There are four speed options None, Fast, Medium and Slow.|
-|Format|The format options differ for each caption type as described below.|
+|Format|The format options differ for each caption type. Refer to the [text clip objects](TextClipObjects.md) page for details.|
 |Visible|Enable or disable the selected caption from being displayed.|
 
 ### Template
