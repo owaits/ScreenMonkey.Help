@@ -23,12 +23,21 @@ These steps are described below.
 A new template is required for each layout that you wish to use in the show.
 
 - Add a new Text Clip by clicking an empty slot and choosing Text from the new clip dialog.
-- A dialog will appear with one default template called 'Normal' and any other templates that have been created on your computer.
+
+- A dialog will appear with a default template called 'Normal' and any other templates that have been created on your computer.
+
 - Click the 'Edit' pencil icon to open the Display Style editor
+
+![](../../../images/text-cue-pencil.png)
+
 - Click on the 'New' icon on toolbar in the template section   
+
 ![](../../../images/clip-text-template-new.PNG)
+
 - Enter a template name   
+
 ![](../../../images/clip-text-template-name.PNG)
+
 - Press Enter or click OK
 
 Your new template is now ready for you to design. Learn more about how to use the [Display Style](TextDisplay.md) window to edit templates.
