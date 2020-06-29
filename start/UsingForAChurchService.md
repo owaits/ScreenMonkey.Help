@@ -1,43 +1,21 @@
 # Using Screen Monkey for a Church Service
 
-In this example, we will use Screen Monkey to help us with a church service. The church service will contain the following elements:
+In this example, we will use Screen Monkey to help us with a church service. A church service will often contain the following elements.
 
-1.  Lead in music  
-      
-    The Lead in music is played using an MP3 file named LeadIn.MP3.
-    
-2.  Opening Song  
-      
-    The Congregation sings and lyrics are projected on the wall using a PowerPoint file named Opening.PPT.
-    
-3.  Prayer or Meditation
-    
-4.  Discussion
-    
-5.  Offering  
-      
-    During the offering, music is played using an MP3 file named Offering.MP3.
-    
-6.  Announcements  
-      
-    The announcements are stored in a video clip named Announcements.FLV that is projected on the wall.
-    
-7.  Closing Song  
-      
-    The Congregation sings and lyrics are projected on the wall using a PowerPoint file named Closing.PPT.
-    
-8.  Lead out music  
-      
-    The Lead out music is played using an MP3 file named LeadOut.MP3.
-    
+1. Pre Service Music played from a MP3 media file
+2. The Congregation sings and lyrics are projected
+3. Prayer or Meditation with key points displayed on screen
+6. Announcements or Notices during which upcoming events are promoted using pre-made JPEG image slides
+7. Sermon for which the preacher has provided a PowerPoint presentation containing the key points of the talk.
+8. Closing Songs
+8. Lead out music playlist from YouTube
 
-As you can see, we need to be able to easily present different types of media. For our example church service, we have three different audio files in MP3 format, a video file in FLV format and two different PowerPoint presentations in .PPT format.
+As you can see, we need to be able to easily present different types of media - audio, video, text, PowerPoint, and YouTube. Screen Monkey can handle all these tasks.
 
 ## Preparing Screen Monkey before the service
+Before the church service begins, you will want to prepare Screen Monkey.
 
-Long before the church service begins, you will want to prepare Screen Monkey.
-
-First, we add these files to Screen Monkey.
+We need to collect all the of required media and copy or download it onto the computer running Screen Monkey.
 
 To add a media file to Screen Monkey, you click once on any of the blank squares.
 
@@ -92,9 +70,5 @@ As you can hopefully see, it's really easy to present the content. Once you are 
 Using Screen Monkey there was no need for opening PowerPoint, then opening the desired presentation, then starting the slide show. There was also no need to locate the audio files, open and play them using a media player. No need to locate the announcements video file, open it and play it using a media player. Possibly having the player open on the main screen of the PC and having to drag it into the second monitor to present it.
 
 Instead, the show was polished and seamless!
-
-  
-
-![](..\images\Noteimage.png)
 
 This topic presented one possible use of Screen Monkey. The intent was to provide an overview of how such a situation might unfold. As you may imagine, simplicity was the goal here. There are more efficient ways of working with Screen Monkey. For example, pre-assigning clips so that they appear on specific layers.
