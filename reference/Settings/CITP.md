@@ -1,6 +1,6 @@
 # CITP
 
-  
+**CITP requires a Screen Monkey Pro licence.**
 
 ![](../../../images/Noteimage.png)
 

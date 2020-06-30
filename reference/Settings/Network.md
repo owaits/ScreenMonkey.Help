@@ -1,6 +1,6 @@
 # Network
 
-  
+**Network requires a Screen Monkey Pro licence.**
 
 ![](../../../images/Noteimage.png)
 

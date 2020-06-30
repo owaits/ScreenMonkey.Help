@@ -1,6 +1,6 @@
-# Artnet
+# ArtNet
 
-  
+**ArtNet requires a Screen Monkey Pro licence.**
 
 ![](../../../images/Noteimage.png)
 
