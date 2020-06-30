@@ -1,5 +1,5 @@
 # Pro Upgrade
 
-If you have purchased Screen Monkey Pro, you will need to activate it in order to unlock the additional features. This dialog is where you make that happen.
+Certain features such as Macros require a Screen Monkey Pro Upgrade. This can be purchased on the [Screen Monkey](http://www.screenmonkey.co.uk) website and is activated by logging in using the Pro Upgrade section of settings.
 
-![](../../../images/SettingsProUpgrade.png)
+![](../../images/pro-upgrade.png)
