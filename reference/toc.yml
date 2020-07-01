@@ -80,7 +80,9 @@
     - name: Paste
       href: clipSettings/cutCopyPaste.md
 - name: Clip Types
-  items: 
+  items:
+    - name: All Clips
+      href: clipSettings/clipTypes.md
     - name: Audio
       href: clipTypes/AudioClip.md
     - name: Autocue
