@@ -1,18 +1,18 @@
 ![](../../images/ScribbleIcon.png)
 # Scribble Clip
 
-The scribble clip allows you to freehand draw on the screen. The drawing is overlaid on top of any video or media playing on other layers. There are a number of applications for this, such as in classrooms where the teacher want to highlight a specific part of a video or during live commentary where the commentators want to point out a specific part of a replay.
+The scribble clip allows you to freehand draw on the screen using a mouse or trackpad. The drawing is overlaid on top of any video or media playing on other lower layers. There are a number of applications for this clip, such as in classrooms where the teacher want to highlight a specific part of a video or during live sport commentary where the commentators want to point out a specific part of a replay.
 
-![](../../images/img_52.jpg)
+![](../../images/clip-scribble-output.png)
 
 ## Create a Scribble Clip
-To adding a Scribble Clip, Click or Right-click an empty slot and choose Scribble. Ensure the Scribble is assigned to a Layer that sits above your video or whatever you will be live annotating. Otherwise, the Scribble will replace the video or whatever is being annotated if the Scribble Clip is simply configured to use the Active layer.
-
-Other configuration will occur during actual use of the Scribble Clip, where you may choose pen color, shape and thickness.
+To add a Scribble Clip, click an empty slot and choose Scribble from the new clip browser. Ensure the Scribble clip is manually assigned to a layer that sits above (higher layer number) your video or whatever clip you will be annotating. The Scribble clip should not normally be set to 'Active Layer'.
 
 ## Use a Scribble Clip in a show
-To begin using the scribble, click the Scribble Clip to play it. You must also open the [live monitor](../../tutorials/WorkingWithShows/LiveMonitor.md) to gain control of your pen including color, shape and thickness. You may use the Clear button to remove all your doodles and start over.
+To begin using the scribble click the Scribble clip to play it. Initially the canvas is empty so there will be no visible change to the output. You must also open the [live monitor](../toolbar/preview.md) for the layer on which the Scribble clip is assigned to access the controls. 
 
-![](../../images/img_53.jpg)
+![](../../images/clip-scribble-livemonitor.png)
 
-When using the Scribble Clip you may also want to use the [Freeze](FreezeClip.md) or [Live Video Snapshot](LiveVideoSnapshotClip.md) clip. Or you may find it simpler to just pause the video if playing back [Video](VideoClip.md) or [DVD](DVDClip.md).
+The live monitor for the Scribble clip contains a canvas for drawing and a toolstrip of pens, shapes, and options for line thickness and line colour. As soon as you start to draw the output will update. You may use the Clear button to remove all your doodles and start over.
+
+When using the Scribble clip you may also want to use the [Freeze](FreezeClip.md) or [Live Video Snapshot](LiveVideoSnapshotClip.md) clip. Or you may find it simpler to just pause the video if playing back [Video](VideoClip.md) or [DVD](DVDClip.md).
