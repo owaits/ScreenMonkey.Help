@@ -1,6 +1,6 @@
 # Clips
 
-Screen Monkey has a large library of clips for you to use in your shows. They are breifly described below. Follow the links or pick from the table of contents to learn more.
+Screen Monkey has a large library of clips for you to use in your shows. 
 
 [Learn more about creating clips](../CreatingClips.md).
 
@@ -11,10 +11,10 @@ Screen Monkey has a large library of clips for you to use in your shows. They ar
 |[Clear Layer](ClearLayerClip.md)|Special|Remove the currently playing clip from the output|
 |[Clone](CloneClip.md)|Generator|Copy one layer onto another with channel filtering|
 |[Colour](ColorClip.md)|Generator|Full screen solid matte of any colour|
-|[Cue List](CueListSpaceClip.md)|Media list|Play clips from a list|
+|[Cue List / Space](CueListSpaceClip.md)|Media list|Play clips from a list|
 |[DVD](DVDClip.md)|Media disc|Play a local DVD disc|
 |[Effect Generator](EffectsGenerator/EffectsGeneratorClip.md)|Generator|Create animated graphics|
-|[ESV](esv.md)|Data feed|Search for and display Bible passages|
+|[ESV Passage](esv.md)|Data feed|Search for and display Bible passages|
 |[Folder Search](folderSearch.md)|Media list|Automatically updating media playlist|
 |[Freeze](FreezeClip.md)|Generator|Pause the output of any clip|
 |[Image](ImageClip.md)|Media file|Display images from files|
