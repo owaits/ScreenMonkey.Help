@@ -82,7 +82,7 @@
 - name: Clip Types
   items:
     - name: All Clips
-      href: clipSettings/clipTypes.md
+      href: clipTypes/clipTypes.md
     - name: Audio
       href: clipTypes/AudioClip.md
     - name: Autocue
