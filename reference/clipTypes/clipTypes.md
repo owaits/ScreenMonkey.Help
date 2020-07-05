@@ -4,6 +4,7 @@ Screen Monkey has a large library of clips for you to use in your shows.
 
 [Learn more about creating clips](../CreatingClips.md).
 
+## Clip Library Overview
 |Clip Name|Type|Description|
 |-|-|
 |[Audio](AudioClip.md)|Media file|Play local audio files|
