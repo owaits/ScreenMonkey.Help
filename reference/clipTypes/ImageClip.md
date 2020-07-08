@@ -13,29 +13,50 @@ Click on an empty dashboard slot and choose the Image clip type from the create 
 To quickly add a large number of images you can also drag-drog from Windows Explorer onto the dashboard or use the [Open File](../CreatingClips.md) feature of the create clip dialog.
 
 ## Configure an Image Clip
-If the image is already sized for the output resolution of your system then the default image display settings maybe exactly what you require. However if you need to make adjustments you may right-click it and choose Display Options.
+If the image has the same dimensions as the output resolution of your system then no confiuguration is required. 
 
-The Display Style Editor dialog is presented.
+However if the image is a different size and/or aspect radio then you may need to tell Screen Monkey how you want the image to be presented.
 
-![](../../images/DisplayStyleEditor.png)
+Right click on the image thumbnail in the dashboard and choose 'Display Options'
+
+![](/images/clip-image-display-style.png)
+
+There are two parts to the display style settings.
 
 ### Image Resizing
-If you choose Stretch, the image is stretched to fill the screen.
+There are three different resizing options available.
 
-If you choose Zoom, the image proportions are maintained and the image is presented at the screen size. (Whichever fills first. Vertical or Horizontal)
+|Setting|Description|
+|-|-|
+|Stretch to Fill Screen|Your image will be stretched either vertically or horizontally until it reaches the edges of the screen.|
+|Zoom|The image will be enlarged until it reaches all edges of the screen. Some cropping may occur.|
+|Letterbox/Pillarbox|The orginal aspect ratio will be preserved and empty space will be created. Depending on the size of the original image it may be scaled to fill either the horizontal or vertical space. The remaining empty space is configured using the 'Background' optoins.|
 
-When you create images for use in Screen Monkey, it's best if you create them at the exact size of your projection system or device they will be presented on.  
-   
-For example, many projectors use 1024x768 as their resolution. In this case, optimal results are obtained by configuring images to be that exact size. If you don't, the image will likely be distorted when it is presented as Screen Monkey simply assumes whatever you present should appear on the screen. It has no way of knowing you wanted the image at a specific size or at a specific screen location.  
-   
-One way to accomplish this is by constructing your image in PowerPoint, presenting that at your presentation size and screen capturing the result for use in Screen Monkey.
+### Background
+If you choose 'Letterbox / Pillarbox' empty space is created. Choose what is put into this space from the options below.
 
-### Background Colour
-If you choose Transparent for the Background Color and the image is a type that supports Transparency, then it will be rendered with a transparent background when presented. This is useful when presenting something like a lower third where the image is layered on top of live video.
+|Setting|Description|
+|-|-|
+|Transparent|All lower layers are visible. If the image is on layer 1 then the Windows desktop is visible.|
+|Solid Black|Black.|
+|Echo|A stretched, blurred version of the original image.|
 
-If you choose Solid, the background will typically be rendered as black.
+### Apply Settings
+These buttons allow you to make apply the changes.
+
+- **Apply to All** Make the change to all images in the current show.
+- **Apply** Make the change to this image. If the clip is live the changes will be made immediately.
+- **OK** Make the change to this image and close the dialog.
+- **Cancel** Make no changes and close the dialog.
+
+You can also configure the options for all new image clips.
+
+- **Load Default Style** Apply the default set of options previously saved for this show
+- **Set As Default Style** Save the current set of options as defaults and use them for all new image clips in this show. 
 
 ## Use an Image Clip in a show
 Presenting images is just like presenting other clip types. You click the image and it shows on the screen until you either fade it out of view or clear the layer it is being presented on.
+
+Image clips can be configured with links, effects, transitions, scheudules etc. as described in [Clip Settings](../clipSettings/clipSettings.md).
 
 *Note:* Some image types (such as .GIF) support animation. If you use a .GIF image type and it is animated Screen Monkey will only render a static image and the animation will not occur.
