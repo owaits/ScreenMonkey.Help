@@ -32,28 +32,27 @@ Drag a media, image or PowerPoint file from Windows Explorer and drop it onto on
 Optionally you can change the name, add effects, add transitions, cue in/out points, add scheddule and edit links by right clicking on the clip thumbnail in the panel.
 
 ## Running the Show
-1. Left click the desired clip using the mouse and its border will turn purple to indicate it is live.  
+- Left click the desired clip using the mouse and its border will turn purple to indicate it is live.  
       
 ![](../images/Dashboard-PowerPointSlot.PNG)  
     
-2. To play another clip, left click to select that clip.
+- To play another clip, left click to select that clip.
     
-3. To clear the active clip, left click 'Clear Layer' in the top left of the dashboard.  
+- To clear the active clip, left click 'Clear Layer' in the top left of the dashboard.  
       
 ![](../images/Dashboard-ClearLayer1.PNG)
     
-4. To advance a PowerPoint slide left click on the clip panel using the mouse or use the left and right arrow keys.
+- To advance a PowerPoint slide left click on the clip panel using the mouse or use the left and right arrow keys.
 
 ## Next Steps
-There are as many ways to use Screen Monkey as you can dream up. So that you can get started, three possible uses are outlined in this section.
+All functions of Screen Monkey are documented in this online help document. Continue to a description of the [main window](../reference/mainWindow.md) or read about the many [types of clips available](../reference/clipTypes/clipTypes.md).
+
+To discuss and share Screen Monkey shows with other users and the developers join the [Screen Monkey Facebook Group](https://www.facebook.com/Screen-Monkey-138931966146473).
+
+There are as many ways to use Screen Monkey as you can dream up. To help get started here are some example shows.
 
 - [Church Service](UsingForAChurchService.md)
 - [Concert](UsingForAConcert.md)
 - [Conference](UsingForAConference.md)
 - [TV Station](UsingForTV.md)
 
-## Further Reading
-All functions of Screen Monkey are documented in this online help document. Continue to a description of the [main window](../reference/mainWindow.md).
-
-## Social Networks
-To discuss and share Screen Monkey shows with other users and the developers join the [Screen Monkey Facebook Group](https://www.facebook.com/Screen-Monkey-138931966146473).
