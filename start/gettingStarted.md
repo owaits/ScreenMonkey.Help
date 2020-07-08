@@ -54,3 +54,6 @@ There are as many ways to use Screen Monkey as you can dream up. So that you can
 
 ## Further Reading
 All functions of Screen Monkey are documented in this online help document. Continue to a description of the [main window](../reference/mainWindow.md).
+
+## Social Networks
+To discuss and share Screen Monkey shows with other users and the developers join the [Screen Monkey Facebook Group](https://www.facebook.com/Screen-Monkey-138931966146473).
