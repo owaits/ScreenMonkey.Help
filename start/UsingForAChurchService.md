@@ -1,74 +1,47 @@
 # Using Screen Monkey for a Church Service
 
-In this example, we will use Screen Monkey to help us with a church service. A church service will often contain the following elements.
+In this example, we will use Screen Monkey to run the visual content in a church service. A church service will often contain the following elements.
 
-1. Pre Service Music played from a MP3 media file
-2. The Congregation sings and lyrics are projected
-3. Prayer or Meditation with key points displayed on screen
-6. Announcements or Notices during which upcoming events are promoted using pre-made JPEG image slides
-7. Sermon for which the preacher has provided a PowerPoint presentation containing the key points of the talk.
-8. Closing Songs
-8. Lead out music playlist from YouTube
+1. Pre-service music played from an MP3 media file
+2. The congregation sings and lyrics are projected
+3. Prayer or meditation with key points or images displayed on screen
+6. Announcements or notices during which upcoming events are promoted using image slides and a short video clip
+7. Sermon for which the preacher has provided a PowerPoint presentation containing the key points of the talk
+8. Closing songs with lyrics
+9. Lead out music playlist from YouTube
 
-As you can see, we need to be able to easily present different types of media - audio, video, text, PowerPoint, and YouTube. Screen Monkey can handle all these tasks.
+As you can see we need to be able to easily present different types of media - audio, video, text, PowerPoint and YouTube. Screen Monkey can handle all these tasks.
 
 ## Preparing Screen Monkey before the service
-Before the church service begins, you will want to prepare Screen Monkey.
+Before the church service begins you will want to prepare Screen Monkey. The main steps and topics are described below with links to more information.
 
-We need to collect all the of required media and copy or download it onto the computer running Screen Monkey.
+- **[Pages](../reference/pages.md)** 
+Consider how many pages we want to use. We can put everything onto the same page or split the service sections into separate pages. Set a name for each page we are using.
 
-To add a media file to Screen Monkey, you click once on any of the blank squares.
+- We need to collect all the of required media and copy or download it onto the computer running Screen Monkey.
 
-(These blank squares are called "slots")
+- **[Add Media](../reference/CreatingClips.md)** To qiuckly add a media file to Screen Monkey drag it from Windows Explorer onto one of the empty dashboard slots. You can drag files or folders.
 
-![](..\images\ClickEmptySquare.png)
+- **[Add Songs](../reference/clipTypes/Song/SongClip.md)** The lyrics for the songs which will be sung need to be added either from [local XML files](../reference/clipTypes/Song/SongSearch.md) or an online database such as [Planning Center](../reference/clipTypes/planningCenter.md). [New songs can be created](../reference/clipTypes/Song/SongEditor.md) by copying and pasting lyrics from the internet.
 
-After you click a slot, the Create Clip dialog opens.
+- **[Add Streaming Media](../reference/clipTypes/youtube.md)** The service also includes a YouTube video, this is added by creating a new YouTube clip type and browsing to the required video.
 
-![](..\images\CreateClip.png)
+- **[Organise](../reference/toolbar/edit.md)** If the clips are not in the order we would like we can move them around to follow the service flow. 
 
-Since the first thing we are likely to do is play the lead in music, we find and click the Audio icon followed by OK.
-
-The Open dialog should display allowing us to browse to where the music content is located.
-
-Choose the desired audio file and click Open. In this case, the file name is LeadIn.mp3.
-
-![](..\images\OpenAudio.png)
-
-The main Screen Monkey window (called the Dashboard) should now look like this:
-
-![](..\images\FirstClipAdded.png)
-
-The process of adding clips is repeated as shown above until the Screen Monkey dashboard looks similar to this:
-
-![](..\images\AllAdded.png)
-
-At this point we are now ready to USE Screen Monkey during our church service.
+- **[Save](../reference/toolbar/save.md)** a copy of the show in case of computer issues or to re-use it another time.
 
 ## Presenting the media during the church service
+Playing the clips couldn't get much simpler. You left-click the clip to play it! A few helpful pointers.
 
-Playing the Clips couldn't get much simpler. You click the clip to play it!
+- Left click a click to play, the border will change colour to indicate it is live
+- Left click a different clip to immediately switch to it
+- Left click a playing clip to pause it
+- Fade clips in or out using [transitions](../reference/clipSettings/transition.md)  or the [layers panel](../reference/toolbar/layers.md)
+- Open the [Preview Live Monitor](../reference/toolbar/preview.md) to view all the slides which make up a PowerPoint presentation or a song.
+- Advance a PowerPoint or Song by repeatedly left clicking the clip icon or by clicking a slide in the live monitor.
+- Stop a clip and remove any content from the output by clicking on the top left 'Clear Layer' clip.
 
-Let's walk through the process of presenting our church service. As our service begins, we need to play our Lead In music. So we click the first clip and the Lead In music should begin playing.
+As you can hopefully see, it's really easy to present the content. Using Screen Monkey there is no need to open the PowerPoint application or any other media players. Instead, the show was polished and seamless!
 
-![](..\images\FirstClipPlaying.png)
+This topic presented one possible use of Screen Monkey. As you read through this documentation you will see there are many other possibilities including more [clip types](../reference/clipTypes/clipTypes.md), [clip settings](/reference/clipSettings/clipSettings.md) for finer presentation control, [macros](../reference/macros/Macros.md) for external device control, and more.
 
-Notice how the clip outline turned yellow and you see a small yellow triangle in the upper right corner to let you know it's playing. Also note the letter A in the upper left corner of the clip. This indicates the clip is playing on the Audio layer.
-
-When it's time to begin the service you would likely need to stop the audio if is still playing. Just click once on the LeadIn.mp3 clip and it will stop playing.
-
-At this point in the service the congregation sings along and song lyrics are presented for them to use. You click the first PowerPoint clip and the song lyrics should present on the projector. Again, the clip outline should turn yellow to indicate it's playing.
-
-![](..\images\PresentPowerPoint.png)
-
-To advance slides in the PowerPoint presentation, click the clip again. Each successive click should advance the PowerPoint presentation to the next slide.
-
-For the rest of the service you would simply click the clips when you need them so they begin playing.
-
-As you can hopefully see, it's really easy to present the content. Once you are finished playing any given clip, click the "Clear Layer" clip on the left side of Screen Monkey. That will totally clear the layer and immediately stop playing the selected clip.
-
-Using Screen Monkey there was no need for opening PowerPoint, then opening the desired presentation, then starting the slide show. There was also no need to locate the audio files, open and play them using a media player. No need to locate the announcements video file, open it and play it using a media player. Possibly having the player open on the main screen of the PC and having to drag it into the second monitor to present it.
-
-Instead, the show was polished and seamless!
-
-This topic presented one possible use of Screen Monkey. The intent was to provide an overview of how such a situation might unfold. As you may imagine, simplicity was the goal here. There are more efficient ways of working with Screen Monkey. For example, pre-assigning clips so that they appear on specific layers.
