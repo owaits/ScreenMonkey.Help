@@ -15,7 +15,7 @@ Screen Monkey has a large library of clips for you to use in your shows.
 |[Cue List / Space](CueListSpaceClip.md)|Media list|Play clips from a list|
 |[DVD](DVDClip.md)|Media disc|Play a local DVD disc|
 |[Effect Generator](EffectsGenerator/EffectsGeneratorClip.md)|Generator|Create animated graphics|
-|[ESV Passage](esv.md)|Data feed|Search for and display Bible passages|
+|[ESV Passage](esv.md)|Data feed|Search for and display ESV Bible passages|
 |[Folder Search](folderSearch.md)|Media list|Automatically updating media playlist|
 |[Freeze](FreezeClip.md)|Generator|Pause the output of any clip|
 |[Image](ImageClip.md)|Media file|Display images from files|
@@ -24,6 +24,7 @@ Screen Monkey has a large library of clips for you to use in your shows.
 |[Live Video](LiveVideoClip.md)|Capture device|Use a video input device connected to your computer|
 |[Live Video Snapshot](LiveVideoSnapshotClip.md)|Capture device|Take a still image from a live video input|
 |[NDI](ndi.md)|Stream|Receive and decode NDI AV streams on the local network|
+|[NLT](nlt.md)|Data feed|Search for and display NLT Bible passages|
 |[Planning Center](planningCenter.md)|Data feed|Import a service plan and song lyrics from your Planning Center Services account|
 |[Playlist](playlist.md)|Media list|Play clips from a list with automatic linking|
 |[Power Point](PowerPointClip.md)|Media file|Open, present and interact with PowerPoint presentations|
