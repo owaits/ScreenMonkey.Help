@@ -125,6 +125,8 @@
       href: clipTypes/LiveVideoSnapshotClip.md
     - name: NDI
       href: clipTypes/ndi.md
+    - name: NLT Passage
+      href: clipTypes/nlt.md
     - name: Planning Center
       href: clipTypes/planningCenter.md
     - name: Playlist
