@@ -1,21 +1,17 @@
 ![](../../images/LIveStreamIcon.png)
 # Live Stream Clip
 
-## What a Live Stream Clip does
+The Live Stream clip can be used to display live video and audio streams from local or internet servers.
 
-The Live Stream clip is used when you want to display live video streams across the internet.
-
-## How to configure a Live Stream Clip
-
-Adding the Live Stream clip is the same as adding any other clip type. Either click or right-click an empty slot and choose Live Stream.
+## Create a Live Stream Clip
+Adding the Live Stream clip is the same as adding any other clip type. Click an empty slot and choose Live Stream from the new clip browser.
 
 The Open Live Stream dialog is presented.
 
-![](../../images/NewItem69.png)
+![](../../images/clip-livestream.png)
 
-Type the URL for the Live Stream into the field and click OK.
+Type or paste the URL for the Live Stream into the field and click OK. A new clip icon will appear on the dashboard.
 
-## How to use a Live Stream Clip during a show
-
-Using this Clip type is just like any other. You click the clip to display it.
+## Use a Live Stream Clip in a show
+Using this Clip type is just like any other. You click the clip to start playing it.
 
