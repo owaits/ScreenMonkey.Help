@@ -1,7 +1,9 @@
 ![](../../images/nlt.png)
 # NLT Passage Clip
 
-The NLT clip allows you to very easily add text from the New Living Translation Bible. The clip allows you to search for a passage and then add it as a new text clip. Multiple passages from different books or chapters in the Bible can be added to the same clip. 
+The NLT clip allows you to very easily show texts from the New Living Translation Bible. The clip allows you to search for a passage and then add it as a new text clip. Multiple passages from different books or chapters in the Bible can be added to the same clip. 
+
+*Note:* There is a different clip type for [ESV Bible Passages](esv.md).
 
 *Note:* The NLT clip uses an online database. An internet connection is required to add new passages. If you save a show containing NLT clips then an internet connection is not required for playback.
 
