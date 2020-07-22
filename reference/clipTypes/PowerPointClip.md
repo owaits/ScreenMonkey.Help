@@ -31,12 +31,12 @@ The simplest way to control the presentation is to use the dashboard thumbnail i
 
 <!-- Control Click -->
 
-### Using the Preview Window
-If you require more control over the flow of the presentation open the preview window for the layer the PowerPoint clip is playing on.
+### Using the Live Monitor
+If you require more control over the flow of the presentation open the [live monitor](../toolbar/preview.md) window for the layer the PowerPoint clip is playing on.
 
 ![](/images/clip-powerpoint-preview.png)
 
-The preview window will show a thumbnail for every slide in the presentation in a column on the left. Note that the *preview* will show the slide after all animations have been run. Clicking a preview thumbnail will display that slide on the output which means it's easy to jump around and show slides in any order. Clicking again on the thumbnail will run any animations. To disable a slide right click the preview thumbnail and untick 'Active'.
+The live monitor will show a thumbnail for every slide in the presentation in a column on the left. Note that this *preview* will show the slide after all animations have been run. Clicking a preview thumbnail will display that slide on the output which means it's easy to jump around and show slides in any order. Clicking again on the thumbnail will run any animations. To disable a slide right click the preview thumbnail and untick 'Active'.
 
 A large preview of the currently playing slide will be shown on the right. At the top there are left and right arrow buttons for moving forwards and backwards.
 
