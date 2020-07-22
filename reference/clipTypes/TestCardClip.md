@@ -5,6 +5,6 @@ The test card clip contains a library of video test cards for use when setting u
 
 When you first add the clip to a slot you are presented with a dialog allowing you to choose the type of Test Card to use. Click to choose the type and click ‘OK’. As with other clip types you may assign the Test Card to a specific layer.
 
-![](../../images/clip-testcard.png)
+![](../../images/clip-testcard-2.png)
 
 *Note:* There is no edit function for testcard clips. If you decide you want to use a different test card later you must clear the clip and re-add it.
