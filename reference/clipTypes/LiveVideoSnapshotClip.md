@@ -8,9 +8,9 @@ Click an empty dashboard slot and choose Live Video Snapshot from the new clip b
 
 ![](../../images/clip-live-video-snapshot.png)
 
-*Note* The list of devices shown will depend on the physical hardware available on your computer.
+*Note:* The list of devices shown will depend on the physical hardware available on your computer.
 
-Click to choose the device you wish to capture on the left side of the dialog, then click OK.
+Click to choose the device you wish to capture on the left side of the dialog, then click OK. A newclip will appear on the dashboard.
 
 You may want to assign this clip to a [layer](../layers.md) that is different than the layer your [Live Video](LiveVideoClip.md) feed is on.
 
