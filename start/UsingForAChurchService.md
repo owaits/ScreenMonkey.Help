@@ -1,6 +1,6 @@
 # Using Screen Monkey for a Church Service
 
-In this example, we will use Screen Monkey to run the visual content in a church service. A church service will often contain the following elements.
+In this example we will use Screen Monkey to run the visual content in a church service. A church service will often contain the following elements.
 
 1. Pre-service music played from an MP3 media file
 2. The congregation sings and lyrics are projected
@@ -41,7 +41,7 @@ Playing the clips couldn't get much simpler. You left-click the clip to play it!
 - Advance a PowerPoint or Song by repeatedly left clicking the clip icon or by clicking a slide in the live monitor.
 - Stop a clip and remove any content from the output by clicking on the top left 'Clear Layer' clip.
 
-As you can hopefully see, it's really easy to present the content. Using Screen Monkey there is no need to open the PowerPoint application or any other media players. Instead, the show was polished and seamless!
+As you can see it's really easy to present content from a variety of sources. Using Screen Monkey there is no need to open the PowerPoint application or any other media players. 
 
-This topic presented one possible use of Screen Monkey. As you read through this documentation you will see there are many other possibilities including more [clip types](../reference/clipTypes/clipTypes.md), [clip settings](/reference/clipSettings/clipSettings.md) for finer presentation control, [macros](../reference/macros/Macros.md) for external device control, and more.
+This topic presented one possible use of Screen Monkey. As you read through this documentation you will see there are many other possibilities including more [clip types](../reference/clipTypes/clipTypes.md), [clip settings](../reference/clipSettings/clipSettings.md) for finer presentation control, [macros](../reference/macros/Macros.md) for external device control, and more.
 
