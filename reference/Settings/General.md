@@ -1,6 +1,6 @@
 # General
 
-![](../../../images/settings-general-3.png)  
+![](../../../images/settings-general-4.png)
 
 ## Clip Preview
 This area contains settings related to clips.
@@ -40,6 +40,11 @@ Configure Screen Monkey show files.
 - **Auto load show when file is modified** With this option enabled you can replace the live show file with an updated version and Screen Monkey will load and activate it. This maybe useful for remote management of Screen Mokney installations.
 
 - **Auto play first clip after show load** Often used in conjuction with the previous setting. When the show is loaded the first clip is played without user intervention.
+
+## Auto Update
+Screen Monkey can check for new software relases automatically and prompt you to install the latest version. 
+
+- **Check for software updates** Disable automatic update checks by un-ticking the box.
 
 ## Schedule
 Screen Monkey can run cilps on a timed schedule. Learn more about [scheduling clips](../clipSettings/schedule.md).
