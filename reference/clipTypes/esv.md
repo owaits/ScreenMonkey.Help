@@ -17,7 +17,7 @@ For a single passage use the search bar at the top of the window. Type the Bible
 - for a range of verses, eg `John 4:5-10` or `Luke 1:8-2:12`
 - for a chapter, eg `Matthew 4`
 
-![](../../images/clip-esv-search.png)
+![](../../images/clip-esv-search-2.png)
 
 ### Passage Search Builder
 If you need to present multiple passages in a single clip then use the Passage Builder. Click the three dots to the right of the search field and a new dialog will open. Here you can choose multiple books, chapters and verses. Start by entering your first passage start and end. Then click 'Add Section' and repeat for the next passage. Keep adding as many sections as you need then click OK.
