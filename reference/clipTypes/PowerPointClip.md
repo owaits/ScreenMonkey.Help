@@ -42,9 +42,9 @@ A large preview of the currently playing slide will on the right. At the top the
 
 Below the preview there is a status bar showing the current slide number, total slide count, current animation and total animations for the current slide.
 
-![](/images/clip-powerpoint-preview2.png)
+![](/images/clip-powerpoint-preview3.png)
 
-In this screenshot slide 2 is active (white border), slide 3 is disabled (grey border), and slide 4 is coming up (no border). 
+In this screenshot slide 1 is active, slide 2 is coming up next (no border), slide 3 is disabled (grey mask). 
 
 ## Using a Remote Control
 Sometimes a speaker will want to advance the presentation themselves. They can do this by means of a wireless remote clicker. Screen Monkey has been tested with the Logitec Wireless Presenter R400 but other makes and models will work if they are reconginsed by Windows as pointing devices. No special configuration should be necessary.
