@@ -1,7 +1,7 @@
 ![](../../images/FreezeIcon.png) 
 # Freeze Clip
 
-The Freeze Clip allows you to take a frozen snapshot of whatever is on the Screen Monkey output. For example, suppose a [Video Clip](VideoClip.md) is playing. Clicking the Freeze Clip captures whatever is on the screen and keeps the image visible. This may be desired if you want to essentially pause playback of the Video Clip to examine some aspect of it and perhaps use the [Scribble Clip](ScribbleClip.md) to draw on it.
+The Freeze Clip allows you to create a frozen snapshot of whatever is on the Screen Monkey output. For example, suppose [livestream vide](LiveStream.md) is playing. Clicking the Freeze Clip captures whatever is on the screen and keeps the image visible. The live stream video clip will continue to play but this may be desired if you want to pause playback of the video to examine some aspect of it and perhaps use the [Scribble Clip](ScribbleClip.md) to draw on it. The Freeze Clip can also be used to effectively stop a text clip from updating.
 
 ## Configure a Freeze Clip
 When a Freeze clip is added it simply appears in the Screen Monkey Dashboard. Aside from adding a Transition Effect or assigning it to a specific layer, there are no configuration options.
