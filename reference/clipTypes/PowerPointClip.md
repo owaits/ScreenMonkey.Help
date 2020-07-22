@@ -3,47 +3,59 @@
 
 PowerPoint is a Microsoft Office product for creating and displaying slide based presentations. Many organizations use PowerPoint to create and present content.
 
-By using the PowerPoint Clip you can play a PowerPoint presentation file directly from within ScreenMonkey. When using this clip type you have full control of the presentation including the ability to advance the slides forwards and backwards and to trigger slide element animations.
+By using the PowerPoint Clip you can play a PowerPoint presentation file directly from within ScreenMonkey. When using this clip type you have full control of the presentation including the ability to advance the slides forwards and backwards and to trigger slide element animations (eg, bullet points which appear one at a time).
 
 ## Create a PowerPoint Clip
 Click an empty slot and choose the PowerPoint clip, you are presented with a file browsing dialog from which you may browse the Windows file system and select the PowerPoint presentation you wish to use.
 
-It may take a few moments for the clip to load depending on the size of the presentation. While it is loading a loading animation will be displayed in the panel. Once the presentation has loaded you will see a thumbnail image of the first slide in the presentation.
+It may take a few moments for the clip to load depending on the size of the presentation. Once the presentation has loaded you will see a thumbnail image of the first slide in the presentation.
 
 ## Configure a PowerPoint Clip
-You may wish to begin the presentation at a different slide number than the first slide. To accomplish this, right-click the clip and choose Start Slide > Slide N (where N represents the slide number you wish to present.)
+There are a few clip settings which can be adjusted for PowerPoint clips.
 
+**Start Slide** You may wish to begin the presentation at a specific slide number. Right-click the clip and choose Start Slide > Slide Number.
+
+**Auto Rewind** Normally when you move to another clip or clear the screen the presentation is rewound back to slide 1. However if you turn Auto Rewind off under the PowerPoint Playback Settings then the presentation will be run from the slide being viewed when the clip was last stopped.
+<!--
+**Loop** With this option set the presentation will loop back to the first slide when it reaches the last slide. This option can be set in PowerPoint and if set will be shown as such in Screen Monkey. However you can override this setting by selecting loop and toggle whether the presentation is looped or not.
+-->
 ## Use a PowerPoint Clip in a show
-Like other clips, you click once on the clip to begin presenting.
+Like other clips, you click once on the clip to begin presenting. 
 
-PowerPoint clips have a number of options you can change to determine how the presentation runs.
+### Control from the dashboard
+The simplest way to control the presentation is to use the dashboard icon. 
 
-![](../../images/img_210.jpg)
+- Left clicking on the icon will advance to the next slide or show the next animation (bullet point) on the current slide. When you reach the end of the presentation the final slide will be shown and left clicking will have no effect.
 
-Auto Rewind
+- To move the animations or slides backwards hold the Shift key and left click.
 
-Normally when you move to another clip or clear the screen the presentation is rewound back to slide 1. However if you turn Auto Rewind off under the PowerPoint Playback Settings then the presentation will be run from the slide being viewed when the clip was last stopped. If you need to force the clip to start from the first slide then when playing the clip hold down the Ctrl key. This will then rewind the presentation to the start and play the clip.
+<!-- Control Click -->
 
-Loop
+### Using the Preview Window
+If you require more control over the flow of the presentation open the preview window for the layer the PowerPoint clip is playing on.
 
-With this set the presentation will loop back to the first slide when it reaches the last slide. This option can be set in PowerPoint and if set will be shown as such in Screen Monkey. However you can override this setting by selecting loop and toggle whether the presentation is looped or not.
+![](/images/clip-powerpoint-preview.png)
 
+The preview window will show a thumbnail for every slide in the presentation in a column on the left. Note that the *preview* will show the slide after all animations have been run. Clicking a preview thumbnail will display that slide. Clicking again will run any animations. To disable a slide right click the preview thumbnail and untick 'Active'.
 
+A large preview of the currently playing slide will on the right. At the top there are left and right arrow buttons for moving forwards and backwards.
 
-Next and Previous Slides
+Below the preview there is a status bar showing the current slide number, total slide count, current animation and total animations for the current slide.
 
-When the PowerPoint clip is playing each click on the clip in Screen Monkey will advance the PowerPoint presentation. Exactly how the presentation is advanced depends on how it was created. For example, many presentations are created with Bullet Point builds where bullet points are presented one after another on mouse clicks.
+![](/images/clip-powerpoint-preview2.png)
 
-If you want to go back to a previous slide, press and hold the shift key while clicking on the clip.
+In this screenshot slide 2 is active (white border), slide 3 is disabled (grey border), and slide 4 is coming up (no border). 
 
-Going to a specific Slide
+## Using a Remote Control
+Sometimes a speaker will want to advance the presentation themselves. They can do this by means of a wireless remote clicker. Screen Monkey has been tested with the Logitec Wireless Presenter R400 but other makes and models will work if they are reconginsed by Windows as pointing devices. No special configuration should be necessary.
 
-Screen Monkey allows you to configure things so that when playing a PowerPoint presentation you are able to type a slide number and press a key to present that slide number during playback.
+<!--
+## Export Cue Sheet
+A PowerPoint clip can be exported in a few ways. Right-click on the clip and choose Export Cue Sheet.
 
-For this feature to work you must first assign a terminating key which will indicate you have finished entering the slide number and wish to jump to the slide. The terminating key is configured in the [mouse and keyboard settings](../Setup/Settings/MouseandKeyboard.md).
+- Cue sheet XML (single file)
+- Enhanced podcast chapter album art with XML (zip archive)
+- Image files with XML (zip archive)
 
-Using a Remote Control
-
-Often folks will acquire a Remote Control that is used for advancing PowerPoint. [Click here](../../tutorials/WorkingWithShows/UseARemotePointerWithPowerPoint.md) for more information on configuring Screen Monkey to work with these devices.
-
-The live monitor for a PowerPoint slide presents images of the Previous, Current and Next slides. It shows the slide in its completed form once all the animations have run. !\[\](../../images/img\_292.jpg)
+To export the clip right click on the dashboard icon and then choose 'Export Cue Sheet'. A new dialog opens which allows you to choose the cue list and then the type of export you require.
+-->
