@@ -30,7 +30,7 @@ There are three different resizing options available.
 |-|-|
 |Stretch to Fill Screen|Your image will be scaled both vertically and horizontally until it reaches all edges of the screen. The image maybe scaled down or up. The orginal aspect ratio will be lost.|
 |Zoom|The image will be scaled proportionally to reach all edges of the screen. Some cropping may occur depending on the relative aspect ratios of the image and the screen. The original aspect ratio will be preserved.|
-|Letterbox / Pillarbox|The orginal aspect ratio will be preserved and empty space will be created. Depending on the dimensions original image it will be scaled to fill either the horizontal or vertical space. The remaining empty space is configured using the 'Background' options.|
+|Letterbox/Pillarbox|The orginal aspect ratio will be preserved and empty space will be created. Depending on the dimensions original image it will be scaled to fill either the horizontal or vertical space. The remaining empty space is configured using the 'Background' options.|
 
 ### Background
 If you choose 'Letterbox / Pillarbox' empty space is created. Choose what is put into this space from the options below.
