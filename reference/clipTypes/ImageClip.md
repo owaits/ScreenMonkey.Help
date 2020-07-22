@@ -28,9 +28,9 @@ There are three different resizing options available.
 
 |Setting|Description|
 |-|-|
-|Stretch to Fill Screen|Your image will be scsled both vertically and horizontally until it reaches all edges of the screen. The image maybe scaled down or up.|
-|Zoom|The image will be enlarged until it reaches all edges of the screen. Some cropping may occur depending on the aspect ratios.|
-|Letterbox/Pillarbox|The orginal aspect ratio will be preserved and empty space will be created. Depending on the size of the original image it may also be scaled to fill either the horizontal or vertical space. The remaining empty space is configured using the 'Background' options.|
+|Stretch to Fill Screen|Your image will be scaled both vertically and horizontally until it reaches all edges of the screen. The image maybe scaled down or up. The orginal aspect ratio will be lost.|
+|Zoom|The image will be scaled proportionally to reach all edges of the screen. Some cropping may occur depending on the relative aspect ratios of the image and the screen. The original aspect ratio will be preserved.|
+|Letterbox / Pillarbox|The orginal aspect ratio will be preserved and empty space will be created. Depending on the dimensions original image it will be scaled to fill either the horizontal or vertical space. The remaining empty space is configured using the 'Background' options.|
 
 ### Background
 If you choose 'Letterbox / Pillarbox' empty space is created. Choose what is put into this space from the options below.
@@ -39,7 +39,7 @@ If you choose 'Letterbox / Pillarbox' empty space is created. Choose what is put
 |-|-|
 |Transparent|All lower layers are visible. If the image is on layer 1 then the Windows desktop is visible.|
 |Solid Black|Black.|
-|Echo|A stretched, blurred version of the original image.|
+|Echo|A stretched and blurred version of the original image.|
 
 ### Apply Settings
 These buttons allow you to apply the changes.
@@ -51,7 +51,7 @@ These buttons allow you to apply the changes.
 
 Using the toolbar buttons you can also configure the options for all new image clips.
 
-- **Load Default Style** Apply the default set of options previously saved for this show
+- **Load Default Style** Apply the default set of options previously saved for this show.
 - **Set As Default Style** Save the current set of options as defaults and use them for all new image clips in this show. 
 
 ## Use an Image Clip in a show
