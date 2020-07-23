@@ -66,7 +66,7 @@ Once the clip is created you are able to configure it like any other clip. You c
 Using the text clip is just like any other - you left click the clip to display it. Depending on the text caption objects used the output could be static or dynamic.
 
 ## Interact with the Text Clip
-Some text clip objects add controls in the [preview window](../../toolbar/preview.md). For example the countdown [caption objects](TextClipObjects.md) are operated from the preview window. For each countdown object in the clip you will see a time field, reset button, play/pause button and increment and decrement buttons.
+Some text clip objects add controls in the live monitor [preview window](../../toolbar/preview.md). For example the countdown [caption objects](TextClipObjects.md) are operated from the live monitor. For each countdown object in the clip you will see a time field, reset button, play/pause button and increment and decrement buttons.
 
 ![](../../../images/text-countdown-preview.png)
 
