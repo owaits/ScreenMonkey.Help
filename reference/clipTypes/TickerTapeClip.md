@@ -6,17 +6,13 @@ The Ticker Tape clip displays some scrolling text and allows you to specify a li
 The messages may be pre-configured by the Screen Monkey operator or an RSS or Atom feed may be used to supply the messages.
 
 ## Configure a Ticker Tape Clip
-Click or Right-click an empty slot and choose Ticker Tape. After clicking OK the slot simply shows Ticker Tape.
-
-Right-click the Ticker Tape Clip and choose Edit / Cue.
-
-The Cue Tickertape dialog is presented.
-
-![](../../images/TickerTapeDialog.png)
+Click or Right-click an empty slot and choose Ticker Tape. After clicking OK the slot simply shows Ticker Tape. Right-click the Ticker Tape Clip and choose Edit / Cue. The Cue Tickertape dialog is presented.
 
 There are a number of configuration options to choose here.
 
 Type the text you wish to present in the Enter message text field. Most of the other options should be self-explanatory, such as Font, Font Color, etc. But there are some options that do warrant a bit of explanation.
+
+![](/images/clip-tickertape-single.png)
 
 ### Speed
 
@@ -44,8 +40,9 @@ Type the text you wish to present in the Enter message text field. Most of the o
 
 ## Single Message tab
 
-
 ## Message Queue tab
+
+![](../../images/clip-tickertape-queue.png)
 
 This tab allows you to store several messages. For example, perhaps you wish to store the following messages so that you might be able to recall them as needed:  
   
@@ -60,6 +57,8 @@ Type your messages into the New message field and press Enter to add it to the q
  
 
 ### RSS Feed tab
+
+![](../../images/clip-tickertape-rss.png)
 
 Feed URL
 
