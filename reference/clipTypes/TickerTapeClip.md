@@ -68,7 +68,7 @@ Once you have typed the message at set the option press Enter to add it to the q
 - To delete them, click to select and press the Delete key.
 - To temporarily stop a message appearing untick the box at the left of the message.
 
-The blue arrow will indicate the next message to be played.
+The blue arrow will indicate the *next* message to be played.
 
 ### RSS Feed tab
 It is also possible to link the Ticker Tape clip to an online RSS or Atom XML feed.
@@ -78,7 +78,7 @@ It is also possible to link the Ticker Tape clip to an online RSS or Atom XML fe
 - **Feed URL:** Type the URL used for the feed into this field  
 - **Feed Type:** Choose Detect Automatically if you would like Screen Monkey to try and detect the type of feed for you. Otherwise, choose the type of feed. (RSS or Atom).
 - **Format String:** Here you pick the fields in the XML data which will be used for the text displayed. Fields are identified by `%` symbols at either side. Examine the feed you are using to find the field names. You can also add static text.
-- **Refresh every:** This setting determines the interval at which Screen Monkey will check the Feed URL for message updates.
+- **Refresh every:** This setting determines the interval at which Screen Monkey will check the Feed URL for message updates. To force a feed update you can right-click on the clip icon on the dashboard and choose 'Update RSS Feed now'. 
 
 ## Use a Ticker Tape Clip in a show
 Once you have setup the clip as described above click the Ticker Tape Clip icon on the dashboard to begin playing. One of the following will happen depending on the clip settings.
@@ -89,11 +89,9 @@ Once you have setup the clip as described above click the Ticker Tape Clip icon 
 |Single Message|Ticked|The message will loop forever. To stop either click the Ticker Tape clip again to pause or clear the layer.|
 |Message Queue|Unticked|The next message in the queue will play and the clip will then enter a pause state. To play the next message in the queue click the clip again.|
 |Message Queue|Ticked|Messages in the queue will be played in order and loop forever. Messages withoput a tick will be skipped. To stop click the clip icon again or clear the layer.|
-|RSS Feed|Unticked|The first item in the feed will be shown and the clip will then enter a pause state.|
-|RSS Feed|Ticked||
+|RSS Feed|Unticked|The next item in the feed will be shown and the clip will then enter a pause state.|
+|RSS Feed|Ticked|All messages in the RSS feed will be shown in order starting with the next message. At the end of the feed it will loop back to the start.|
 
-If you have configured multiple messages a, right-click and choose Edit / Cue or click the middle mouse button to open the Cue Tickertape dialog. From there you may choose the message to be used by double-clicking the message. You must also click Apply to set it.
+### Message Queue
+If you have configured multiple messages you may play them manually. Right-click and choose Edit / Cue to open the Ticker Tape cue dialog. From the 'Message Queue' tab you may choose the next message to be played by double-clicking the space between the checkbox and the text of the message so that the blue arrow appears. You must then click Apply to confirm.
 
-If a check mark is cleared in the Messages queue, the clip will play the message followed by Screen Monkey removing the message.
-
-If your Ticker Tape is pointing to an RSS feed, you may right-click the Ticker Tape Clip in the Main Dashboard and choose Update RSS Feed now to refresh. 
