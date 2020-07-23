@@ -92,6 +92,6 @@ Once you have setup the clip as described above click the Ticker Tape Clip icon 
 |RSS Feed|Unticked|The next item in the feed will be shown and the clip will then enter a pause state.|
 |RSS Feed|Ticked|All messages in the RSS feed will be shown in order starting with the next message. At the end of the feed it will loop back to the start.|
 
-### Message Queue
+### Message Queue
 If you have configured multiple messages you may play them manually. Right-click and choose Edit / Cue to open the Ticker Tape cue dialog. From the 'Message Queue' tab you may choose the next message to be played by double-clicking the space between the checkbox and the text of the message so that the blue arrow appears. You must then click Apply to confirm.
 
