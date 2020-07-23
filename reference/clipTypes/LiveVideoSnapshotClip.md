@@ -1,7 +1,9 @@
 ![](../../images/LiveVideoSnapshotIcon.png) 
 # Live Video Snapshot Clip
 
-This clip type allows you to quickly and easily take freeze frame images from live video. You can then display those images using Screen Monkey.
+This clip type allows you to quickly and easily grab a freeze frame image from live video input. It is similar to the still store function on a hardware vision mixer. The stills grabbed can then be displayed using Screen Monkey.
+
+You can create as many Live Video Snapshot clips as you need, each with a different still image.
 
 ## Create a Live Video Snapshot Clip
 Click an empty dashboard slot and choose Live Video Snapshot from the new clip browser. The Live Video Clip dialog will appear.
@@ -10,9 +12,7 @@ Click an empty dashboard slot and choose Live Video Snapshot from the new clip b
 
 *Note:* The list of devices shown will depend on the physical hardware available on your computer.
 
-Click to choose the device you wish to capture on the left side of the dialog, then click OK. A newclip will appear on the dashboard.
-
-You may want to assign this clip to a [layer](../layers.md) that is different than the layer your [Live Video](LiveVideoClip.md) feed is on.
+Click to choose the device you wish to capture on the left side of the dialog, then click OK. A new clip containing the current frame at the point you clicked OK will appear on the dashboard.
 
 ## Use a Live Video Snapshot Clip in a show
-Whilst playing a Live Video clip if you see something you wish to capture and freeze frame click the Live Video Snapshot clip and a freeze frame will be created.
+Once the frame has been grabbed the clip will behave like an [image](ImageClip.md) clip.
