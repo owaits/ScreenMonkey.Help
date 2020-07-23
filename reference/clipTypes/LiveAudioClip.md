@@ -15,5 +15,5 @@ Click to select the device you wish to use and additional options may become ava
 *Note:* The dialog will show the actual device(s) connected to your computer. The example above shows two devices but yours may be very different depending on your setup.
 
 ## Use a Live Audio Clip in a show
-Using the Live Audio clip is as simple as clicking the icon. Click the icon on the dashboard and the Live Audio feed will be played. You can fade a Live Audio feed in and out as needed using the [Layers Dashboard](../layers.md).
+Using the Live Audio clip is as simple as clicking the icon. Click the icon on the dashboard and the Live Audio feed will be played. You can fade a Live Audio feed in and out as needed using the [Layers Dashboard](../toolbar/layers.md).
 
