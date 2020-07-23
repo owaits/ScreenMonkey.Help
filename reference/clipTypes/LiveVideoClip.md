@@ -20,4 +20,4 @@ You may also choose an audio input device from the drop down list if required. I
 Once you have made any configuration changes required click OK and the Live Video Clip will be added to the dashboard.
 
 ## Use a Live Video Clip in a show
-Using the Live Video is as simple as clicking the icon. You click the icon and the Live Video feed will appear on the output. You can fade a Live Video feed in and out as needed using the [Layers Dashboard](../layers.md).
+Using the Live Video is as simple as clicking the icon. You click the icon and the Live Video feed will appear on the output. You can fade a Live Video feed in and out as needed using the [Layers Dashboard](../toolbar/layers.md).
