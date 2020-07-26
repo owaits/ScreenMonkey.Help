@@ -23,7 +23,7 @@ The supported video container formats are:
 *   \*.M2V
 *   \*.M4V
 
-*Note:* To ensure reliable playback and full compatibility you must install and configure the ffdshow video decoder from KLite. See the [FAQ](../faq.md) for additional details.
+*Note:* To ensure reliable playback and full compatibility the LAV video and audio decoders are required. These are automatically installed with Screen Monkey.
 
 ## Configure a Video Clip
 No additional configuration is necessary but a number of options are available from the right-click clip menu.
@@ -32,9 +32,9 @@ No additional configuration is necessary but a number of options are available f
 Allows you to play the video silently. Click to activate and click again to deactive mute.
 
 ### Video Options
-If you experience any problems with the smooth playback of video clips then the settings in 'Video Options' may be helpful. These settings may be applied to an individual clip (when 'Override global default' is ticked) or globally to all video clips. 
+If you experience any problems with the smooth playback of video clips then the settings in 'Video Options' may be helpful. These settings may be applied to an individual clip (when 'Override global default' is ticked) or globally to all video clips. The recommended default settings are shown below.
 
-![](../../images/clip-video-options.png)
+![](../../images/clip-video-options-2.png)
 
 ### Edit/Cue
 The Edit/Cue dialog provides a timeline view of the clip and allows you to find and set In and Out points. Using In and Out points enables you to play a portion of a media file. There is also a volume adjustment and loop option.
