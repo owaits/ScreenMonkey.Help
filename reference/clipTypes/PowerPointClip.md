@@ -3,7 +3,7 @@
 
 PowerPoint is a Microsoft Office product for creating and displaying slide based presentations. Many organizations use PowerPoint to create and present content.
 
-By using the PowerPoint Clip you can play a PowerPoint presentation file directly from within ScreenMonkey. When using this clip type you have full control of the presentation including the ability to advance the slides forwards and backwards and to trigger slide element animations (eg, bullet points which appear one at a time).
+By using the PowerPoint Clip you can play a PowerPoint presentation file directly from within Screen Monkey. When using this clip type you have full control of the presentation including the ability to advance the slides forwards and backwards and to trigger slide element animations (eg, bullet points which appear one at a time).
 
 ## Create a PowerPoint Clip
 Click an empty slot and choose the PowerPoint clip. You are presented with a file browse dialog from which you may select the PowerPoint presentation you wish to use.
