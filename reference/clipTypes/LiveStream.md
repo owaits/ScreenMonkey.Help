@@ -8,7 +8,7 @@ Adding the Live Stream clip is the same as adding any other clip type. Click an 
 
 The Open Live Stream dialog is presented.
 
-![](../../images/clip-livestream.png)
+![](../../images/clip-livestream-2.png)
 
 Type or paste the URL for the Live Stream into the field and click OK. A new clip icon will appear on the dashboard.
 
