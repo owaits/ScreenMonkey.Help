@@ -1,7 +1,7 @@
 ![](../../images/LiveVideoSnapshotIcon.png) 
 # Live Video Snapshot Clip
 
-This clip type allows you to quickly and easily grab a freeze frame image from live video input. It is similar to the still store function on a hardware vision mixer. The stills grabbed can then be displayed using Screen Monkey.
+This clip type allows you to quickly and easily grab a freeze frame image from a live video input. It is similar to the still store function on a hardware vision mixer. The stills grabbed can then be displayed using Screen Monkey.
 
 You can create as many Live Video Snapshot clips as you need, each with a different still image.
 
