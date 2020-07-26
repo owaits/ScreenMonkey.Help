@@ -61,11 +61,11 @@ Type your message into the 'New message' field. There are two options when addin
 - **Continuous:** The message will stay in the list until you manually delete it. 
 - **Once:** After the message has been shown it is deleted automatically.
 
-Once you have typed the message at set the continuous/once option press Enter to add it to the queue.
+Once you have typed the message and set the continuous/once option press 'Enter' to add it to the queue.
 
 - To rearrange messages in the queue click and drag them to a new position. 
 - To edit a message in the list double click the text.
-- To delete click to select and then press the Delete key.
+- To delete click to select and then press the 'Delete' key.
 - To temporarily stop a message appearing untick the box at the left of the message.
 
 The blue arrow will indicate the *next* message to be played.
@@ -93,5 +93,5 @@ Once you have setup the clip as described above click the Ticker Tape Clip icon 
 |RSS Feed|Ticked|All messages in the RSS feed will be shown in order starting with the next message. At the end of the feed it will loop back to the start.|
 
 ### Message Queue
-If you have configured multiple messages you may play them manually. Right-click and choose Edit / Cue to open the Ticker Tape cue dialog. From the 'Message Queue' tab you may choose the next message to be played by double-clicking the space between the checkbox and the text of the message so that the blue arrow appears. You must then click Apply to confirm.
+If you have configured multiple messages you may play them manually. Right-click and choose Edit / Cue to open the Ticker Tape cue dialog. From the 'Message Queue' tab you may choose the next message to be played by double-clicking the space between the checkbox and the text of the message so that the blue arrow appears. You must then click 'Apply' to confirm.
 
