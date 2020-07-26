@@ -34,16 +34,17 @@ Some helpful tips:
 ## Window Menu items
 Clicking on the Window toolbar icon will reveal a menu. Any user saved views will appear first followed by the items described below.
 
-![](../../images/toolbar-window-menu.png)
+![](../../images/toolbar-window-menu-2.png)
 
-## Live Playback
-Recall a factory default view for live playback.
+### Factory Default Views
 
-## List Playback
-Recall a factory default view for live playback in list form.
+- **Dashboard with Live Monitor** Recall a view with dashboard and live monitor.
 
-## Scheduled Playback
-Recall a factory default view for scheduled playback.
+- **Live Playback** Recall a view for live playback with dashboard, layers and live monitor.
+
+- **List Playback** Recall a view for live playback in list form with live monitor.
+
+- **Scheduled Playback** Recall a view for scheduled playback with dashboard, live monitor and schedule viewer.
 
 ## Customize
 To save a view, arrange the windows in the positions you want, then click Window and choose Customize. The Manage Views dialog appears which allows you to add or remove your own saved views. To save the current view click ‘New’ and enter the name you want to give to the view. Your new view will now appear in the toolbar Window menu.
