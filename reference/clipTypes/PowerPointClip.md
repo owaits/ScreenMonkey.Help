@@ -29,7 +29,7 @@ The simplest way to control the presentation is to use the dashboard thumbnail i
 
 - To move the animations or slides backwards hold the Shift key and left click.
 
-<!-- Control Click -->
+- To restart the slideshow from the beginning Control-Click on the clip.
 
 ### Using the Live Monitor
 If you require more control over the flow of the presentation open the [live monitor](../toolbar/preview.md) window for the layer the PowerPoint clip is playing on.
