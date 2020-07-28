@@ -6,7 +6,8 @@ A comprehensive tree structure shows all the actions in Screen Monkey which can 
 
 ![](../../images/settings-mouse-keyboard-1.png)
 
-## To assign a new keystroke or key combination
+## Assign a new key
+To assign a new keystroke or key combimation to an action follow these steps.
 
 1. Find the action to assign this key to in the tree
 2. Press the key or key combination you wish to assign, it will be described in the toolbar, replacing the text 'Last Trigger'
