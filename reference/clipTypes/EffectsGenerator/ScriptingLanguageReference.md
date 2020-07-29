@@ -1,6 +1,4 @@
-# Scripting Language Reference
-
-## Effect Generator Scripting Reference
+# Effect Generator Scripting Reference
 
 This page contains reference information for the Effect Generator scripting language. For an introductory tutorial read [Creating Your Own Effects Scripts](WritingYourOwnEffectsScripts.md).
 
@@ -8,32 +6,32 @@ This page contains reference information for the Effect Generator scripting lang
 
 A brief outline of the general syntax for the scripting commands.
 
-### Color scheme definitions
+### Color Scheme Definitions
 Color scheme definitions can appear anywhere in your script, although convention is to put them at the start. Scheme definitions are not indexed must appear in palette order. To change the palette order change the order of the definitions.
 
-**Color scheme definition**
+**Color Scheme Definition**
 
     COLOR({red},{green},{blue});
 
 When defining Color scheme, the background Color can be specified.
 
-**Background Color definition**
+**Background Color Definition**
 
-    BACKGROUND({red},{green}{blue});
+    BACKGROUND({red},{green},{blue});
+
+**Color Scheme Example**
 
 The following is an example of a full Color scheme definition block including all 4 palette Colors:
 
-**Example Color scheme definition**
-
 ![](../../../images/ColorsAdded.png)
 
-### Shape definitions
+### Shape Definitions
 
 **Shape Timing definition**
 
 The Shape Timing definition consists of the shape name and from 1 to 3 timing parameters. The second and third timing parameters are optional.
 
-    {shapename}({pulsetime},{lifetime\*},{delaytime\*});
+    {shapename}({pulsetime},{lifetime*},{delaytime*});
 
 |Parameter|Description|
 |-|-|
@@ -49,9 +47,9 @@ The following example shows a BOX shape with a pulse time of 2 cycles and life s
 
 Shape parameters follow the shape definition. There are 3 types of supported parameters and they can appear in any order following the shape definition:
 
-**Color palette mappings**
+**Color Palette Mappings**
 
-    [{index},{opacity\*},{tint\*}\];
+    [{index},{opacity*},{tint*}];
 
 |Name|Description|
 |-|-|
@@ -88,7 +86,7 @@ Parameters are like flags except that they take a value as well, which affects h
 
     {name}({value});
 
-### Supported Shape Types
+**Supported Shape Types**
 
 |Shape|Description|
 |-|-|
@@ -110,7 +108,7 @@ Parameters are like flags except that they take a value as well, which affects h
 |STROBE| |
 |VUMETER| |
 
-### Shape Parameters
+**Shape Parameters**
 
 Some parameters are supported by all shapes and some by only a few, see the table below for which parameters are supported by which shapes. The following is a description of each parameter and the values it will accept.
 
@@ -121,7 +119,7 @@ Some parameters are supported by all shapes and some by only a few, see the tabl
 |min()|percentage|Sets the minimum size for a shape which supports random size such as BUBBLE and CIRCLE. Example: `MIN(10);` Note: min should be less than size!|
 |sweep()|percentage|Sets the sweep angle for the CHEVRON shape. Example: `SWEEP(50);`|
 
-### Shape Parameter Support and Color Slot Mapping Table
+### Shape Parameter Support and Color Slot Mapping Table
 
 The following table summarizes the parameters and flags supported by each shape.
 
