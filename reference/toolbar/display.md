@@ -46,26 +46,45 @@ Either change the settings from the properties list on the left hand side or use
 ## Layer Settings
 Each of the layers has the following settings you may configure. Note that these settings are applied in realtime so its easy to get the layout you require but they should not normally be adjusted live during a show.
 
-1. **Name** allows you to enter a name for the layer which will appear in the left hand panel of the main window.
-1. **AspectRatio** determines how content which does not fit the layer dimensions is resized to fit. When set to maintain the media will be resized but the aspect ratio will be maintained and you may get black borders at the sides or along the top. When set to stretch the media will be stretched to fit the layer.
-2. **Hidden** determines whether the layer is displayed or not. This property will not update live, recue the clip to see the effect.
-1. **Opacity** allows you to make the layer semi-transparent.
-1. **BorderColour** If the border style is set to solid this is the colour of the border placed around the layer.
-2. **BorderStyle** Set to solid to place a border around the layer or none to have no border.
-3. **BorderWidth** The width of the border placed around the layer.
-1. **Monitor** choose the monitor (display device) for this layer.
-1. **Shape** allows you to choose from either rectangular, eliptical or polygon. Each changes the shape of the layer. When set to polygon you can use the edit view to create any shape you wish.
-1. **PanX** pans the image left/right within the layer.
-1. **PanY** pans the image up/down within the layer.
-1. **PanZoom** zooms the image within the layer.
-1. **Flip** the layer either horizontally or vertically.
-1. **Height** adjusts the height of the layer as a percentage of the whole screen. A height of 50% will mean the layer height is half the height of the screen.
-3. **OffsetX** - the horizontal offset from the center of the screen as a percentage of the screen width. A negative offset will result in the layer shifting to the left on the screen and a positive offset will result in the layer shifting to the right.
-4. **OffsetY** - the vertical offset from the center of the screen as a percentage of the screen height. A negative offset will result in the layer shifting to the top of the screen and a positive offset will result in the layer shifting to the bottom of the screen.
-1. **Rotation** allows you to rotate the layer a specified number of degrees.
-2. **Width** adjusts the width of the layer as a percentage of the whole screen. A width of 50% will mean the layer width is half the width of the screen.
-5. **Zoom** proportionally scales both the width and the height as a percentage of the screen dimensions.
-1. **Volume** adjustment level for any audio playing on the layer.
+- **Name** allows you to enter a name for the layer which will appear in the left hand panel of the main window.
+
+- **AspectRatio** determines how content which does not fit the layer dimensions is resized to fit. When set to maintain the media will be resized but the aspect ratio will be maintained and you may get black borders at the sides or along the top. When set to stretch the media will be stretched to fit the layer.
+
+- **Hidden** determines whether the layer is displayed or not. This property will not update live, recue the clip to see the effect.
+
+- **Opacity** allows you to make the layer semi-transparent.
+
+- **BorderColour** If the border style is set to solid this is the colour of the border placed around the layer. *Note:* Borders are not supported for the video clip in the stardard renderer.
+
+- **BorderStyle** Set to solid to place a border around the layer or none to have no border. *Note:* Borders are not supported for the video clip in the stardard renderer.
+
+- **BorderWidth** The width of the border placed around the layer.
+
+- **Monitor** choose the monitor (display device) for this layer.
+
+- **Shape** allows you to choose from either rectangular, eliptical or polygon. Each changes the shape of the layer. When set to polygon you can use the edit view to create any shape you wish.
+
+- **PanX** pans the image left/right within the layer.
+
+- **PanY** pans the image up/down within the layer.
+
+- **PanZoom** zooms the image within the layer.
+
+- **Flip** the layer either horizontally or vertically.
+
+- **Height** adjusts the height of the layer as a percentage of the whole screen. A height of 50% will mean the layer height is half the height of the screen.
+
+- **OffsetX** - the horizontal offset from the center of the screen as a percentage of the screen width. A negative offset will result in the layer shifting to the left on the screen and a positive offset will result in the layer shifting to the right.
+
+- **OffsetY** - the vertical offset from the center of the screen as a percentage of the screen height. A negative offset will result in the layer shifting to the top of the screen and a positive offset will result in the layer shifting to the bottom of the screen.
+
+- **Rotation** allows you to rotate the layer a specified number of degrees.
+
+- **Width** adjusts the width of the layer as a percentage of the whole screen. A width of 50% will mean the layer width is half the width of the screen.
+
+- **Zoom** proportionally scales both the width and the height as a percentage of the screen dimensions.
+
+- **Volume** adjustment level for any audio playing on the layer.
 
 ## Editing a Layer’s Shape
 The easiest way to edit a layer’s shape is in the editors preview. The default shape for a layer is rectangular and you can click on a layer to adjust the size and position of the layer within the screen.
