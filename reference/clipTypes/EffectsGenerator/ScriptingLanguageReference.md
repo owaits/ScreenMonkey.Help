@@ -9,17 +9,17 @@ A brief outline of the general syntax for the scripting commands.
 ### Color Scheme Definitions
 Color scheme definitions can appear anywhere in your script, although convention is to put them at the start. Scheme definitions are not indexed must appear in palette order. To change the palette order change the order of the definitions.
 
-**Color Scheme Definition**
+#### Color Scheme Definition
 
     COLOR({red},{green},{blue});
 
 When defining Color scheme, the background Color can be specified.
 
-**Background Color Definition**
+#### Background Color Definition
 
     BACKGROUND({red},{green},{blue});
 
-**Color Scheme Example**
+#### Color Scheme Example
 
 The following is an example of a full Color scheme definition block including all 4 palette Colors:
 
@@ -27,7 +27,7 @@ The following is an example of a full Color scheme definition block including al
 
 ### Shape Definitions
 
-**Shape Timing definition**
+#### Shape Timing definition
 
 The Shape Timing definition consists of the shape name and from 1 to 3 timing parameters. The second and third timing parameters are optional.
 
@@ -43,11 +43,11 @@ The following example shows a BOX shape with a pulse time of 2 cycles and life s
 
     BOX(2,3);
 
-**Shape Parameters**
+#### Shape Parameters
 
 Shape parameters follow the shape definition. There are 3 types of supported parameters and they can appear in any order following the shape definition:
 
-**Color Palette Mappings**
+#### Color Palette Mappings
 
     [{index},{opacity*},{tint*}];
 
@@ -71,7 +71,7 @@ And tints if you require:
 
     [2,128,0.5];[3,160,0.5];
 
-**Flags**
+#### Flags
 
 Flags are simple one-word parameters which change the shape's behaviour, there are currently two supported flag sets: fade and direction. To specify the flag just enter the flag name you want to use. The flag sets are as follows:
 
@@ -80,13 +80,13 @@ Flags are simple one-word parameters which change the shape's behaviour, there a
 
 While it's possible to specify multiple flags from the same flag set, this makes no sense as flags within a set are mutually exclusive. Specifying LEFT and RIGHT flags together for example makes no sense.
 
-**Parameters**
-    
+#### Parameters
+
 Parameters are like flags except that they take a value as well, which affects how the shape behaves. Parameters are discusses in more detail in the shapes section below. Parameters always have the following form:
 
     {name}({value});
 
-**Supported Shape Types**
+#### Supported Shape Types
 
 |Shape|Description|
 |-|-|
@@ -108,7 +108,7 @@ Parameters are like flags except that they take a value as well, which affects h
 |STROBE| |
 |VUMETER| |
 
-**Shape Parameters**
+#### Shape Parameters
 
 Some parameters are supported by all shapes and some by only a few, see the table below for which parameters are supported by which shapes. The following is a description of each parameter and the values it will accept.
 
