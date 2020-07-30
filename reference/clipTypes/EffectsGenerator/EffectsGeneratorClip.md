@@ -5,11 +5,9 @@ The Effect Generator clip provides a way to generate simple moving patterns whic
 ## Create an Effects Generator Clip
 When creating a new effects clip you have two choices:
 
-1.  Choose an effect from the effect library
-This is the quickest way to get up and running with effects, you can use one of the library effects as it is, or you can customise it yourself to make a new effect.
+- Choose an effect from the effect library. This is the quickest way to get up and running with effects, you can use one of the library effects as it is, or you can customise it.
     
-2.  Create your own effect from scratch
-If you're feeling adventurous you can [make your own effects](WritingYourOwnEffectsScripts.md) using the simple scripting language. You can then add them to the library, allowing you to use them as a starting point for more effects, or reuse your effects in Screen Monkey shows.  
+- Create your own effect from scratch. If you're feeling adventurous you can [make your own effects](WritingYourOwnEffectsScripts.md) using the simple scripting language. You can then add them to the library, allowing you to use them as a starting point for more effects, or reuse your effects in other Screen Monkey shows.  
 
 ## Configure an Effects Clip
 You may also Customize existing effects. To begin the configuration process, click the middle mouse button or right-click and choose Edit / Cue.
