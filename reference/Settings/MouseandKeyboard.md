@@ -9,7 +9,7 @@ A comprehensive tree structure shows all the actions in Screen Monkey which can 
 ## Assign a new key
 To assign a new keystroke or key combimation to an action follow these steps.
 
-1. Find the action to assign this key to in the tree
+1. Find the action you wish to assign a new key to in the tree
 2. Press the key or key combination you wish to assign, it will be described in the toolbar, replacing the text 'Last Trigger'
 3. Double-click the action 
 4. The action will now have a sub-item which shows the new assignment
