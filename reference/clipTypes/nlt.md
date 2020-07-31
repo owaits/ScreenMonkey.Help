@@ -22,7 +22,7 @@ For a single passage use the search bar at the top of the window. Type the Bible
 ### Passage Search Builder
 If you need to present multiple passages in a single clip then use the Passage Builder. Click the three dots to the right of the search field and a new dialog will open. Here you can choose multiple books, chapters and verses. Start by entering your first passage start and end. Then click 'Add Section' and repeat for the next passage. Keep adding as many sections as you need then click OK.
 
-![](../../images/clip-nlt-passage-builder.png)
+![](../../images/clip-bible-passage-builder.png)
 
 Once you have the passage(s) you require in the clip cue dialog press OK and a new clip will appear on the dashboard. 
 
