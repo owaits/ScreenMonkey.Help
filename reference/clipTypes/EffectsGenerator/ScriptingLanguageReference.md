@@ -1,6 +1,6 @@
 # Effect Generator Scripting Reference
 
-This page contains reference information for the Effect Generator scripting language. For an introductory tutorial read [Creating Your Own Effects Scripts](WritingYourOwnEffectsScripts.md).
+This page contains reference information for the Effect Generator scripting language. For an introductory tutorial read [Creating Your Own Effects Scripts](CreatingCustomEffects.md).
 
 ## Syntax Overview
 

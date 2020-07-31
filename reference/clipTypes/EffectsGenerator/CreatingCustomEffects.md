@@ -27,7 +27,8 @@ A cycle is an arbitrary length of time which you can change to make your effect 
 
 Writing effects scripts can be tricky at first, luckily the editor includes a useful feature called the assistant which allows quick creation of script entries. You can then customize the generated script by editing it.
 
-### Using the Assistant
+### Using the Assistant
+
 To access the assistant, right-click the script area:
 
 ![](../../../images/img_276.jpg)
@@ -191,9 +192,9 @@ Here is an example of a flag:
     LEFT;
     
 Parameters are used to control a value and consist of a parameter name and a value in brackets. The size parameter for example specifies the size of a shape in percentage points:     
-     
+
     SIZE(50);
-      
+
 This tells the shape's size to be 50% of the screen size.
 
 A full list of parameters is available in the [language reference](ScriptingLanguageReference.md).
