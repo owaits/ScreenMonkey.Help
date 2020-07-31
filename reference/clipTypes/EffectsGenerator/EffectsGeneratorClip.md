@@ -6,7 +6,7 @@ When creating a new effects clip you have two choices:
 
 - Choose an effect from the effect library. This is the quickest way to get up and running with effects, you can use one of the library effects as it is, or you can [customise](CustomizingAnEffectsClip.md) it.
     
-- Create your own effect from scratch. If you're feeling adventurous you can [make your own effects](WritingYourOwnEffectsScripts.md) using the simple scripting language. You can then add them to the library, allowing you to use them as a starting point for more effects, or reuse your effects in other Screen Monkey shows.  
+- Create your own effect from scratch. If you're feeling adventurous you can [make your own effects](CreatingCustomEffects.md) using the simple scripting language. You can then add them to the library, allowing you to use them as a starting point for more effects, or reuse your effects in other Screen Monkey shows.  
 
 ## Create an Effects Generator Clip from Library
 Click an empty dashboard slot and choose 'Effect Generator' from the new clip browser. You will then see the effect library.
