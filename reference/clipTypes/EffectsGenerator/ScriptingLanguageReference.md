@@ -10,18 +10,18 @@ A brief outline of the general syntax for the scripting commands.
 Color scheme definitions can appear anywhere in your script, although convention is to put them at the start. Scheme definitions are not indexed must appear in palette order. To change the palette order change the order of the definitions.
 
 #### Color Scheme Definition
+Specify values between 0 and 255 for each of red, green, blue.
 
     COLOR({red},{green},{blue});
 
-When defining Color scheme, the background Color can be specified.
-
 #### Background Color Definition
+When defining Color scheme, the background Color can also be specified.
 
     BACKGROUND({red},{green},{blue});
 
 #### Color Scheme Example
 
-The following is an example of a full Color scheme definition block including all 4 palette Colors:
+The following is an example of a full color scheme definition block including all 4 palette colors:
 
 ![](../../../images/ColorsAdded.png)
 
@@ -37,7 +37,7 @@ The Shape Timing definition consists of the shape name and from 1 to 3 timing pa
 |-|-|
 |Pulse Time|Defines the period (in cycles) between generation of new shapes.|
 |Life Time|If omitted, is the same as pulse time. Otherwise,  specifies the lifespan for each generated shape (in cycles).|
-|Delay Time|Is the delay period (in cycles) before shapes begin to be generated, useful for offsetting shapes from each other (forcing them "out of phase" with one another).|
+|Delay Time|Is the delay period (in cycles) before shapes begin to be generated, useful for offsetting shapes from each other (forcing them 'out of phase' with one another).|
 
 The following example shows a BOX shape with a pulse time of 2 cycles and life span of 3 cycles and no delay:
 
@@ -55,15 +55,15 @@ Shape parameters follow the shape definition. There are 3 types of supported par
 |-|-|
 |Index|Color palette number to use|
 |Opacity|Optional transparency value from 0 (transparent) to 255 (opaque)|
-|Tint|Optional darkness of the specified Color from 0 (black) to 1 (full Color)|
+|Tint|Optional darkness of the specified Color from 0 (black) to 1 (full color)|
 
-Each shape supports a number of mappable Color slots. Slot 1 and Slot 2 always correspond to the fill Color for the shape, and the border Color for the shape respectively. Some shapes support more than one Color.
+Each shape supports a number of mappable color slots. Slot 1 and Slot 2 always correspond to the fill color for the shape, and the border color for the shape respectively. Some shapes support more than one color.
 
-To map palette Colors to shape Color slots specify the Colors in order. For example to map Color 2 to fill and Color 3 to border, use the following:
+To map palette colors to shape color slots specify the colors in order. For example to map color 2 to fill and color 3 to border, use the following:
 
     [2];[3];
 
-You may optionally specify opacity values for each Color mapping:
+You may optionally specify opacity values for each color mapping:
 
     [2,128];[3,160];
 
@@ -73,12 +73,12 @@ And tints if you require:
 
 #### Flags
 
-Flags are simple one-word parameters which change the shape's behaviour, there are currently two supported flag sets: fade and direction. To specify the flag just enter the flag name you want to use. The flag sets are as follows:
+Flags are simple one-word parameters which change the shape's behaviour, there are two supported flag sets: fade and direction. To specify the flag just enter the flag name you want to use. The flag sets are as follows:
 
 * Fade supports FADE, FADEIN and NONE. These correspond to fade from fully opaque to transparent during the shape's lifetime; the reverse effect, and no fade (fully opaque always).
 * Direction supports UP, DOWN, LEFT and RIGHT. These correspond to directions of travel.
 
-While it's possible to specify multiple flags from the same flag set, this makes no sense as flags within a set are mutually exclusive. Specifying LEFT and RIGHT flags together for example makes no sense.
+While it's possible to specify multiple flags from the same flag set, this makes no sense as flags within a set are mutually exclusive. 
 
 #### Parameters
 
@@ -95,14 +95,14 @@ Parameters are like flags except that they take a value as well, which affects h
 |BUBBLE|Creates a bubble which appears at a random location along the bottom of the screen and rises to the top. The size is chosen at random but may be set to a fixed size using the size parameter or a minimum size specified using the min parameter.|
 |CHEVRON|Creates a chevron which moves across the screen. The sweep parameter specifies the angle of the chevron as a percentage of the screen size.|
 |CIRCLE|Creates a circle which appears at a random location and expands to a random size. Defaults to the fadein fade type. The maximum size may be overridden using the size parameter.|
-|CONFETTI| |
+|CONFETTI|Small falling triangles|
 |DIAMOND|Creates a diamond which appears at a random location and expands to a random size. Defaults to the fadein fade type. The maximum size may be overridden using the size parameter.|
 |LEAF|Creates a leaf shape at a random location along the top of the screen which floats downward. Size is selected at random or may be overridden using the size or min parameters.|
 |LINE|Creates a horizontal or vertical line that moves across the screen. The size of the line is selected at random or may be specified using the size parameter. The line begins at the screen edge.|
 |LINEM|Creates a horizontal or vertical line that moves across the screen. The size of the line is selected at random or may be specified using the size parameter. The line begins in the middle of the screen.|
-|RADAR| |
-|ROTOR| |
-|SNAKE| |
+|RADAR|Spinning block with one corner in the centre of the screen.|
+|ROTOR|Spinning block.|
+|SNAKE|A line which moves and turns corners (inspired by the snake game).|
 |SNOWFLAKE|Creates a snowflake shape at a random location along the top of the screen which floats downward. Size is selected at random or may be overridden using the size or min parameters.|
 |STAR|Creates a star shape at a random location along the top of the screen which floats downward. Size is selected at random or may be overridden using the size or min parameters.|
 |STROBE| |
