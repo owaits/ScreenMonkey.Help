@@ -1,23 +1,6 @@
-- name: Work with Clips
-  items:
     - name: Creating and using Lower Thirds
       href: WorkingWithClips/CreatingAndUsingLowerThirds.md
     - name: Creating a Countdown
       href: WorkingWithClips/CreatingACountdown.md
     - name: Edit Clips
       href: WorkingWithClips/EditingClips.md
- 
-- name: Work with Shows
-  items:
-    - name: Load a Show
-      href: WorkingWithShows/LoadAShow.md
-    - name: Package a Show
-      href: WorkingWithShows/SaveorPackageShow.md
-    - name: Cue Sheet Export
-      href: WorkingWithShows/CueSheetExport.md
-    - name: Enhanced Podcast
-      href: WorkingWithShows/EnhancedPodcast.md
-    - name: Flash Show
-      href: WorkingWithShows/FlashShow.md
-    - name: Use A Remote Pointer With PowerPoint
-      href: WorkingWithShows/UseARemotePointerWithPowerPoint.md
