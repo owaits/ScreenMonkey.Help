@@ -1,119 +1,39 @@
 # Using Screen Monkey for a Concert
 
-In this example, we will assume we are using Screen Monkey to help us with a concert. The concert will contain the following elements:
+In this example we will assume we are using Screen Monkey in a concert scenario. The concert will contain the following elements:
 
-1.  Lead in music  
-      
-    The Lead in music is played using an MP3 file named LeadIn.MP3.
-    
+1.  Lead in music
 2.  Image with Concert Logo  
-      
-    While the Lead in music is playing an image with the concert logo is presented via multiple projection systems. The concert logo is an image named ConcertOpener.PNG.
-    
-3.  Master of Ceremonies  
-      
-    A live video feed will present all stage activity on the projection systems. The computer is equipped with a video capture device named Video WebCam.
-    
-4.  Supplemental Images and Lower Thirds  
-      
-    During the live performances, [Lower Thirds](../Glossary.md#LowerThird) will be used to identify the Emcee and the performers. Before each group performs, an image announcing the group name and logo will be presented. During the live performances, the camera will be all over the place. Sometimes the whole group will be shown and sometimes there will be close ups of performers. When there are close ups, Lower Thirds will be superimposed on the live video to identify the performer. There are many images involved.
-    
-
-*   Emcee.PNG  
-      
-    (lower third identifying Emcee)
-    
-*   Group1.PNG  
-      
-    (full image identifying Band 1)
-    
-*   Group1Performer1.PNG  
-      
-    (lower third identifying Group 1 Performer 1)
-    
-*   Group1Performer2.PNG  
-      
-    (lower third identifying Group 1 Performer 2)
-    
-*   Group1Performer3.PNG  
-      
-    (lower third identifying Group 1 Performer 3)  
-    
-*   Group2.PNG  
-      
-    (full image identifying Group 2)
-    
-*   Group2Performer1.PNG  
-      
-    (lower third identifying Group 2 Performer 1)
-    
-*   Group2Performer2.PNG  
-      
-    (lower third identifying Group 2 Performer 2)
-    
-*   Group2Performer3.PNG  
-      
-    (lower third identifying Group 2 Performer 3)
-    
-
-6.  Lead out music  
-      
-    The Lead out music is played using an MP3 file named LeadOut.MP3.
-    
+3.  Master of Ceremonies live video
+4.  Supplemental images and Lower Thirds  
+5.  Lead out music
 
 As you can see, we need to be able to easily present different types of media. For our example concert, we have two different audio files in MP3 format, a live video feed and several different images that will be presented and even superimposed over the video.
 
 ## Preparing Screen Monkey before the concert
+Before the concert begins, you will want to prepare Screen Monkey.
 
-Long before the concert begins, you will want to prepare Screen Monkey.
+First, we add the media files to Screen Monkey. The easiest way to add a media file to Screen Monkey is to drag the file from Windows Explorer to an empty slot. We do this for the MP3 files and images. The lower third is also an image but it has transparency.
 
-First, we add these files to Screen Monkey.
+To take a live video feed into Screen Monkey we are going to use the NDI clip which can receive video from a suitable NDI camera on the local network.
 
-To add a media file to Screen Monkey, you click once on any of the blank squares.
+The clips are now as follows. Note that the lower third is on Layer 2 so that it appears on top of the video and the audio clips are on the audio layer. To make the show as simple as possible to operate the layers are pre-assigned to the clips. 
 
-(These blank squares are called "slots")
-
-![](..\images\ClickEmptySquare.png)
-
-After you click the slot, the Create Clip dialog opens.
-
-![](..\images\CreateClip.png)
-
-Since the first thing we are likely to do is play the lead in music, we click the Audio icon followed by OK.
-
-The Open dialog should display allowing us to browse to where the music content is located.
-
-For this example, I placed all the content inside the same folder. I selected the LeadIn.MP3 file and clicked Open.
-
-![](..\images\OpenAudio.png)
-
-The main Screen Monkey window (called the Dashboard) should now look like this:
-
-![](..\images\FirstClipAdded.png)
-
-The process of adding clips is repeated as shown above until the Screen Monkey dashboard looks similar to this:
-
-![](..\images\ConcertLoaded.png)
-
-At this point we are now ready to USE Screen Monkey during our concert.
+We will link the lead in music to the concert image with a pair link so that they play together.
 
 ## Presenting the media during the Concert
 
-Let's walk through the process of presenting the show at our concert. As the concert begins, we need to play our Lead In music as well as present the concert image. So we click the LeadIn clip once and the Lead In music should begin playing. Then we click the Concert image once and it should begin presenting on the projection system.
+Let's walk through the process of presenting the show at our concert. As the concert begins, we need to play our Lead In music as well as present the concert image. So we click the LeadIn audio clip once and the Lead In music should begin playing and the concert image will appear on the projection system because the clips are linked.
 
-![](..\images\ConcertStart.png)
+You can see the clips are active because the clip outline changes colour. A play arrow will appear inside the audio clip.
 
-Notice how the clip outlines turn yellow. For the audio clip, a small yellow triangle appears in the upper right corner to let you know audio is playing. Also note the letter A in the upper left corner of the clip. This indicates the clip is playing on the Audio layer. Notice the clip to the immediate right. This is the concert image and the bright yellow border indicates it's the active layer. If you look at the left side of the Dashboard, the L1 square is highlighted to let you know Layer 1 is presenting the image.
+The layer previews on the left of the dashboard confirm which clip is on each layer at all times.
 
-When the Master of Ceremonies (Emcee) approaches the stage it's time to stop the LeadIn music and start the live video feed. Notice the little row of squares on the left side of the Main Dashboard. Each of these represents a layer. Click the Audio layer to select it, then click the Clear Audio clip.
-
-![](..\images\ClickAudioLayer.png)
+When the Master of Ceremonies (MC) approaches the stage it's time to stop the LeadIn music and start the live video feed. Notice the little row of squares on the left side of the Main Dashboard. Each of these represents a layer. Click the Audio layer to select it, then click the Clear Audio clip.
 
 Click the L1 layer to select it, then click the video camera icon to start the feed and the live video will begin presenting on the projection system. We selected L1 because that is the layer that will be "behind" all the others.
 
-![](..\images\startconcertcamera.png)
-
-At this point the Emcee is on stage and about to begin talking to the audience and introduce the first group. When the address begins, you will want to display the [lower third](javascript:void(0);) that will present the Emcee's name.
+At this point the Emcee is on stage and about to begin talking to the audience and introduce the first group. When the address begins, you will want to display the lower third that will present the Emcee's name.
 
 To display the lower third, click the L2 layer to select it, then click the Emcee clip to present it. Because you first selected L2, the Emcee clip is presented on Layer 2. This means Layer 1 is still presenting the live video feed and Layer 2 is presenting in front of the Live video feed. So your audience sees both at the same time.
 
@@ -124,9 +44,5 @@ As you can hopefully see, it's really easy to present the content. Once you are 
 Using Screen Monkey there was no need for locating the audio files, opening and playing them using a media player. No need to use something like a mechanical A/B switch to change from presenting live video to images or images to live video.
 
 Instead, the show was polished and seamless!
-
-  
-
-![](..\images\Noteimage.png)
 
 This topic presented one possible use of Screen Monkey. The intent was to provide an overview of how such a situation might unfold. As you may imagine, simplicity was the goal here. There are more efficient ways of working with Screen Monkey. For example, pre-assigning clips so that they appear on specific layers.
