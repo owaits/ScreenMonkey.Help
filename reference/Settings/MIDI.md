@@ -1,41 +1,19 @@
 # MIDI
 
-Click the area of interest on the image below to learn more about that option.
+The MIDI section in the settings dialog enables you to use a MIDI controller or MIDI keyboard to control Screen Monkey and activate clips.
 
-![](../../../images/SettingsMIDI.png)  
-
-The MIDI Section in the Settings dialog enables you to use a MIDI controller or MIDI keyboard to control Screen Monkey and activate clips.
-
-Set-up is as easy as pressing a key; button on your MIDI controller or MIDI keyboard then double clicking the action that you need to control. Any actions that have keys assigned to them will appear in bold.
+Set-up is as easy as pressing a key or button on your MIDI controller or MIDI keyboard then double clicking the action that you need to control. Any actions that have keys assigned to them will appear in bold.
 
 ![](../../../images/img_325.jpg)
 
-  
-
-Channel
-
-MIDI Channel Number  
-0=MIDI Channel 1
-
-Command
-
-This is the MIDI command, which can be; NoteOn, NoteOff, PolyPressure, Controller, ProgramChange, ChannelPressure or PitchWheel.
-
-Data1
-
-The MIDI data, for example; note number.
-
-Data2
-
-The MIDI data, for example; note velocity.
-
-Level
-
-Sets which parameters to ignore when matching the MIDI trigger with the incoming MIDI note.
-
-Enabled
-
-whether Screen Monkey should use this action or not (if Enabled=False).
+|Setting|Description|
+|-|-|
+|Channel|MIDI Channel Number 0=MIDI Channel 1|
+|Command|This is the MIDI command, which can be; NoteOn, NoteOff, PolyPressure, Controller, ProgramChange, ChannelPressure or PitchWheel.|
+|Data1|The MIDI data, for example; note number.|
+|Data2|The MIDI data, for example; note velocity.|
+|Level|Sets which parameters to ignore when matching the MIDI trigger with the incoming MIDI note.|
+|Enabled|Whether Screen Monkey should use this action or not (if Enabled=False).|
 
 Any action can be triggered by more than one MIDI command so you can assign multiple notes to the same function.
 
