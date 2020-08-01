@@ -2,22 +2,11 @@
 
 In this example, we will assume we are using Screen Monkey to help us with a conference. The conference will contain the following elements:
 
-1.  Lead in music  
-      
-    The Lead in music is played using an MP3 file named LeadIn.MP3.
-    
-2.  Image with Conference Logo  
-      
-    While the Lead in music is playing an image with the conference logo is presented via multiple projection systems. The conference logo is an image named ConferenceOpener.PNG.
-    
-3.  Master of Ceremonies and Keynote Speaker  
-      
-    A live video feed will present all stage activity on the projection systems. The computer is equipped with a video capture device named Video WebCam.
-    
-4.  Supplemental Images and Lower Thirds  
-      
-    During the keynote speech, Lower Thirds will be used to identify the presenters. During the keynote, the presenter will advise the audience that books and other materials are available in a specific area. These images will be superimposed on top of the live video. There are three images involved.
-    
+1.  Lead in music
+2.  Image with conference logo  
+3.  Master of ceremonies and keynote speaker  
+4.  Supplemental images and lower thirds  
+5.  PowerPoint presentations for each speaker
 
 *   Emcee.PNG  
       
@@ -31,7 +20,6 @@ In this example, we will assume we are using Screen Monkey to help us with a con
       
     Provides an image of the book the Keynote speaker has written.
     
-
 6.  Lead out music  
       
     The Lead out music is played using an MP3 file named LeadOut.MP3.
@@ -89,16 +77,12 @@ Click the L1 layer to select it, then click the video camera icon to start the f
 
 ![](..\images\startcamera.png)
 
-At this point the EmCee is on stage and about to begin talking to the audience and introduce the keynote speaker. When the address begins, you will want to display the [lower third](javascript:void(0);) that will present the EmCee's name.
+At this point the EmCee is on stage and about to begin talking to the audience and introduce the keynote speaker. When the address begins, you will want to display the lower third that will present the EmCee's name.
 
 To display the lower third, click the L2 layer to select it, then click the EmCee clip to present it. Because you first selected L2, the Emcee clip is presented on Layer 2. This means Layer 1 is still presenting the live video feed and Layer 2 is presenting in front of the Live video feed. So your audience sees both at the same time.
 
 As you can hopefully see, it's really easy to present the content. Once you are finished playing any given clip, click the layer on the left side to choose it, then click the "Clear Layer" clip on the left side of Screen Monkey. That will totally clear the layer and immediately stop playing the selected clip.
 
 Using Screen Monkey, there was no need for locating the audio files, opening and playing them using a media player. No need to use something like a mechanical A/B switch to change from presenting live video to images or images to live video.
-
-Instead, the show was polished and seamless!
-
-![](..\images\Noteimage.png)
 
 This topic presented one possible use of Screen Monkey. The intent was to provide an overview of how such a situation might unfold. As you may imagine, simplicity was the goal here. There are more efficient ways of working with Screen Monkey. For example, pre-assigning clips so that they appear on specific layers.
