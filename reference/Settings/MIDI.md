@@ -13,7 +13,7 @@ Set-up is as easy as pressing a key or button on your MIDI controller or MIDI ke
 |Data1|The MIDI data, for example; note number.|
 |Data2|The MIDI data, for example; note velocity.|
 |Level|Sets which parameters to ignore when matching the MIDI trigger with the incoming MIDI note.|
-|Enabled|Whether Screen Monkey should use this action or not (if Enabled=False).|
+|Enabled|Whether Screen Monkey should use this action or not.|
 
 Any action can be triggered by more than one MIDI command so you can assign multiple notes to the same function.
 
