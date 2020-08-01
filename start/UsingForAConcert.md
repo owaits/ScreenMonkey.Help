@@ -26,7 +26,11 @@ We will link the lead in music to the concert image with a [pair link](../refere
 
 To save switching layers create a new ['Clear Layer'](../reference/clipTypes/ClearLayerClip.md) clip and assing it to Layer 2 also. Add a fade transition to this clip.
 
-## Presenting the media during the Concert
+After configuring Screen Monkey with the clips it will look a little like this.
+
+![](../images/concert-1.png)
+
+## Presenting the media during the concert
 
 Let's walk through the process of presenting the show at our concert. As the concert begins, we need to play our Lead In music as well as present the concert image. So we click the LeadIn audio clip once and the Lead In music should begin playing and the concert image will appear on the projection system because the clips are linked.
 
