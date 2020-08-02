@@ -17,7 +17,7 @@ There are two different ways you can open the Edit / Cue window for a clip.
 ## Cue Video Clip
 Once you have selected the clip to cue, the Cue dialog should be presented.
 
-![](../../images/img_233.jpg)
+![](../../images/clip-cue.png)
 
 The main part of the clip window displays the video, which will allow you to choose which section of the video you wish to play.
 
@@ -25,15 +25,15 @@ The main part of the clip window displays the video, which will allow you to cho
 
 |Icon|Tool|Description|
 |-|-|-|
-|![](../../images/img_234.jpg)|Jump To Start|Jumps to the start of the video clip or if the In Time is locked then jumps to the In Time.|
-|![](../../images/img_235.jpg)|Play|If the video clip is stopped or paused then will play the video clip.|
-|![](../../images/img_236.jpg)|Pause|Pauses the video clip by holding it at its current position|
-|![](../../images/img_237.jpg)|Jump To End|Jumps to the end of the video clip or if the Out Time is locked then jumps to the Out Time.|
-|![](../../images/img_238.jpg)|Fast Reverse|Rewinds the video clip by 10 seconds.|
-|![](../../images/img_239.jpg)|Frame Reverse|Rewinds the video clip by a single frame and Pauses playback.|
-|![](../../images/img_240.jpg)|Frame Advance|Moves the clip forwards by a single frame and Pauses playback.|
-|![](../../images/img_241.jpg)|Fast Forwards|Moves the clip forwards by 10 seconds.|
-|![](../../images/img_242.jpg)|Loop|When selected the video will start playing from the start when it reaches the end of the clip. This button will be highlighted green to indicate it is selected.|
+|![](../../images/cue-start.png)|Jump To Start|Jumps to the start of the video clip or if the In Time is locked then jumps to the In Time.|
+|![](../../images/cue-play.png)|Play|If the video clip is stopped or paused then will play the video clip.|
+|![](../../images/cue-pause.png)|Pause|Pauses the video clip by holding it at its current position|
+|![](../../images/cue-end.png)|Jump To End|Jumps to the end of the video clip or if the Out Time is locked then jumps to the Out Time.|
+|![](../../images/cue-rewind.png)|Fast Reverse|Rewinds the video clip by 10 seconds.|
+|![](../../images/cue-frame-back.png)|Frame Reverse|Rewinds the video clip by a single frame and Pauses playback.|
+|![](../../images/cue-frame-forward.png)|Frame Advance|Moves the clip forwards by a single frame and Pauses playback.|
+|![](../../images/cue-fastforward.png)|Fast Forwards|Moves the clip forwards by 10 seconds.|
+|![](../../images/cue-loop.png)|Loop|When selected the video will start playing from the start when it reaches the end of the clip. This button will be highlighted green to indicate it is selected.|
 
 ### Timecode  
       
