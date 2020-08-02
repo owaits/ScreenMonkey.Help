@@ -53,24 +53,11 @@ To set the In time either set the time using the time control in the same way as
       
 To set the Out time either set the time using the time control in the same way as you would the main time or go to the point in the video at which you want to end and then click the Cue Out button.
     
-
-![](../../images/img_245.jpg)
-
-Cue In
-
-Sets the clip start time to the current position of the video clip.
-
-![](../../images/img_246.jpg)
-
-Cue Out
-
-Sets the clip end time to the current position of the video clip.
-
-![](../../images/img_247.jpg)
-
-Lock In and Out Times
-
-When locked the clip will play using the specified start and stop times. If unlocked then the clip will ignore the specified stop and start times by simply playing from the start of the video.
+|Icon|Tool|Description|
+|-|-|-|
+|![](../../images/img_245.jpg)|Cue In|Sets the clip start time to the current position of the video clip.|
+|![](../../images/img_246.jpg)|Cue Out|Sets the clip end time to the current position of the video clip.|
+|![](../../images/img_247.jpg)|Lock In and Out Times|When locked the clip will play using the specified start and stop times. If unlocked then the clip will ignore the specified stop and start times by simply playing from the start of the video.|
 
 When Cueing enabled is selected  the clip will use the cue times during playback in the main control panel. This is automatically enabled when you set the cue times. If you do not want the clip to use the cue times and just want it to play normally, de-select cueing enabled. This option is also shown when you right click on a clip in the control panel by a tick next to "Cue".
 
