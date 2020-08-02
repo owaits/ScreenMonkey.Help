@@ -16,11 +16,11 @@ Before the concert begins you will want to prepare Screen Monkey and our media.
 
 First we [add the media files](../reference/CreatingClips.md) to Screen Monkey. The easiest way to add a media file to Screen Monkey is to drag the file from Windows Explorer to an empty slot. We do this for the MP3 files and images. 
 
-The lower third is created from the [text clip](../reference/clipTypes/Text/TextClip.md) by adding two text caption objects will filled backgrounds. This allows you to quickly create multiple lower thirds from the same text clip template. The background of the text clip is set to 'none' so that only the strap appears on top of the video.
+The lower third is created from the [text clip](../reference/clipTypes/Text/TextClip.md) by adding two text caption objects with filled backgrounds. This allows you to quickly create multiple lower thirds from the same text clip template. The background of the text clip is set to 'none' so that only the strap appears on top of the video.
 
 To take a live video feed into Screen Monkey we are going to use the [NDI clip](../reference/clipTypes/ndi.md) which can receive video from a suitable NDI camera on the local network.
 
-To make the show as simple as possible to operate we will put the lower third clips on Layer 2 so that they appears on top of the video automatically. To do this [layers are pre-assigned](../reference/clipSettings/layer.md) to the clips. 
+To make the show as simple as possible to operate we will put the lower third clips on Layer 2 so that they appear on top of the video automatically. To do this [layers are pre-assigned](../reference/clipSettings/layer.md) to the clips. 
 
 We will link the lead in music to the concert image with a [pair link](../reference/clipSettings/link.md) so that they play together. Add a [fade transition](../reference/clipSettings/transition.md) to the music clips and the concert slide.
 
@@ -40,12 +40,12 @@ When the Master of Ceremonies (MC) approaches the stage it's time to stop the Le
 
 Click the NDI video camera icon to start showing the live video. At this point the MC is on stage and about to begin talking to the audience and introduce the first group. When there is a close up shot of the MC you will want to display the lower third that will display their name.
 
-To display the lower third, click the text clip to present it. Because you assigned it to Layer 2 it is presented in front of the Live video feed so your audience sees both at the same time. To remove the lower click on 'Clear Layer 2'.
+To display the lower third, click the text clip to present it. Because you assigned it to Layer 2 it is presented in front of the Live video feed so your audience sees both at the same time. To remove the lower third click on 'Clear Layer 2'.
 
-From here forward, you would just click the clips as you need them. For example, when the first group comes on stage, you would click their image to announce them. As each performer receives a close up, you click their name to present the lower third. 
+From here forward you would just click the clips as you need them. For example, when the first group comes on stage you would click their lower third text clip to announce them. As each performer receives a close up, you click their name to present the lower third. 
 
 At the end of the concert there maybe more images to display and an additional music clip. These are presented in the same way.
 
 As you can hopefully see, it's really easy to present the content. Using Screen Monkey there was no need for locating the audio files, opening and playing them using a media player. No need to use something like a video switcher to change from presenting live video to images or images to live video.
 
-This topic presented one possible use of Screen Monkey. The intent was to provide an overview of how such a situation might unfold. As you may imagine, simplicity was the goal here. There are more efficient ways of working with Screen Monkey. For example, pre-assigning clips so that they appear on specific layers.
+This topic presented one possible use of Screen Monkey. The intent was to provide an overview of how such a situation might unfold. As you may imagine, there are many ways of achieving a similar result.
