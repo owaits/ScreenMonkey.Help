@@ -1,6 +1,6 @@
 # Using Screen Monkey for a Conference
 
-In this example, we will assume we are using Screen Monkey to help us with a conference. The conference will contain the following elements:
+In this example we will assume we are using Screen Monkey to help us with a conference. The conference will contain the following elements:
 
 1.  Lead in music
 2.  Image with conference logo  
@@ -9,7 +9,7 @@ In this example, we will assume we are using Screen Monkey to help us with a con
 5.  PowerPoint presentations for each speaker
 6.  Lead out music  
 
-As you can see, we need to be able to easily present different types of media. For our example conference, we have two different audio files in MP3 format, a live video feed and a few different images that will be presented and even superimposed over the video.
+As you can see we need to be able to easily present different types of media. For our example conference, we have two different audio files in MP3 format, PowerPoint presentations and a few different images.
 
 ## Preparing Screen Monkey before the conference
 Before the conference begins you will want to prepare Screen Monkey by adding the clip that are required.
@@ -25,7 +25,7 @@ When the first speaker approaches the stage it's time to stop playing the LeadIn
 
 The image and audio are playing on different layers. Click on the audio layer thumbnail to the left of the dashboard and then on the 'Clear Layer' clip to stop the music. Then click back on 'Layer 1' thumbnail and then the PowerPoint clip.
 
-As you can hopefully see, it's really easy to present the content. Once you are finished playing any given clip, click the layer on the left side to choose it, then click the "Clear Layer" clip on the left side of Screen Monkey. That will totally clear the layer and immediately stop playing the selected clip.
+As you can hopefully see it's really easy to present the content. Once you are finished playing any given clip, click the layer on the left side to choose it, then click the 'Clear Layer' clip on the left side of Screen Monkey. That will totally clear the layer and immediately stop playing the selected clip.
 
 Using Screen Monkey, there was no need for locating the audio files, opening and playing them using a media player. 
 
