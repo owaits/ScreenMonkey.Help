@@ -14,9 +14,9 @@ As you can see, we need to be able to easily present different types of media. F
 ## Preparing Screen Monkey before the conference
 Before the conference begins you will want to prepare Screen Monkey by adding the clip that are required.
 
-- [Add two audio clips](../../reference/clipTypes/AudioClip.md) for the lead in and lead out music
-- [Add the image clips](../../reference/clipTypes/ImageClip.md) for the logos
-- [Add the PowerPoint clips](../../reference/clipTypes/PowerPointClip.md) for each of the speakers slides
+- [Add two audio clips](../reference/clipTypes/AudioClip.md) for the lead in and lead out music
+- [Add the image clips](../reference/clipTypes/ImageClip.md) for the logos
+- [Add the PowerPoint clips](../reference/clipTypes/PowerPointClip.md) for each of the speakers slides
 
 ## Presenting the media during the conference
 As the conference begins, we need to play our Lead In music as well as present the conference image. So we click the LeadIn clip once and the Lead In music begins playing. Then we click the Conference image once and it will begin presenting on the projectors connected to the computer.
