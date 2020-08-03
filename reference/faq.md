@@ -16,3 +16,6 @@ Answers to some common issues and questions.
 
 ## PowerPoint playback
 - To use PowerPoint clips in Screen Monkey you must have a licensed copy of Microsoft PowerPoint installed. Check that you have a compatible version installed on your computer. PowerPoint version 2013 or later is required.
+
+## Broken Clips
+If you see a clip icon with a red cross this either means the media file for the clip cannot be located. In the case of macro control clips it means the external equipment is disconnected. It is possible to repair broken media links by clicking the clip and telling Screen Monkey where the media is located. Macro clips are designed to repair automatically when the equipment is reconnected.
