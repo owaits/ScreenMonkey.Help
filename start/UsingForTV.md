@@ -11,7 +11,7 @@ The solution will vary depending on the exact requirements and equipment availab
 - The [ticker tape](../reference/clipTypes/TickerTapeClip.md) can show a scrolling messages across the bottom of the screen
 - [Folder search](../reference/clipTypes/folderSearch.md) allows you to setup a network share or sync folder for other team members to submit slides for automatic display
 - A [realtime clock](../reference/clipTypes/Text/TextClipObjects.md#datetime) can be superimposed
-- [Logging](../reference/Settings/Statistics.md) is avaialble to verify everything went to plan
+- [Logging](../reference/Settings/Statistics.md) is available to verify everything went to plan
 
 
 
