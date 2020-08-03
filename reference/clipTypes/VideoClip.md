@@ -22,6 +22,8 @@ The supported video container formats are:
 *   \*.MKV
 *   \*.M2V
 *   \*.M4V
+*   \*.MTS
+*   \*.WEBM
 
 *Note:* To ensure reliable playback and full compatibility the LAV video and audio decoders are required. These are automatically installed with Screen Monkey.
 
