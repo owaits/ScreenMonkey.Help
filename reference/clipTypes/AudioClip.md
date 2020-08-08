@@ -31,6 +31,11 @@ A few options are available when right clicking on Audio clips.
 ### Mute
 Choose the 'Mute' option to play the clip silently. Select 'Mute' again disable.
 
+### Audio Options
+If you experience any problems with the smooth playback of audio clips then the settings in 'Audio Options' may be helpful. These settings are applied globally to all audio clips. The recommended default settings are shown below.
+
+![](../../images/clip-audio-options.png)
+
 ### Edit/Cue
 The edit/cue dialog allows you to set In and Out points for the media so that the clip only plays a portion of the original file. There is also a volume adjustment which can be used to reduce the audio level if necessary.
 
