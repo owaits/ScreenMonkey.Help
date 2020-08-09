@@ -1,8 +1,9 @@
-# ![](../../images/SpaceIcon.png) Cue List / Space Clip
+![](../../images/SpaceIcon.png) 
+# Cue List / Space Clip
 
-## What a Space Clip does
+A Cue List (Space Clip) is a special type of clip. It is a container which allows you to store a collection of related clips in one place and play them back either automatically or manually. 
 
-A Space Clip is a special type of clip. It allows you to store several clips in one place and play them back from a central location. This may help you better organize your operations in Screen Monkey or you may wish to configure the clips so they play one after another after a certain time has elapsed.
+This clip may help you better organize your Screen Monkey dashboard or you may wish to configure the clips so they play one after another after a certain time has elapsed.
 
 For example, suppose you are using Screen Monkey to manage visuals for a concert with three different groups and several members in each group. You may choose to create a space clip for each group. Inside the Space Clip would be all the media assets related to the group.
 
