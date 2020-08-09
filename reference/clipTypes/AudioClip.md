@@ -39,7 +39,7 @@ If you experience any problems with the smooth playback of audio clips then the 
 ### Edit/Cue
 The edit/cue dialog allows you to set In and Out points for the media so that the clip only plays a portion of the original file. There is also a volume adjustment which can be used to reduce the audio level if necessary.
 
-*Note:* In and Out point cues are only supported when using the ffdshow audio decoder.
+*Note:* In and Out point cues are only supported when using the ffdshow or LAV audio decoder.
 
 ![](../../images/clip-audio-editcue.png)
 
