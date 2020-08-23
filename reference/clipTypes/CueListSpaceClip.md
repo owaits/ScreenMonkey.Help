@@ -3,17 +3,15 @@
 
 A Cue List (Space Clip) is a special type of clip. It is a container which allows you to store a collection of related clips in one place and play them back either automatically or manually. 
 
-This clip may help you better organize your Screen Monkey dashboard or you may wish to configure the clips so they play one after another after a certain time has elapsed.
+This clip may help you better organize your Screen Monkey dashboard by hiding multiple clips behind one dashboard slot. The clip is also great for creating groups of releated clips.
 
-For example, suppose you are using Screen Monkey to manage visuals for a concert with three different groups and several members in each group. You may choose to create a space clip for each group. Inside the Space Clip would be all the media assets related to the group.
+For example, suppose you are using Screen Monkey to manage visuals for a concert with three different groups and several members in each group. You may choose to create a space clip for each group. Inside the space clip would be all the media assets related to the group.
 
-If you didn't use Space Clips, your Main Dashboard may look like this:
+If you didn't use space clips, your dashboard may look like this:
 
 ![](../../images/MainDashMessy.png)
 
-That's quite a jumble of clips and you would be hard pressed to determine which clip is what when you needed it, no?
-
-Using Space Clips, you are able to easily organize them by group. In this case the Main Dashboard might look like this:
+That's quite a jumble of clips and you might be hard pressed to determine which clip is what when you needed it. Using space clips you are able to easily organize them by group. In this case the Main Dashboard might look like this:
 
 ![](../../images/MainDashOrganized.png)
 
@@ -47,20 +45,11 @@ There are three ways to add clips to the Cue window.
       
     Files may be dragged from Windows Explorer or you may click and drag clips from the Screen Monkey Main Dashboard to the Cue window.
     
-
-  
-
-![](../../images/Noteimage.png)
-
 A handy tip is that when dragging files from Windows Explorer onto an empty slot in the Main Dashboard, you may press and hold the Alt key as you click and drag. This will cause a Space Clip to be created that contains the selected files. This is a handy shortcut to creating spaces containing lots of clips.
 
 To edit the clips within a space, click once to select them with the mouse so they are highlighted in lavender, then right-click to display the clip menu. You will have the same options as you do if the Clip were in the Main Dashboard. (Transition, Layer, Effect, etc.)
 
 ![](../../images/SpaceClipCueDialogPlaying.png)
-
-  
-
-![](../../images/Noteimage.png)
 
 Note that Space Clips offer their own layers and the Clips with the Space Clip may also be assigned to individual layers. [Click here](../../tutorials/WorkingWithShows/DisplayLayers.md) for more on Layers.
 
@@ -79,8 +68,6 @@ The live clip is highlighted in orange and this turns to yellow when the space i
 The Cue toolbar allows you to work with the clips that are part of the space.
 
 ![](../../images/img_272.jpg)
-
-  
 
 ![](../../images/AddButton.png)
 
