@@ -19,15 +19,14 @@ When you play the space clip and open the Cue window, you are able to play the o
 
 ![](../../images/SpaceClipCueDialogPlaying.png)
 
-## How to configure a Space Clip
-
-When you click a slot and choose to add a Space clip, you are prompted to provide a name to identify the space.
+## Create a Space Clip
+When you click an emopty dashboard slot and pick the Space clip you are prompted to provide a name to identify the space.
 
 ![](../../images/SpaceClipName.png)
 
-Type a name into the field and click OK.
+Type a name into the textfield and click OK.
 
-The Space clip is added to the Main Dashboard and the Cue window is displayed waiting for you to add clips.
+The Space clip is added to the dashboard and an empty cue window is displayed waiting for you to add clips.
 
 ![](../../images/SpaceClipAdded.png)
 
@@ -36,26 +35,24 @@ The Space clip is added to the Main Dashboard and the Cue window is displayed wa
 There are three ways to add clips to the Cue window.
 
 *   Clicking the blank area of the window
-    
 *   Clicking the Add icon in the window toolbar  
-      
-    When you click the blank area of the Cue window or click the Add icon, Screen Monkey behaves in the same way it does when clicking an empty slot. It presents a dialog where you choose a Clip type to add. Select the Clip type and click OK.
-    
 *   Clicking and dragging files into the window  
-      
-    Files may be dragged from Windows Explorer or you may click and drag clips from the Screen Monkey Main Dashboard to the Cue window.
-    
+
+When you click the blank area of the Cue window or click the Add icon, Screen Monkey behaves in the same way it does when clicking an empty slot. It presents a dialog where you choose a Clip type to add. Select the Clip type and click OK.
+     
+Files may be dragged from Windows Explorer or you may click and drag clips from the Screen Monkey main dashboard to the Cue window.
+
 A handy tip is that when dragging files from Windows Explorer onto an empty slot in the Main Dashboard, you may press and hold the Alt key as you click and drag. This will cause a Space Clip to be created that contains the selected files. This is a handy shortcut to creating spaces containing lots of clips.
 
-To edit the clips within a space, click once to select them with the mouse so they are highlighted in lavender, then right-click to display the clip menu. You will have the same options as you do if the Clip were in the Main Dashboard. (Transition, Layer, Effect, etc.)
+To edit the clips within a space, click once to select them with the mouse so they are highlighted in lavender, then right-click to display the clip menu. You will have the same [clip settings](../clipSettings/clipSettings.md) as you do if the clip were on the main dashboard.
 
 ![](../../images/SpaceClipCueDialogPlaying.png)
 
-Note that Space Clips offer their own layers and the Clips with the Space Clip may also be assigned to individual layers. [Click here](../../tutorials/WorkingWithShows/DisplayLayers.md) for more on Layers.
+Note that Space Clips offer their own layers and the clips with the Space Clip may also be assigned to individual layers. [Learn more about Layers](../layers.md).
 
-## How to use a Space Clip during a show
+## Use a Space Clip in a show
 
-Before any of the items listed in a Space clip will appear, you must click the Space Clip in the Main Dashboard to play it. The clip listed first in the Cue dialog should then appear on the screen or begin playing. (if it's an Audio or Video clip)
+Before any of the items listed in a Space clip will appear you must click the Space Clip in the main dashboard to play it. The clip listed first in the Cue dialog will then appear on the screen or begin playing.
 
 After playing the Space Clip in the Main Dashboard, the Cue dialog should be opened. You may wish to open the dialog before actually playing the Space Clip.
 
