@@ -237,6 +237,8 @@
       href: Settings/ProUpgrade.md
     - name: Statistics
       href: Settings/Statistics.md
+    - name: Stream Deck
+      href: Settings/streamDeck.md
     - name: TCP Terminal
       href: Settings/tcpTerminal.md
 - name: Advanced
