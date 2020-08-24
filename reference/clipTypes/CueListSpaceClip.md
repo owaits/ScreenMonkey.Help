@@ -9,28 +9,26 @@ For example, suppose you are using Screen Monkey to manage visuals for a concert
 
 If you didn't use space clips, your dashboard may look like this:
 
-![](../../images/MainDashMessy.png)
+![](../../images/dashboard-messy.png)
 
-That's quite a jumble of clips and you might be hard pressed to determine which clip is what when you needed it. Using space clips you are able to easily organize them by group. In this case the Main Dashboard might look like this:
+That's quite a jumble of clips and you might be hard pressed to determine which clip is what when you needed it. Using space clips you are able to easily organize them by group. In this case the same clips have been divided into four space clips. The spaces have been docked in a tabbed view at the right of the dashboard.
 
-![](../../images/MainDashOrganized.png)
+![](../../images/dashboard-with-spaces.png)
 
-When you play the space clip and open the Cue window, you are able to play the other clips listed in the Cue window. Typically the first clip you have added to the Cue window list will begin playing when you play the Space Clip. And each successive click on the Space Clip in the Main Dashboard advances to the next clip listed.
-
-![](../../images/SpaceClipCueDialogPlaying.png)
+Normally the first clip you have added to the cue list will play when you play the Space Clip. Each successive click on the Space Clip in the main dashboard advances to the next clip listed in the cue.
 
 ## Create a Space Clip
-When you click an emopty dashboard slot and pick the Space clip you are prompted to provide a name to identify the space.
+When you click an empty dashboard slot and pick the Space clip you are prompted to provide a name to identify the space.
 
-![](../../images/SpaceClipName.png)
+![](../../images/clip-space-new.png)
 
 Type a name into the textfield and click OK.
 
 The Space clip is added to the dashboard and an empty cue window is displayed waiting for you to add clips.
 
-![](../../images/SpaceClipAdded.png)
+![](../../images/dashboard-new-cue.png)
 
-![](../../images/SpaceClipCueDialog.png)
+![](../../images/clip-space-empty.png)
 
 There are three ways to add clips to the Cue window.
 
