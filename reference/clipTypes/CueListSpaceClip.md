@@ -60,43 +60,29 @@ The order in which clips will play from the cue is determined by the handle numb
 ### Settings
 You can click once on any row to select it and then right-click to display the clip menu. You will have the same [clip settings](../clipSettings/clipSettings.md) and options as you would if the clip were on the main dashboard.
 
+The 'Auto Rewind' setting determnines if the Space Clip always begins with the first item in the cue or if it continues from the item after the last played item.
+
 Note that Space Clips offer their own layers and the clips with the Space Clip may also be assigned to individual layers. [Learn more about Layers](../layers.md).
 
 ## Use a Space Clip in a show
-Before any of the items listed in a Space clip will appear you must click the Space Clip in the main dashboard to play it. The clip listed first in the Cue dialog will then appear on the screen or begin playing.
+To play the items listed in a Space clip you click the Space clip in the main dashboard to activate it. The clip listed first (or the clip after the one last used) in the cue dialog will then appear on the screen or begin playing. 
 
-After playing the Space Clip in the Main Dashboard, the Cue dialog should be opened. You may wish to open the dialog before actually playing the Space Clip.
+Use the Edit / Cue menu option to open the cue dialog if it is not open.
 
-To open the Cue dialog, Click the Space Clip using the middle mouse button or right-click the Space Clip and choose Edit / Cue.
+![](../../images/clip-cue-grid-live.png)
 
-![](../../images/SpaceClipCueDialogPlaying.png)
+You will see that the live clip is highlighted in white (Widescreen Grid) and a layer indicator (L1) appears on the far left. You can change the active item whilst the Space clip is live by double clicking on a clip row in the grid.
 
-The live clip is highlighted in orange and this turns to yellow when the space is playing and the live clip is actually on the screen. You can change the live item by double clicking on a clip.
+### Toolbar
+The cue dialog toolbar allows you to work with the clips that are part of the space.
 
-The Cue toolbar allows you to work with the clips that are part of the space.
+![](../../images/clip-cue-toolbar.png)
 
-![](../../images/img_272.jpg)
-
-![](../../images/AddButton.png)
-
-Clicking the Add button opens the Create Clip dialog so you may add a new clip to the space
-
-![](../../images/EditCue.png)
-
-Clicking the Edit / Cue button opens the Cue dialog for the clip. This button only works for clips that support cueing, such as Audio or Video.
-
-![](../../images/ClearButton.png)
-
-Clicking the Clear button will clear whatever layer or clip has been selected prior to clicking the button. Perhaps a clip is playing on Layer 3. To clear Layer 3, you would first click L3 to the right of the Clear button, then click the Clear button.
-
-![](../../images/LayerButtons.png)
-
-Clicking the layer buttons allow you to choose the Layer to act upon using the Clear button described above.
-
-![](../../images/PlayControls.png)
-
-The Triangle icon starts playing the clip and when play begins the icon changes to a square. At that point it will stop playing the clip when clicked.
-
-![](../../images/ProfileSelection.png)
-
-Clicking the Profile Selection will allow you to choose the Display Profile used by the Space Clip.
+|Item|Description|
+|-|-|
+|![](../../images/clip-cue-add.png)|Clicking the Add button opens the create clip dialog so you may add a new clip to the cue.|
+|![](../../images/clip-cue-cue.png)|Clicking the Edit / Cue button opens the Cue dialog for the clip. This button only works for clips that support cueing, such as audio and video.|
+|![](../../images/clip-cue-clear.png)|Clicking the Clear button will clear the active layer. To clear Layer 3 you would first click L3 to the right of the Clear button, then click the Clear button.|
+|![](../../images/clip-cue-layer.png)|Clicking the layer buttons allow you to choose the active Layer. The selected active layer is used for the next clip to be played.|
+|![](../../images/clip-cue-transport.png)|The triangle icon starts playing the clip, this is equivalent to double clicking a row in the grid. The double triangle icons advance to the next and previous clip.|
+|![](../../images/clip-cue-profile.png)|Clicking the Profile Selection will allow you to choose the [Display Profile](../toolbar/display.md) used by the Space Clip.|
