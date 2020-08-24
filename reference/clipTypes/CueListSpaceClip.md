@@ -48,21 +48,22 @@ Files may be dragged from Windows Explorer. If you are in [Edit mode](../toolbar
 ## Configure a Space Clip
 The Space clip icon on the dashboard may be renamed, linked to other clips, scheduled, assigned to a layer and have a transition applied just like a normal clip by using the [clip settings](../clipSettings/clipSettings.md) menu.
 
-To edit the clips within a space clip first open the cue dialog by right clicking and slecting 'Edit Cue'. This dialog will float in the middle of the dashboard by default but maybe docked inside the dashboard or added to a tab view.
+The 'Auto Rewind' setting determnines if the Space Clip always begins with the first item in the cue or if it continues from the item after the last played item.
+
+### Cue List Edit
+To edit the clips within a Space clip first open the cue dialog by right clicking and slecting 'Edit Cue'. This dialog will float in the middle of the dashboard by default but maybe docked inside the dashboard or added to a tab view.
 
 ![](../../images/clip-cue-example1.png)
 
 The cue dialog grid shows for each clip in the cue the handle, name, type, duration (if applicable), [layer](../layers.md), [link type](../clipSettings/link.md), link destination, link duration (if applicable) and [schedule](../clipSettings/schedule.md). Note that if a clip has muliple links or schedules then only one is displayed in this view but they are all still active.
+
+*Note:* Space clips offer their own layers and the clips with the Space Clip may also be assigned to individual layers. [Learn more about Layers](../layers.md).
 
 ### Cue List Ordering
 The order in which clips will play from the cue is determined by the handle number. You may click and drag on the purple box at the far left of the dialog to re-order clips. 
 
 ### Settings
 You can click once on any row to select it and then right-click to display the clip menu. You will have the same [clip settings](../clipSettings/clipSettings.md) and options as you would if the clip were on the main dashboard.
-
-The 'Auto Rewind' setting determnines if the Space Clip always begins with the first item in the cue or if it continues from the item after the last played item.
-
-Note that Space Clips offer their own layers and the clips with the Space Clip may also be assigned to individual layers. [Learn more about Layers](../layers.md).
 
 ## Use a Space Clip in a show
 To play the items listed in a Space clip you click the Space clip in the main dashboard to activate it. The clip listed first (or the clip after the one last used) in the cue dialog will then appear on the screen or begin playing. 
