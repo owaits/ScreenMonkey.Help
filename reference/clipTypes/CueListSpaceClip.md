@@ -50,7 +50,7 @@ The Space clip icon on the dashboard may be renamed, linked to other clips, sche
 
 The 'Auto Rewind' setting determnines if the Space Clip always begins with the first item in the cue or if it continues from the item after the last played item.
 
-### Cue List Edit
+### Cue List Edit
 To edit the clips within a Space clip first open the cue dialog by right clicking and slecting 'Edit Cue'. This dialog will float in the middle of the dashboard by default but maybe docked inside the dashboard or added to a tab view.
 
 ![](../../images/clip-cue-example1.png)
