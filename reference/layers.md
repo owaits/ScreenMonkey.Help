@@ -24,6 +24,8 @@ To clear a clip on a different layer, you first need to set that layer as active
 
 ![](../../images/layers-dashboard-clear.png)
 
+*Tip:* Control-Click on a layer preview thumbnail to immediately clear the layer.
+
 ## Assigning Clips to Specific Layers
 To assign a clip to a specific layer so it will always play on that layer rather than the active layer right click the clip open the [Layer menu](clipSettings/layer.md) and choose which layer the clip will play on.
 
