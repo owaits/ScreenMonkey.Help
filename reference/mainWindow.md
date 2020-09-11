@@ -35,6 +35,8 @@ On the left side of the Dashboard is the Layers panel. Layers allow you to play 
 
 If you wish to clear a layer you first select it here then click the Clear Layer clip in the first slot (top left) of the dashboard.
 
+*Tip:* Control-Click on any layer preview icon to clear the coresponding layer.
+
 [Learn more about layers](layers.md)
 
 ![](../../images/layers-panel.png)
