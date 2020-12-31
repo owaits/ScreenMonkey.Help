@@ -113,6 +113,8 @@
       href: clipTypes/folderSearch.md
     - name: Freeze
       href: clipTypes/FreezeClip.md
+    - name: HTML
+      href: clipTypes/html.md
     - name: Image
       href: clipTypes/ImageClip.md
     - name: Live Audio

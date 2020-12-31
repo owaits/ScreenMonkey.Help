@@ -18,6 +18,7 @@ Screen Monkey has a large library of clips for you to use in your shows.
 |[ESV Passage](esv.md)|Data feed|Search for and display ESV Bible passages|
 |[Folder Search](folderSearch.md)|Media list|Automatically updating media playlist|
 |[Freeze](FreezeClip.md)|Generator|Pause the output of any clip|
+|[HTML](html.md)|File|Render a HTML markup document|
 |[Image](ImageClip.md)|Media file|Display images from files|
 |[Live Audio](LiveAudioClip.md)|Capture device|Use audio from an input connected to your computer|
 |[Live Stream](LiveStream.md)|Stream|Play internet video livestreams|
