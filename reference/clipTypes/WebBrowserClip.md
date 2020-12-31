@@ -12,6 +12,11 @@ Click an empty dashboard slot and choose to add a Web Browser clip. You are pres
 
 Once the site you want to present is in the cue preview dialog you can close it by clicking on the red cross in the top right. A new clip will now appear on the dashboard pointing to the site. Left click this clip to play it. The page you last opened will appear on the output.
 
+## Configure a Web Browser Clip
+After you have created the clip you can choose the browser engine that will be used to render the website. Some websites are optimised for particular browsers and this option may help if the website is not displaying as it should. The options are 'Internet Explorer', 'Edge', and 'Chrome'. The default is 'Edge'.
+
+![](../../images/clip-webbrowser-options.png)
+
 ## Use a Web Browser Clip in a show
 When presenting a show, click the clip on the dashboard to begin playing it. The clip will display the page that was saved when the clip was created.
 
@@ -20,6 +25,6 @@ If you need to interact with the website whilst the clip is live, to maybe give 
 - By right clicking on the clip icon and choosing 'Edit/Cue'
 - By using the [live monitor](../toolbar/preview.md)
 
-In either case you now have access to a fully functional web browser inside Screen Monkey. As you click on links and nagivate the website the output will update. There are two arrows to the left of the text field where you typed the URL. These arrows allow you to move backward and forward just like the navigation buttons in any browser.
+In either case you now have access to a fully functional web browser inside Screen Monkey. As you click on links and nagivate the website the output will update. There are two arrows to the left of the text field where you typed the URL. These arrows allow you to move backward and forward just like the navigation buttons in any browser. If you need to force the output to update you can click the 'Live' button to the right of the website address.
 
 ![](../../images/clip-webbrowser-preview.png)
