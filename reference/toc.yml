@@ -183,16 +183,22 @@
     href: macros/atem.md
   - name: Blackmagic VideoHub
     href: macros/videohub.md
+  - name: Blackmagic SmartView
+    href: macros/smartview.md
   - name: HTTP
     href: macros/http.md
   - name: Interactions
     href: macros/InteractionMacro.md
   - name: LightwaveRF
     href: macros/lightwave.md
+  - name: Matrox Monarch HD
+    href: macros/monarch.md
   - name: MIDI
     href: macros/midi.md
   - name: MIDI Show Control
     href: macros/midiShowControl.md
+  - name: Panasonic PTZ Camera
+    href: macros/panasonicPtz.md
   - name: PJLink
     href: macros/pjlink.md
   - name: Raven
