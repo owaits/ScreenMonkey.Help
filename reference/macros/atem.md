@@ -16,7 +16,7 @@ The first time you add an ATEM macro clip you will need to create an ATEM device
 
 - Create a new ATEM clip
 - Click ‘New’ in the device section of the ATEM clip dialog
--  A new device settings dialog will appear
+- A new device settings dialog will appear
 - Enter a name and the IP address of the ATEM you want to control. The name is used in Screen Monkey for identifying multiple ATEM devices and can be anything you choose.
 
 ![](../../images/macro-atem-new.png)
