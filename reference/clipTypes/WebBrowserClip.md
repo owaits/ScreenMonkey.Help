@@ -3,7 +3,7 @@
 
 The Web Browser Clip allows you to present any webpage and interact with it.
 
-*Note:* This clip is intended for displaying web pages. There are dedicated clip types for presenting [YouTube](youtube.md) or [Vimeo](vimeo.md) videos.
+*Note:* This clip is intended for displaying web pages. There are dedicated clip types for presenting [YouTube](youtube.md) or [Vimeo](vimeo.md) videos. There is also a clip for displaying static [HTML files](html.md).
 
 ## Create a Web Browser Clip
 Click an empty dashboard slot and choose to add a Web Browser clip. You are presented with a 'Cue Web Clip' dialog. The default site `www.google.com` will open. Type the URL of the site you wish to display in the URL text box at the top of the dialog or search using google.
