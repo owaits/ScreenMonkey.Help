@@ -8,8 +8,8 @@ The Blackmagic SmartView software must be used to set the IP address of your mon
 ## Creating the device
 Before you use the Smartview macro you must create a device. To do this:
 
-- Create a new SmartView clip
-- Click ‘New’ in the device section of the SmartView clip dialog
+- Create a new SmartView macro clip
+- Click ‘New’ on the toolbar of the SmartView clip dialog
 - A new device settings dialog will appear
 - Enter a name and the IP address of the SmartView you want to control. The name is used in Screen Monkey for identifying multiple SmartView devices and can be anything you wish.
 
