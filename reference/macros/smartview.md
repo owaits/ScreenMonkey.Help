@@ -1,3 +1,4 @@
+![](../../images/smartviewlogo.png)
 # Blackmagic SmartView
 
 The SmartView macro allows you to control the [Blackmagic SmartView and SmartScope](https://www.blackmagicdesign.com/products/smartview) SDI video monitors.
@@ -12,4 +13,7 @@ Before you use the Smartview macro you must create a device. To do this:
 - Click ‘New’ on the toolbar of the SmartView clip dialog
 - A new device settings dialog will appear
 - Enter a name and the IP address of the SmartView you want to control. The name is used in Screen Monkey for identifying multiple SmartView devices and can be anything you wish.
+
+## Creating macro clips
+Once you have a device you will be able to create clips coresponding to the actions shown in the table. Simply pick an action you wish to perform and add it as a new clip.
 
