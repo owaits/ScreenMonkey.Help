@@ -15,5 +15,6 @@ Before you use the Smartview macro you must create a device. To do this:
 - Enter a name and the IP address of the SmartView you want to control. The name is used in Screen Monkey for identifying multiple SmartView devices and can be anything you wish.
 
 ## Creating macro clips
-Once you have a device you will be able to create clips coresponding to the actions shown in the table. Simply pick an action you wish to perform and add it as a new clip.
+Once you have a device configured and connected you will be able to create clips coresponding to the actions shown in the table. Simply pick an action you wish to perform and add it as a new clip. You can create multiple clips for each SmartView.
 
+![](../../images/macro-smartview.png)
