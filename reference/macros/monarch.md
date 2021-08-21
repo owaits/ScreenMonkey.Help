@@ -9,4 +9,10 @@ Available Monarch HD clips:
 * Stop Streaming
 * Toggle Streaming
 
-To add a Monarch HD for control, create a new Monarch HD clip.  Click the 'new' icon, enter the IP address and username and password.
+To add a Monarch HD for control, create a new Monarch HD clip then click the 'new' button. A dialog will open - enter a name to identify the device, IP address, username and password.
+
+![](../../images/macro-matrox-settings.PNG)
+
+After saving the device settings you will be able to create macro clips from the actions shown in the device dialog.
+
+![](../../images/macro-matrox-device.PNG)
